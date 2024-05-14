@@ -1,0 +1,1375 @@
+2023-04-15 00:40:57.0252 INFO CityRepo: City list fetched successfully
+2023-04-15 00:40:57.0685 INFO Cities fetched from database successfully
+2023-04-15 00:42:15.2956 INFO CityRepo: City list fetched successfully
+2023-04-15 00:42:15.2956 INFO Cities fetched from database successfully
+2023-04-15 00:45:44.8579 INFO CityRepo: City list fetched successfully
+2023-04-15 00:45:44.8579 INFO Cities fetched from database successfully
+2023-04-15 00:53:31.5222 INFO CityRepo: City list fetched successfully
+2023-04-15 00:53:31.5222 INFO Cities fetched from database successfully
+2023-04-15 00:57:10.4849 INFO CityRepo: City list fetched successfully
+2023-04-15 00:57:10.4849 INFO Cities fetched from database successfully
+2023-04-15 00:57:45.6952 INFO CityRepo: City list fetched successfully
+2023-04-15 00:57:45.6952 INFO Cities fetched from database successfully
+2023-04-15 00:57:56.0069 INFO CityRepo: City list fetched successfully
+2023-04-15 00:57:56.0074 INFO Cities fetched from database successfully
+2023-04-15 00:58:52.7702 INFO CityRepo: City list fetched successfully
+2023-04-15 00:58:52.7702 INFO Cities fetched from database successfully
+2023-04-15 01:03:00.2508 INFO CityRepo: City list fetched successfully
+2023-04-15 01:03:00.2508 INFO Cities fetched from database successfully
+2023-04-15 01:03:48.6364 INFO UserRepo: user list displayed successfully
+2023-04-15 01:03:48.6364 INFO Users fetched from database successfully
+2023-04-15 01:04:07.0294 ERROR User could not be found
+2023-04-15 01:04:11.9269 ERROR User could not be found
+2023-04-15 01:04:19.3652 ERROR User could not be found
+2023-04-15 01:10:42.1612 ERROR    at DataAccessLayer.UserService.Add(UserDTO newUser) in F:\TaxiBookingService\DataAccessLayer\Services\Users\UserService.cs:line 56
+2023-04-15 01:10:42.1612 ERROR User could not be added
+2023-04-15 01:12:21.9940 ERROR    at DataAccessLayer.UserService.Add(UserDTO newUser) in F:\TaxiBookingService\DataAccessLayer\Services\Users\UserService.cs:line 56
+2023-04-15 01:12:21.9940 ERROR User could not be added
+2023-04-15 01:15:22.2344 ERROR    at DataAccessLayer.UserService.Add(UserDTO newUser) in F:\TaxiBookingService\DataAccessLayer\Services\Users\UserService.cs:line 56
+2023-04-15 01:15:22.2344 ERROR User could not be added
+2023-04-15 01:24:12.9995 INFO UserRepo: user added successfully
+2023-04-15 01:24:16.4100 INFO User added sucessfully
+2023-04-15 01:25:17.7114 ERROR User could not be found
+2023-04-15 01:25:56.2563 ERROR User could not be found
+2023-04-15 01:29:33.4351 INFO UserRepo: user list displayed successfully
+2023-04-15 01:29:34.1354 INFO User logged in successfully
+2023-04-15 01:29:42.3674 INFO Areas returned successfully
+2023-04-15 01:29:42.3674 INFO Areas fetched from database successfully
+2023-04-15 01:29:51.7662 INFO CityRepo: City list fetched successfully
+2023-04-15 01:29:51.7662 INFO Cities fetched from database successfully
+2023-04-15 01:30:35.1488 ERROR    at DataAccessLayer.AreaService.Add(AreaDTO newArea) in F:\TaxiBookingService\DataAccessLayer\Services\Areas\AreaService.cs:line 50
+2023-04-15 01:30:35.1488 ERROR Area could not be added
+2023-04-15 01:36:28.7383 INFO UserRepo: user list displayed successfully
+2023-04-15 01:36:29.4865 INFO User logged in successfully
+2023-04-15 01:36:38.1685 INFO CityRepo: City list fetched successfully
+2023-04-15 01:36:38.1685 INFO Cities fetched from database successfully
+2023-04-15 01:36:57.1046 INFO Area added successfully
+2023-04-15 01:36:57.1046 INFO Area added sucessfully
+2023-04-15 01:37:10.7067 INFO Areas returned successfully
+2023-04-15 01:37:10.7067 INFO Areas fetched from database successfully
+2023-04-15 01:37:21.2275 INFO Areas returned successfully
+2023-04-15 01:37:21.2275 INFO Areas fetched from database successfully
+2023-04-15 02:32:30.5795 INFO UserRepo: user list displayed successfully
+2023-04-15 02:32:30.7274 INFO User logged in successfully
+2023-04-15 02:32:35.0580 INFO Areas returned successfully
+2023-04-15 02:32:35.0580 INFO Areas fetched from database successfully
+2023-04-15 02:32:48.5394 ERROR    at DataAccessLayer.AreaService.Search(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Areas\AreaService.cs:line 100
+2023-04-15 02:32:48.5394 ERROR 1003 could not be found
+2023-04-15 02:36:12.0545 INFO UserRepo: user list displayed successfully
+2023-04-15 02:36:12.0545 INFO User logged in successfully
+2023-04-15 02:36:14.0460 INFO Areas returned successfully
+2023-04-15 02:36:14.0460 INFO Areas fetched from database successfully
+2023-04-15 02:36:21.9060 ERROR    at DataAccessLayer.AreaService.Search(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Areas\AreaService.cs:line 100
+2023-04-15 02:36:21.9060 ERROR 1 could not be found
+2023-04-15 02:37:59.8864 INFO UserRepo: user list displayed successfully
+2023-04-15 02:37:59.8864 INFO User logged in successfully
+2023-04-15 02:38:01.8085 INFO Areas returned successfully
+2023-04-15 02:38:01.8085 INFO Areas fetched from database successfully
+2023-04-15 02:39:38.3926 ERROR    at DataAccessLayer.AreaService.Search(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Areas\AreaService.cs:line 100
+2023-04-15 02:39:38.3926 ERROR 1003 could not be found
+2023-04-15 02:40:15.3897 ERROR    at DataAccessLayer.AreaService.Search(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Areas\AreaService.cs:line 100
+2023-04-15 02:40:15.3897 ERROR 1003 could not be found
+2023-04-15 02:42:29.9545 INFO Area fetched successfully
+2023-04-15 02:42:35.8677 INFO 1003 found sucessfully
+2023-04-15 02:43:02.1545 INFO UserRepo: user list displayed successfully
+2023-04-15 02:43:02.3238 INFO User logged in successfully
+2023-04-15 02:43:25.8828 INFO Areas returned successfully
+2023-04-15 02:43:25.8828 INFO Areas fetched from database successfully
+2023-04-15 02:43:31.6782 INFO Area fetched successfully
+2023-04-15 02:43:31.6782 INFO 1003 found sucessfully
+2023-04-15 02:43:42.1284 INFO Areas returned successfully
+2023-04-15 02:43:42.1284 INFO Areas fetched from database successfully
+2023-04-15 02:44:02.4438 INFO Area fetched successfully
+2023-04-15 02:44:02.4438 INFO 1003 found sucessfully
+2023-04-15 02:45:45.2993 INFO Area updated successfully
+2023-04-15 02:45:45.2993 INFO 1003 area updated sucessfully
+2023-04-15 02:45:56.6956 INFO Areas returned successfully
+2023-04-15 02:45:56.6956 INFO Areas fetched from database successfully
+2023-04-15 02:46:21.3865 INFO Areas returned successfully
+2023-04-15 02:46:21.3865 INFO Areas fetched from database successfully
+2023-04-15 02:46:27.2156 INFO Area fetched successfully
+2023-04-15 02:46:27.2156 INFO 1003 found sucessfully
+2023-04-15 02:49:40.5295 INFO UserRepo: user list displayed successfully
+2023-04-15 02:49:40.5295 INFO User logged in successfully
+2023-04-15 02:49:42.6875 INFO Areas returned successfully
+2023-04-15 02:49:42.6875 INFO Areas fetched from database successfully
+2023-04-15 02:49:48.4396 INFO Area fetched successfully
+2023-04-15 02:49:48.4396 INFO 1003 found sucessfully
+2023-04-15 02:50:10.3137 ERROR 1003 could not be updated
+2023-04-15 02:51:31.4660 INFO Areas returned successfully
+2023-04-15 02:51:31.4660 INFO Areas fetched from database successfully
+2023-04-15 02:53:48.7814 INFO Area fetched successfully
+2023-04-15 02:53:48.7814 INFO 1003 found sucessfully
+2023-04-15 02:53:50.7314 INFO Area fetched successfully
+2023-04-15 02:53:50.7314 INFO 1003 found sucessfully
+2023-04-15 02:56:39.6423 INFO UserRepo: user list displayed successfully
+2023-04-15 02:56:39.9062 INFO User logged in successfully
+2023-04-15 02:56:43.0138 INFO Areas returned successfully
+2023-04-15 02:56:43.0138 INFO Areas fetched from database successfully
+2023-04-15 02:56:47.2724 INFO Area fetched successfully
+2023-04-15 02:56:47.2724 INFO 1003 found sucessfully
+2023-04-15 02:57:25.0202 INFO Area updated successfully
+2023-04-15 02:57:29.3846 INFO 1003 area updated sucessfully
+2023-04-15 02:57:39.1855 INFO Areas returned successfully
+2023-04-15 02:57:39.1855 INFO Areas fetched from database successfully
+2023-04-15 18:22:07.3452 ERROR    at DataAccessLayer.BookingService.History(String email) in F:\TaxiBookingService\DataAccessLayer\Services\Bookings\BookingService.cs:line 28
+2023-04-15 18:22:07.4703 ERROR Cancelled bookings could not be found
+2023-04-15 18:33:02.5779 ERROR    at DataAccessLayer.BookingService.History(String email) in F:\TaxiBookingService\DataAccessLayer\Services\Bookings\BookingService.cs:line 30
+2023-04-15 18:33:02.6889 ERROR Cancelled bookings could not be found
+2023-04-15 18:42:05.6580 INFO BookingRep: Booking history fetched successfully
+2023-04-15 18:42:09.9115 INFO Cancelled bookings found sucessfully
+2023-04-15 18:43:22.2556 INFO DriverRepo: driver approved by admin
+2023-04-15 18:43:22.2556 ERROR user@example.com could not be found
+2023-04-15 18:43:50.1159 INFO DriverRepo: driver approved by admin
+2023-04-15 18:43:50.1159 ERROR user@example.com could not be found
+2023-04-15 18:43:53.3929 INFO DriverRepo: driver approved by admin
+2023-04-15 18:43:53.3929 ERROR user@example.com could not be found
+2023-04-15 18:44:03.3744 INFO DriverRepo: driver approved by admin
+2023-04-15 18:44:03.3744 ERROR user@example.com could not be found
+2023-04-15 18:44:04.4145 INFO DriverRepo: driver approved by admin
+2023-04-15 18:44:04.4145 ERROR user@example.com could not be found
+2023-04-15 18:44:11.9878 INFO DriverRepo: driver approved by admin
+2023-04-15 18:44:11.9878 ERROR yashika@gmail.com could not be found
+2023-04-15 18:45:42.8334 INFO DriverRepo: driver approved by admin
+2023-04-15 18:45:45.9311 ERROR user@example.com could not be found
+2023-04-15 18:59:39.1783 INFO UserRepo: user list displayed successfully
+2023-04-15 18:59:39.7136 INFO User logged in successfully
+2023-04-15 18:59:46.5482 INFO Areas returned successfully
+2023-04-15 18:59:46.5482 INFO Areas fetched from database successfully
+2023-04-15 18:59:53.8883 INFO StateRepo: State list displayed successfully
+2023-04-15 18:59:53.9168 INFO States fetched from database successfully
+2023-04-15 18:59:56.6727 INFO CityRepo: City list fetched successfully
+2023-04-15 18:59:56.6727 INFO Cities fetched from database successfully
+2023-04-15 19:00:12.8637 ERROR    at DataAccessLayer.AreaService.Add(AreaDTO areadto) in F:\TaxiBookingService\DataAccessLayer\Services\Areas\AreaService.cs:line 67
+2023-04-15 19:00:12.8637 ERROR Area could not be added
+2023-04-15 19:00:15.6062 INFO StateRepo: State list displayed successfully
+2023-04-15 19:00:15.6062 INFO States fetched from database successfully
+2023-04-15 19:00:43.6110 INFO StateRepo: State list displayed successfully
+2023-04-15 19:00:43.6110 INFO States fetched from database successfully
+2023-04-15 19:00:45.6186 INFO CityRepo: City list fetched successfully
+2023-04-15 19:00:45.6186 INFO Cities fetched from database successfully
+2023-04-15 19:04:46.7760 INFO UserRepo: user list displayed successfully
+2023-04-15 19:04:46.7760 INFO User logged in successfully
+2023-04-15 19:04:49.6989 INFO StateRepo: State list displayed successfully
+2023-04-15 19:04:49.7077 INFO States fetched from database successfully
+2023-04-15 19:05:04.9220 INFO CityRepo: City list fetched successfully
+2023-04-15 19:05:04.9220 INFO Cities fetched from database successfully
+2023-04-15 19:05:53.1448 INFO Area added successfully
+2023-04-15 19:05:53.1448 INFO Area added sucessfully
+2023-04-15 19:06:06.3967 INFO Areas returned successfully
+2023-04-15 19:06:06.3967 INFO Areas fetched from database successfully
+2023-04-15 19:06:39.0179 INFO StateRepo: State list displayed successfully
+2023-04-15 19:06:39.0179 INFO States fetched from database successfully
+2023-04-15 19:06:49.1208 INFO CityRepo: City list fetched successfully
+2023-04-15 19:06:49.1208 INFO Cities fetched from database successfully
+2023-04-15 19:06:56.5706 INFO Areas returned successfully
+2023-04-15 19:06:56.5706 INFO Areas fetched from database successfully
+2023-04-15 19:07:00.0019 INFO StateRepo: State list displayed successfully
+2023-04-15 19:07:00.0019 INFO States fetched from database successfully
+2023-04-15 19:07:54.7254 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 19:07:54.7254 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 19:07:54.7254 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 19:07:54.7254 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 19:07:54.7254 INFO DriverRepo: Driver displayed successfully
+2023-04-15 19:07:54.7254 INFO Users fetched from database successfully
+2023-04-15 19:11:07.1218 INFO Areas returned successfully
+2023-04-15 19:11:07.1218 INFO Areas fetched from database successfully
+2023-04-15 19:13:20.1108 INFO UserRepo: user added successfully
+2023-04-15 19:13:20.1108 INFO User added sucessfully
+2023-04-15 19:13:53.1497 INFO UserRepo: user list displayed successfully
+2023-04-15 19:13:53.1497 INFO User logged in successfully
+2023-04-15 19:14:00.0117 INFO UserRepo: User fetched successfully
+2023-04-15 19:14:00.0117 INFO aneesh@gmail.com found sucessfully
+2023-04-15 19:18:20.0252 INFO UserRepo: user list displayed successfully
+2023-04-15 19:18:20.0252 INFO User logged in successfully
+2023-04-15 19:18:23.6260 INFO Location for driver added successfully
+2023-04-15 19:18:23.6884 INFO Payment Modes fetched from database successfully
+2023-04-15 19:19:06.5382 INFO CancelledBooking: All the cancelled bookings are fetched
+2023-04-15 19:19:06.5382 INFO Cancelled bookings found sucessfully
+2023-04-15 19:19:11.6563 ERROR    at DataAccessLayer.DriverService.<>c__DisplayClass8_0.<GetAvailableVehicles>b__2(Driver e) in F:\TaxiBookingService\DataAccessLayer\Services\Drivers\DriverService.cs:line 115
+   at System.Linq.Enumerable.SelectListIterator`2.TryGetFirst(Boolean& found)
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   at DataAccessLayer.DriverService.GetAvailableVehicles(Decimal latitude, Decimal longitude) in F:\TaxiBookingService\DataAccessLayer\Services\Drivers\DriverService.cs:line 115
+2023-04-15 19:19:11.6563 ERROR User could not be found
+2023-04-15 19:19:24.7592 INFO Location for driver added successfully
+2023-04-15 19:19:24.7592 INFO Payment Modes fetched from database successfully
+2023-04-15 19:20:50.4524 INFO CancelledBooking: All the cancelled bookings are fetched
+2023-04-15 19:20:50.4524 INFO Cancelled bookings found sucessfully
+2023-04-15 19:23:08.5531 ERROR    at DataAccessLayer.DriverService.<>c__DisplayClass8_0.<GetAvailableVehicles>b__2(Driver e) in F:\TaxiBookingService\DataAccessLayer\Services\Drivers\DriverService.cs:line 115
+   at System.Linq.Enumerable.SelectListIterator`2.TryGetFirst(Boolean& found)
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   at DataAccessLayer.DriverService.GetAvailableVehicles(Decimal latitude, Decimal longitude) in F:\TaxiBookingService\DataAccessLayer\Services\Drivers\DriverService.cs:line 115
+2023-04-15 19:23:08.5531 ERROR User could not be found
+2023-04-15 19:26:24.4012 INFO Location for driver added successfully
+2023-04-15 19:26:24.4111 INFO Payment Modes fetched from database successfully
+2023-04-15 19:26:55.5209 ERROR    at DataAccessLayer.DriverService.<>c__DisplayClass8_0.<GetAvailableVehicles>b__2(Driver e) in F:\TaxiBookingService\DataAccessLayer\Services\Drivers\DriverService.cs:line 115
+   at System.Linq.Enumerable.SelectListIterator`2.TryGetFirst(Boolean& found)
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   at DataAccessLayer.DriverService.GetAvailableVehicles(Decimal latitude, Decimal longitude) in F:\TaxiBookingService\DataAccessLayer\Services\Drivers\DriverService.cs:line 115
+2023-04-15 19:26:55.5209 ERROR User could not be found
+2023-04-15 19:41:26.6707 ERROR    at DataAccessLayer.DriverService.<>c__DisplayClass8_0.<GetAvailableVehicles>b__2(Driver e) in F:\TaxiBookingService\DataAccessLayer\Services\Drivers\DriverService.cs:line 115
+   at System.Linq.Enumerable.SelectListIterator`2.TryGetFirst(Boolean& found)
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   at DataAccessLayer.DriverService.GetAvailableVehicles(Decimal latitude, Decimal longitude) in F:\TaxiBookingService\DataAccessLayer\Services\Drivers\DriverService.cs:line 115
+2023-04-15 19:41:26.7910 ERROR User could not be found
+2023-04-15 20:27:44.3845 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 20:27:47.0408 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 20:27:48.6028 ERROR    at DataAccessLayer.DriverService.GetAvailableVehicles(Decimal latitude, Decimal longitude) in F:\TaxiBookingService\DataAccessLayer\Services\Drivers\DriverService.cs:line 115
+2023-04-15 20:27:48.6028 ERROR User could not be found
+2023-04-15 20:28:06.2823 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 20:28:15.4646 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 20:35:23.9010 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 20:35:30.9145 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 20:38:11.0940 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 20:38:17.5151 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 20:38:25.2152 INFO DriverRepo: Get available vehicles fetched
+2023-04-15 20:38:29.6354 INFO User logged in successfully
+2023-04-15 20:39:59.1645 INFO UserRepo: user list displayed successfully
+2023-04-15 20:39:59.8430 INFO User logged in successfully
+2023-04-15 20:40:01.9731 INFO Location for driver added successfully
+2023-04-15 20:40:02.0714 INFO Payment Modes fetched from database successfully
+2023-04-15 20:40:51.1839 INFO CancelledBooking: All the cancelled bookings are fetched
+2023-04-15 20:40:51.1839 INFO Cancelled bookings found sucessfully
+2023-04-15 20:40:59.8497 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 20:41:02.1962 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 20:41:03.8099 INFO DriverRepo: Get available vehicles fetched
+2023-04-15 20:41:03.8099 INFO User logged in successfully
+2023-04-15 20:41:41.6541 INFO Payment for booking added successfully
+2023-04-15 20:41:41.6541 INFO BookRepo: Payment created successfully
+2023-04-15 20:41:41.8023 INFO BookRepo: Booking added successfully
+2023-04-15 20:41:41.8023 INFO Booking Status added sucessfully
+2023-04-15 20:41:42.6738 ERROR    at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Evaluate(Expression expression, Boolean generateParameter)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitBinary(BinaryExpression node)
+   at System.Linq.Expressions.BinaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitLambda[T](Expression`1 node)
+   at System.Linq.Expressions.Expression`1.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitUnary(UnaryExpression node)
+   at System.Linq.Expressions.UnaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression, Boolean clearEvaluatedValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   at DataAccessLayer.GenericRepository`1.Get(Expression`1 predicate) in F:\TaxiBookingService\DataAccessLayer\Repositories\GenericRepository\GenericRepository.cs:line 23
+   at DataAccessLayer.BookingService.Search(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Bookings\BookingService.cs:line 66
+2023-04-15 20:41:42.6738 ERROR 0 could not be found
+2023-04-15 20:41:48.9183 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 20:41:51.1845 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 20:41:52.2734 INFO DriverRepo: Get available vehicles fetched
+2023-04-15 20:41:52.2734 INFO User logged in successfully
+2023-04-15 20:42:51.6398 INFO Payment for booking added successfully
+2023-04-15 20:42:51.6398 INFO BookRepo: Payment created successfully
+2023-04-15 20:42:51.6735 INFO BookRepo: Booking added successfully
+2023-04-15 20:42:51.6735 INFO Booking Status added sucessfully
+2023-04-15 20:50:04.8330 INFO UserRepo: user list displayed successfully
+2023-04-15 20:50:05.4101 INFO User logged in successfully
+2023-04-15 20:50:55.4409 INFO Location for driver added successfully
+2023-04-15 20:50:55.5084 INFO Payment Modes fetched from database successfully
+2023-04-15 20:51:45.3355 INFO CancelledBooking: All the cancelled bookings are fetched
+2023-04-15 20:51:45.3355 INFO Cancelled bookings found sucessfully
+2023-04-15 20:51:46.7668 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 20:51:47.0169 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 20:51:47.0520 INFO DriverRepo: Get available vehicles fetched
+2023-04-15 20:51:47.0520 INFO User logged in successfully
+2023-04-15 20:52:42.6407 INFO Payment for booking added successfully
+2023-04-15 20:52:42.6407 INFO BookRepo: Payment created successfully
+2023-04-15 20:52:42.7607 INFO BookRepo: Booking added successfully
+2023-04-15 20:52:42.7607 INFO Booking Status added sucessfully
+2023-04-15 20:55:21.4286 ERROR    at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Evaluate(Expression expression, Boolean generateParameter)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitBinary(BinaryExpression node)
+   at System.Linq.Expressions.BinaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitLambda[T](Expression`1 node)
+   at System.Linq.Expressions.Expression`1.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitUnary(UnaryExpression node)
+   at System.Linq.Expressions.UnaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression, Boolean clearEvaluatedValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   at DataAccessLayer.GenericRepository`1.Get(Expression`1 predicate) in F:\TaxiBookingService\DataAccessLayer\Repositories\GenericRepository\GenericRepository.cs:line 23
+   at DataAccessLayer.BookingService.Search(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Bookings\BookingService.cs:line 66
+2023-04-15 20:55:21.4286 ERROR 0 could not be found
+2023-04-15 20:55:39.9899 ERROR    at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Evaluate(Expression expression, Boolean generateParameter)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitBinary(BinaryExpression node)
+   at System.Linq.Expressions.BinaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitLambda[T](Expression`1 node)
+   at System.Linq.Expressions.Expression`1.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitUnary(UnaryExpression node)
+   at System.Linq.Expressions.UnaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression, Boolean clearEvaluatedValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   at DataAccessLayer.GenericRepository`1.Get(Expression`1 predicate) in F:\TaxiBookingService\DataAccessLayer\Repositories\GenericRepository\GenericRepository.cs:line 23
+   at DataAccessLayer.BookingService.Search(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Bookings\BookingService.cs:line 66
+2023-04-15 20:55:39.9899 ERROR 0 could not be found
+2023-04-15 20:55:52.1136 ERROR    at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Evaluate(Expression expression, Boolean generateParameter)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitBinary(BinaryExpression node)
+   at System.Linq.Expressions.BinaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitLambda[T](Expression`1 node)
+   at System.Linq.Expressions.Expression`1.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitUnary(UnaryExpression node)
+   at System.Linq.Expressions.UnaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression, Boolean clearEvaluatedValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   at DataAccessLayer.GenericRepository`1.Get(Expression`1 predicate) in F:\TaxiBookingService\DataAccessLayer\Repositories\GenericRepository\GenericRepository.cs:line 23
+   at DataAccessLayer.BookingService.Search(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Bookings\BookingService.cs:line 66
+2023-04-15 20:55:52.1136 ERROR 0 could not be found
+2023-04-15 20:56:17.8236 ERROR    at DataAccessLayer.BookingService.Search(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Bookings\BookingService.cs:line 68
+2023-04-15 20:56:17.8236 ERROR 25 could not be found
+2023-04-15 21:01:55.6271 INFO UserRepo: user list displayed successfully
+2023-04-15 21:01:55.8858 INFO User logged in successfully
+2023-04-15 21:02:06.1933 INFO BookRepo: Booking found
+2023-04-15 21:02:06.1933 INFO 25 found sucessfully
+2023-04-15 21:02:21.7280 INFO BookRepo: Booking found
+2023-04-15 21:02:21.7280 INFO 25 found sucessfully
+2023-04-15 21:02:37.7184 INFO BookRepo: Booking found
+2023-04-15 21:02:37.7184 INFO 25 found sucessfully
+2023-04-15 21:02:53.7301 INFO BookRepo: Booking found
+2023-04-15 21:02:53.7301 INFO 25 found sucessfully
+2023-04-15 21:03:09.7114 INFO BookRepo: Booking found
+2023-04-15 21:03:09.7114 INFO 25 found sucessfully
+2023-04-15 21:03:25.7187 INFO BookRepo: Booking found
+2023-04-15 21:03:25.7187 INFO 25 found sucessfully
+2023-04-15 21:03:41.7096 INFO BookRepo: Booking found
+2023-04-15 21:03:41.7096 INFO 25 found sucessfully
+2023-04-15 21:03:57.7200 INFO BookRepo: Booking found
+2023-04-15 21:03:57.7203 INFO 25 found sucessfully
+2023-04-15 21:04:13.7122 INFO BookRepo: Booking found
+2023-04-15 21:04:13.7122 INFO 25 found sucessfully
+2023-04-15 21:04:29.7115 INFO BookRepo: Booking found
+2023-04-15 21:04:29.7115 INFO 25 found sucessfully
+2023-04-15 21:04:45.7131 INFO BookRepo: Booking found
+2023-04-15 21:04:45.7131 INFO 25 found sucessfully
+2023-04-15 21:05:01.7455 INFO BookRepo: Booking found
+2023-04-15 21:05:01.7455 INFO 25 found sucessfully
+2023-04-15 21:05:17.7444 INFO BookRepo: Booking found
+2023-04-15 21:05:17.7444 INFO 25 found sucessfully
+2023-04-15 21:05:33.7073 INFO BookRepo: Booking found
+2023-04-15 21:05:33.7073 INFO 25 found sucessfully
+2023-04-15 21:05:49.7292 INFO BookRepo: Booking found
+2023-04-15 21:05:49.7292 INFO 25 found sucessfully
+2023-04-15 21:06:05.7002 INFO BookRepo: Booking found
+2023-04-15 21:06:05.7002 INFO 25 found sucessfully
+2023-04-15 21:06:21.7076 INFO BookRepo: Booking found
+2023-04-15 21:06:21.7076 INFO 25 found sucessfully
+2023-04-15 21:06:37.7049 INFO BookRepo: Booking found
+2023-04-15 21:06:37.7049 INFO 25 found sucessfully
+2023-04-15 21:06:53.7266 INFO BookRepo: Booking found
+2023-04-15 21:06:53.7266 INFO 25 found sucessfully
+2023-04-15 21:07:09.7551 INFO BookRepo: Booking found
+2023-04-15 21:07:09.7551 INFO 25 found sucessfully
+2023-04-15 21:07:25.5075 INFO UserRepo: user added successfully
+2023-04-15 21:07:25.5075 INFO User added sucessfully
+2023-04-15 21:07:25.7173 INFO BookRepo: Booking found
+2023-04-15 21:07:25.7173 INFO 25 found sucessfully
+2023-04-15 21:07:41.7167 INFO BookRepo: Booking found
+2023-04-15 21:07:41.7167 INFO 25 found sucessfully
+2023-04-15 21:07:57.7203 INFO BookRepo: Booking found
+2023-04-15 21:07:57.7203 INFO 25 found sucessfully
+2023-04-15 21:08:13.7250 INFO BookRepo: Booking found
+2023-04-15 21:08:13.7250 INFO 25 found sucessfully
+2023-04-15 21:08:29.7240 INFO BookRepo: Booking found
+2023-04-15 21:08:29.7240 INFO 25 found sucessfully
+2023-04-15 21:08:45.7167 INFO BookRepo: Booking found
+2023-04-15 21:08:45.7167 INFO 25 found sucessfully
+2023-04-15 21:09:03.9700 INFO BookRepo: Booking found
+2023-04-15 21:09:03.9701 INFO 25 found sucessfully
+2023-04-15 21:09:05.8845 INFO UserRepo: user added successfully
+2023-04-15 21:09:05.8845 INFO User for driver created successfully
+2023-04-15 21:09:05.9399 INFO User added sucessfully
+2023-04-15 21:09:19.7212 INFO BookRepo: Booking found
+2023-04-15 21:09:19.7212 INFO 25 found sucessfully
+2023-04-15 21:09:35.7271 INFO BookRepo: Booking found
+2023-04-15 21:09:35.7271 INFO 25 found sucessfully
+2023-04-15 21:09:40.9636 INFO UserRepo: user list displayed successfully
+2023-04-15 21:09:40.9636 INFO User logged in successfully
+2023-04-15 21:09:53.5175 INFO BookRepo: Booking found
+2023-04-15 21:09:53.5175 INFO 25 found sucessfully
+2023-04-15 21:09:53.7656 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:09:53.8164 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:09:53.8698 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:09:53.9189 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:09:53.9735 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:09:53.9735 INFO DriverRepo: Driver displayed successfully
+2023-04-15 21:09:53.9735 INFO Users fetched from database successfully
+2023-04-15 21:10:08.7199 INFO BookRepo: Booking found
+2023-04-15 21:10:08.7199 INFO 25 found sucessfully
+2023-04-15 21:10:24.7017 INFO BookRepo: Booking found
+2023-04-15 21:10:24.7017 INFO 25 found sucessfully
+2023-04-15 21:10:40.7283 INFO BookRepo: Booking found
+2023-04-15 21:10:40.7283 INFO 25 found sucessfully
+2023-04-15 21:11:00.0635 INFO BookRepo: Booking found
+2023-04-15 21:11:00.0635 INFO 25 found sucessfully
+2023-04-15 21:11:00.1268 INFO DriverRepo: driver approved by admin
+2023-04-15 21:11:01.1953 INFO ravi@gmail.com approved sucessfully
+2023-04-15 21:11:15.7200 INFO BookRepo: Booking found
+2023-04-15 21:11:15.7200 INFO 25 found sucessfully
+2023-04-15 21:11:16.9786 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:11:17.0336 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:11:17.1093 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:11:17.1672 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:11:17.2396 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:11:17.2396 INFO DriverRepo: Driver displayed successfully
+2023-04-15 21:11:17.2396 INFO Users fetched from database successfully
+2023-04-15 21:11:31.7059 INFO BookRepo: Booking found
+2023-04-15 21:11:31.7059 INFO 25 found sucessfully
+2023-04-15 21:11:47.7199 INFO BookRepo: Booking found
+2023-04-15 21:11:47.7202 INFO 25 found sucessfully
+2023-04-15 21:12:03.7030 INFO BookRepo: Booking found
+2023-04-15 21:12:03.7030 INFO 25 found sucessfully
+2023-04-15 21:12:11.2949 ERROR User could not be found
+2023-04-15 21:12:15.7160 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:12:15.8007 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:12:15.8753 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:12:15.9590 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:12:16.0618 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:12:16.0618 INFO DriverRepo: Driver displayed successfully
+2023-04-15 21:12:16.0618 INFO User logged in successfully
+2023-04-15 21:12:19.7172 INFO BookRepo: Booking found
+2023-04-15 21:12:19.7172 INFO 25 found sucessfully
+2023-04-15 21:12:35.7166 INFO BookRepo: Booking found
+2023-04-15 21:12:35.7166 INFO 25 found sucessfully
+2023-04-15 21:12:51.7490 INFO BookRepo: Booking found
+2023-04-15 21:12:51.7490 INFO 25 found sucessfully
+2023-04-15 21:13:07.7198 INFO BookRepo: Booking found
+2023-04-15 21:13:07.7198 INFO 25 found sucessfully
+2023-04-15 21:13:23.6926 INFO BookRepo: Booking found
+2023-04-15 21:13:23.6926 INFO 25 found sucessfully
+2023-04-15 21:13:39.7135 INFO BookRepo: Booking found
+2023-04-15 21:13:39.7135 INFO 25 found sucessfully
+2023-04-15 21:13:55.7230 INFO BookRepo: Booking found
+2023-04-15 21:13:55.7230 INFO 25 found sucessfully
+2023-04-15 21:14:11.7182 INFO BookRepo: Booking found
+2023-04-15 21:14:11.7182 INFO 25 found sucessfully
+2023-04-15 21:14:27.7094 INFO BookRepo: Booking found
+2023-04-15 21:14:27.7094 INFO 25 found sucessfully
+2023-04-15 21:14:43.7176 INFO BookRepo: Booking found
+2023-04-15 21:14:43.7176 INFO 25 found sucessfully
+2023-04-15 21:14:59.7110 INFO BookRepo: Booking found
+2023-04-15 21:14:59.7110 INFO 25 found sucessfully
+2023-04-15 21:15:15.7123 INFO BookRepo: Booking found
+2023-04-15 21:15:15.7123 INFO 25 found sucessfully
+2023-04-15 21:15:31.7061 INFO BookRepo: Booking found
+2023-04-15 21:15:31.7061 INFO 25 found sucessfully
+2023-04-15 21:15:47.7112 INFO BookRepo: Booking found
+2023-04-15 21:15:47.7112 INFO 25 found sucessfully
+2023-04-15 21:15:57.1824 INFO BookRepo: Booking found
+2023-04-15 21:15:57.1824 INFO 25 found sucessfully
+2023-04-15 21:16:04.6852 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:16:04.7623 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:16:04.8430 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:16:04.9337 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:16:05.0305 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:16:05.0305 INFO DriverRepo: Driver displayed successfully
+2023-04-15 21:16:05.0305 INFO User logged in successfully
+2023-04-15 21:16:05.0917 INFO StateRepo: State list displayed successfully
+2023-04-15 21:16:05.1140 INFO States fetched from database successfully
+2023-04-15 21:16:15.1686 INFO BookRepo: Booking found
+2023-04-15 21:16:15.1686 INFO 25 found sucessfully
+2023-04-15 21:16:15.2035 INFO CityRepo: City list fetched successfully
+2023-04-15 21:16:15.2035 INFO Cities fetched from database successfully
+2023-04-15 21:16:18.8106 INFO Areas returned successfully
+2023-04-15 21:16:18.8106 INFO Areas fetched from database successfully
+2023-04-15 21:16:30.7059 INFO BookRepo: Booking found
+2023-04-15 21:16:30.7059 INFO 25 found sucessfully
+2023-04-15 21:16:33.7006 INFO StateRepo: State list displayed successfully
+2023-04-15 21:16:33.7063 INFO States fetched from database successfully
+2023-04-15 21:16:36.2309 INFO StateRepo: State list displayed successfully
+2023-04-15 21:16:36.2309 INFO States fetched from database successfully
+2023-04-15 21:16:41.5816 INFO StateRepo: State list displayed successfully
+2023-04-15 21:16:41.5816 INFO States fetched from database successfully
+2023-04-15 21:16:44.3143 INFO CityRepo: City list fetched successfully
+2023-04-15 21:16:44.3143 INFO Cities fetched from database successfully
+2023-04-15 21:16:46.1737 INFO Areas returned successfully
+2023-04-15 21:16:46.1737 INFO Areas fetched from database successfully
+2023-04-15 21:16:46.7072 INFO BookRepo: Booking found
+2023-04-15 21:16:46.7072 INFO 25 found sucessfully
+2023-04-15 21:17:02.7393 INFO BookRepo: Booking found
+2023-04-15 21:17:02.7393 INFO 25 found sucessfully
+2023-04-15 21:17:18.7246 INFO BookRepo: Booking found
+2023-04-15 21:17:18.7246 INFO 25 found sucessfully
+2023-04-15 21:17:34.7115 INFO BookRepo: Booking found
+2023-04-15 21:17:34.7115 INFO 25 found sucessfully
+2023-04-15 21:17:45.2677 INFO StateRepo: State list displayed successfully
+2023-04-15 21:17:45.2677 INFO States fetched from database successfully
+2023-04-15 21:17:47.5972 INFO StateRepo: State list displayed successfully
+2023-04-15 21:17:47.5972 INFO States fetched from database successfully
+2023-04-15 21:17:50.7105 INFO BookRepo: Booking found
+2023-04-15 21:17:50.7105 INFO 25 found sucessfully
+2023-04-15 21:18:09.8266 INFO BookRepo: Booking found
+2023-04-15 21:18:09.8266 INFO 25 found sucessfully
+2023-04-15 21:18:13.5975 INFO StateRepo: State list displayed successfully
+2023-04-15 21:18:13.5975 INFO States fetched from database successfully
+2023-04-15 21:18:16.4562 INFO CityRepo: City list fetched successfully
+2023-04-15 21:18:16.4562 INFO Cities fetched from database successfully
+2023-04-15 21:18:18.0044 INFO Areas returned successfully
+2023-04-15 21:18:18.0044 INFO Areas fetched from database successfully
+2023-04-15 21:18:35.1531 INFO BookRepo: Booking found
+2023-04-15 21:18:35.1531 INFO 25 found sucessfully
+2023-04-15 21:18:46.8843 INFO StateRepo: State list displayed successfully
+2023-04-15 21:18:46.8843 INFO States fetched from database successfully
+2023-04-15 21:19:11.6552 INFO BookRepo: Booking found
+2023-04-15 21:19:11.6552 INFO 25 found sucessfully
+2023-04-15 21:19:27.7439 INFO BookRepo: Booking found
+2023-04-15 21:19:27.7439 INFO 25 found sucessfully
+2023-04-15 21:19:34.2831 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:19:34.3401 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:19:34.3922 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:19:34.4544 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:19:34.5046 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:19:34.5046 INFO DriverRepo: Driver displayed successfully
+2023-04-15 21:19:34.5046 INFO User logged in successfully
+2023-04-15 21:19:51.1808 INFO StateRepo: State list displayed successfully
+2023-04-15 21:19:51.1946 INFO BookRepo: Booking found
+2023-04-15 21:19:51.1946 INFO 25 found sucessfully
+2023-04-15 21:19:51.2113 INFO States fetched from database successfully
+2023-04-15 21:19:54.1937 INFO CityRepo: City list fetched successfully
+2023-04-15 21:19:54.1937 INFO Cities fetched from database successfully
+2023-04-15 21:19:56.2171 INFO Areas returned successfully
+2023-04-15 21:19:56.2171 INFO Areas fetched from database successfully
+2023-04-15 21:20:11.7788 INFO BookRepo: Booking found
+2023-04-15 21:20:11.7788 INFO 25 found sucessfully
+2023-04-15 21:20:47.5056 INFO StateRepo: State list displayed successfully
+2023-04-15 21:20:47.5324 INFO States fetched from database successfully
+2023-04-15 21:20:47.5616 INFO BookRepo: Booking found
+2023-04-15 21:20:47.5616 INFO BookRepo: Booking found
+2023-04-15 21:20:47.5616 INFO 25 found sucessfully
+2023-04-15 21:20:47.5616 INFO 25 found sucessfully
+2023-04-15 21:20:49.0097 INFO StateRepo: State list displayed successfully
+2023-04-15 21:20:49.0097 INFO States fetched from database successfully
+2023-04-15 21:22:21.0418 INFO BookRepo: Booking found
+2023-04-15 21:22:21.0418 INFO 25 found sucessfully
+2023-04-15 21:22:38.9542 INFO BookRepo: Booking found
+2023-04-15 21:22:38.9542 INFO 25 found sucessfully
+2023-04-15 21:22:39.2384 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:22:39.3243 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:22:39.3748 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:22:39.4254 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:22:39.4801 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 21:22:39.4801 INFO DriverRepo: Driver displayed successfully
+2023-04-15 21:22:39.4801 INFO User logged in successfully
+2023-04-15 21:22:39.5039 INFO StateRepo: State list displayed successfully
+2023-04-15 21:22:39.5039 INFO States fetched from database successfully
+2023-04-15 21:22:41.9172 INFO CityRepo: City list fetched successfully
+2023-04-15 21:22:41.9172 INFO Cities fetched from database successfully
+2023-04-15 21:22:43.1953 INFO Areas returned successfully
+2023-04-15 21:22:43.1953 INFO Areas fetched from database successfully
+2023-04-15 21:22:54.4641 INFO StateRepo: State list displayed successfully
+2023-04-15 21:22:54.4641 INFO States fetched from database successfully
+2023-04-15 21:22:56.0374 INFO BookRepo: Booking found
+2023-04-15 21:22:56.0374 INFO 25 found sucessfully
+2023-04-15 21:23:14.1309 INFO BookRepo: Booking found
+2023-04-15 21:23:14.1309 INFO 25 found sucessfully
+2023-04-15 21:23:30.3185 INFO Location for driver added successfully
+2023-04-15 21:23:33.5333 INFO City added sucessfully
+2023-04-15 21:23:35.4300 INFO BookRepo: Booking found
+2023-04-15 21:23:35.4300 INFO 25 found sucessfully
+2023-04-15 21:23:44.5154 INFO DriverRepo: driver booking request fetched successfully
+2023-04-15 21:23:44.5154 INFO User logged in successfully
+2023-04-15 21:23:54.6875 INFO BookRepo: Booking found
+2023-04-15 21:23:54.6875 INFO 25 found sucessfully
+2023-04-15 21:24:16.2978 INFO BookRepo: Booking found
+2023-04-15 21:24:16.2981 INFO 25 found sucessfully
+2023-04-15 21:24:21.6492 ERROR    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at DataAccessLayer.UnitOfWork.Complete() in F:\TaxiBookingService\DataAccessLayer\UnitOfWork\UnitOfWork.cs:line 52
+   at DataAccessLayer.BookingService.AcceptRequest(Int32 id, String email) in F:\TaxiBookingService\DataAccessLayer\Services\Bookings\BookingService.cs:line 184
+2023-04-15 21:24:21.6492 ERROR Booking Status could not be added
+2023-04-15 21:24:41.9848 INFO DriverRepo: driver booking request fetched successfully
+2023-04-15 21:24:41.9848 INFO User logged in successfully
+2023-04-15 21:24:41.9876 INFO BookRepo: Booking found
+2023-04-15 21:24:41.9876 INFO 25 found sucessfully
+2023-04-15 21:24:57.7165 INFO BookRepo: Booking found
+2023-04-15 21:24:57.7165 INFO 25 found sucessfully
+2023-04-15 21:25:13.7053 INFO BookRepo: Booking found
+2023-04-15 21:25:13.7053 INFO 25 found sucessfully
+2023-04-15 21:25:46.2063 INFO BookRepo: Booking found
+2023-04-15 21:25:46.2063 INFO 25 found sucessfully
+2023-04-15 21:26:06.8859 INFO BookRepo: Booking found
+2023-04-15 21:26:06.8859 INFO 25 found sucessfully
+2023-04-15 21:26:54.8750 ERROR    at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.Consume(RelationalDataReader reader)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at DataAccessLayer.UnitOfWork.Complete() in F:\TaxiBookingService\DataAccessLayer\UnitOfWork\UnitOfWork.cs:line 52
+   at DataAccessLayer.BookingService.AcceptRequest(Int32 id, String email) in F:\TaxiBookingService\DataAccessLayer\Services\Bookings\BookingService.cs:line 184
+2023-04-15 21:26:54.8781 ERROR Booking Status could not be added
+2023-04-15 21:26:54.9340 INFO BookRepo: Booking found
+2023-04-15 21:26:54.9340 INFO 25 found sucessfully
+2023-04-15 21:26:54.9340 INFO DriverRepo: driver booking request fetched successfully
+2023-04-15 21:26:54.9340 INFO User logged in successfully
+2023-04-15 21:27:10.7330 INFO BookRepo: Booking found
+2023-04-15 21:27:10.7330 INFO 25 found sucessfully
+2023-04-15 21:27:26.7290 INFO BookRepo: Booking found
+2023-04-15 21:27:26.7290 INFO 25 found sucessfully
+2023-04-15 21:27:42.7467 INFO BookRepo: Booking found
+2023-04-15 21:27:42.7467 INFO 25 found sucessfully
+2023-04-15 21:27:58.7263 INFO BookRepo: Booking found
+2023-04-15 21:27:58.7263 INFO 25 found sucessfully
+2023-04-15 21:28:14.7549 INFO BookRepo: Booking found
+2023-04-15 21:28:14.7549 INFO 25 found sucessfully
+2023-04-15 21:28:30.7155 INFO BookRepo: Booking found
+2023-04-15 21:28:30.7155 INFO 25 found sucessfully
+2023-04-15 21:28:46.7269 INFO BookRepo: Booking found
+2023-04-15 21:28:46.7269 INFO 25 found sucessfully
+2023-04-15 21:29:02.7279 INFO BookRepo: Booking found
+2023-04-15 21:29:02.7279 INFO 25 found sucessfully
+2023-04-15 21:29:18.7493 INFO BookRepo: Booking found
+2023-04-15 21:29:18.7493 INFO 25 found sucessfully
+2023-04-15 21:29:34.7289 INFO BookRepo: Booking found
+2023-04-15 21:29:34.7289 INFO 25 found sucessfully
+2023-04-15 21:29:50.7257 INFO BookRepo: Booking found
+2023-04-15 21:29:50.7257 INFO 25 found sucessfully
+2023-04-15 21:30:06.7365 INFO BookRepo: Booking found
+2023-04-15 21:30:06.7365 INFO 25 found sucessfully
+2023-04-15 21:30:22.7366 INFO BookRepo: Booking found
+2023-04-15 21:30:22.7366 INFO 25 found sucessfully
+2023-04-15 21:30:38.7373 INFO BookRepo: Booking found
+2023-04-15 21:30:38.7373 INFO 25 found sucessfully
+2023-04-15 21:33:34.5032 INFO DriverRepo: driver booking request fetched successfully
+2023-04-15 21:33:34.5673 INFO User logged in successfully
+2023-04-15 21:33:54.4133 INFO BookRepo: Booking accepted succesffuly
+2023-04-15 21:33:58.3461 INFO Booking Status added sucessfully
+2023-04-15 22:21:34.2074 INFO BookRepo: Booking found
+2023-04-15 22:21:34.4050 INFO 25 found sucessfully
+2023-04-15 22:22:15.7113 INFO UserRepo: user list displayed successfully
+2023-04-15 22:22:16.4134 INFO User logged in successfully
+2023-04-15 22:22:18.1742 INFO Location for driver added successfully
+2023-04-15 22:22:18.2135 INFO Payment Modes fetched from database successfully
+2023-04-15 22:22:30.2110 INFO BookRepo: Booking found
+2023-04-15 22:22:30.2110 INFO 25 found sucessfully
+2023-04-15 22:22:30.3392 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 22:22:30.3392 INFO Cancellation Reason fetched from database successfully
+2023-04-15 22:22:30.4146 INFO BookRepo: Booking found
+2023-04-15 22:22:30.4146 INFO 25 found sucessfully
+2023-04-15 22:24:02.4863 ERROR    at DataAccessLayer.DriverService.CurrentDriver(String email) in F:\TaxiBookingService\DataAccessLayer\Services\Drivers\DriverService.cs:line 154
+2023-04-15 22:24:02.4863 ERROR ravi@gmail.com could not be found
+2023-04-15 22:24:02.5369 INFO Vehicle Details displayed successfully
+2023-04-15 22:24:02.5369 INFO Vehicle Details fetched from database successfully
+2023-04-15 22:24:43.5260 INFO Vehicle Details displayed successfully
+2023-04-15 22:24:43.5260 INFO Vehicle Details fetched from database successfully
+2023-04-15 22:25:10.2250 INFO Vehicle Details displayed successfully
+2023-04-15 22:25:10.2250 INFO Vehicle Details fetched from database successfully
+2023-04-15 22:26:28.2556 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 22:26:28.5062 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 22:26:28.7010 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 22:26:28.9042 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 22:26:29.1406 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 22:26:29.1406 INFO DriverRepo: Driver displayed successfully
+2023-04-15 22:26:29.1431 INFO User logged in successfully
+2023-04-15 22:26:29.2053 INFO StateRepo: State list displayed successfully
+2023-04-15 22:26:29.2812 INFO States fetched from database successfully
+2023-04-15 22:26:31.4568 ERROR    at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Evaluate(Expression expression, Boolean generateParameter)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitBinary(BinaryExpression node)
+   at System.Linq.Expressions.BinaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitLambda[T](Expression`1 node)
+   at System.Linq.Expressions.Expression`1.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitUnary(UnaryExpression node)
+   at System.Linq.Expressions.UnaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression, Boolean clearEvaluatedValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   at DataAccessLayer.GenericRepository`1.Get(Expression`1 predicate) in F:\TaxiBookingService\DataAccessLayer\Repositories\GenericRepository\GenericRepository.cs:line 23
+   at DataAccessLayer.VehicleDetailsService.Search(String email) in F:\TaxiBookingService\DataAccessLayer\Services\VehiclesDetails\VehicleDetailsService.cs:line 130
+2023-04-15 22:26:31.4568 ERROR ravi@gmail.com could not be found
+2023-04-15 22:26:39.5465 INFO Vehicle Details displayed successfully
+2023-04-15 22:26:39.5465 INFO Vehicle Details fetched from database successfully
+2023-04-15 22:27:41.8281 ERROR Vehicle Detail could not be added
+2023-04-15 22:27:51.1960 INFO Vehicle Details displayed successfully
+2023-04-15 22:27:51.1960 INFO Vehicle Details fetched from database successfully
+2023-04-15 22:28:48.3205 ERROR Vehicle Detail could not be added
+2023-04-15 22:28:55.8951 INFO Vehicle Details displayed successfully
+2023-04-15 22:28:55.8951 INFO Vehicle Details fetched from database successfully
+2023-04-15 22:29:27.0551 ERROR    at DataAccessLayer.VehicleDetailsService.Add(VehicleDetailDTO newDetail) in F:\TaxiBookingService\DataAccessLayer\Services\VehiclesDetails\VehicleDetailsService.cs:line 57
+2023-04-15 22:29:27.0551 ERROR Vehicle Detail could not be added
+2023-04-15 22:34:14.6701 INFO Vehicle Details displayed successfully
+2023-04-15 22:34:14.8266 INFO Vehicle Details fetched from database successfully
+2023-04-15 22:35:17.4504 INFO Vehicle Details added successfully
+2023-04-15 22:35:21.4532 INFO Vehicle Detail added sucessfully
+2023-04-15 22:35:29.6061 ERROR    at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Evaluate(Expression expression, Boolean generateParameter)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitBinary(BinaryExpression node)
+   at System.Linq.Expressions.BinaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitLambda[T](Expression`1 node)
+   at System.Linq.Expressions.Expression`1.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitUnary(UnaryExpression node)
+   at System.Linq.Expressions.UnaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression, Boolean clearEvaluatedValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   at DataAccessLayer.GenericRepository`1.Get(Expression`1 predicate) in F:\TaxiBookingService\DataAccessLayer\Repositories\GenericRepository\GenericRepository.cs:line 23
+   at DataAccessLayer.VehicleDetailsService.Search(String email) in F:\TaxiBookingService\DataAccessLayer\Services\VehiclesDetails\VehicleDetailsService.cs:line 132
+2023-04-15 22:35:29.6061 ERROR ravi@gmail.com could not be found
+2023-04-15 22:35:29.7381 INFO Vehicle Details displayed successfully
+2023-04-15 22:35:29.7381 INFO Vehicle Details fetched from database successfully
+2023-04-15 22:35:37.8104 ERROR    at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Evaluate(Expression expression, Boolean generateParameter)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitBinary(BinaryExpression node)
+   at System.Linq.Expressions.BinaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitLambda[T](Expression`1 node)
+   at System.Linq.Expressions.Expression`1.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitUnary(UnaryExpression node)
+   at System.Linq.Expressions.UnaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression, Boolean clearEvaluatedValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   at DataAccessLayer.GenericRepository`1.Get(Expression`1 predicate) in F:\TaxiBookingService\DataAccessLayer\Repositories\GenericRepository\GenericRepository.cs:line 23
+   at DataAccessLayer.VehicleDetailsService.Search(String email) in F:\TaxiBookingService\DataAccessLayer\Services\VehiclesDetails\VehicleDetailsService.cs:line 132
+2023-04-15 22:35:37.8104 ERROR ravi@gmail.com could not be found
+2023-04-15 22:35:37.8622 INFO Vehicle Details displayed successfully
+2023-04-15 22:35:37.8622 INFO Vehicle Details fetched from database successfully
+2023-04-15 22:36:29.8053 ERROR    at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Evaluate(Expression expression, Boolean generateParameter)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitBinary(BinaryExpression node)
+   at System.Linq.Expressions.BinaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitLambda[T](Expression`1 node)
+   at System.Linq.Expressions.Expression`1.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitUnary(UnaryExpression node)
+   at System.Linq.Expressions.UnaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression, Boolean clearEvaluatedValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   at DataAccessLayer.GenericRepository`1.Get(Expression`1 predicate) in F:\TaxiBookingService\DataAccessLayer\Repositories\GenericRepository\GenericRepository.cs:line 23
+   at DataAccessLayer.VehicleDetailsService.Search(String email) in F:\TaxiBookingService\DataAccessLayer\Services\VehiclesDetails\VehicleDetailsService.cs:line 132
+2023-04-15 22:36:29.8053 ERROR ravi@gmail.com could not be found
+2023-04-15 22:43:14.3806 ERROR    at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Evaluate(Expression expression, Boolean generateParameter)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitBinary(BinaryExpression node)
+   at System.Linq.Expressions.BinaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitLambda[T](Expression`1 node)
+   at System.Linq.Expressions.Expression`1.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitUnary(UnaryExpression node)
+   at System.Linq.Expressions.UnaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression, Boolean clearEvaluatedValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   at DataAccessLayer.GenericRepository`1.Get(Expression`1 predicate) in F:\TaxiBookingService\DataAccessLayer\Repositories\GenericRepository\GenericRepository.cs:line 23
+   at DataAccessLayer.VehicleDetailsService.Search(String email) in F:\TaxiBookingService\DataAccessLayer\Services\VehiclesDetails\VehicleDetailsService.cs:line 132
+2023-04-15 22:43:14.3806 ERROR ravi@gmail.com could not be found
+2023-04-15 22:43:14.4991 INFO Vehicle Details displayed successfully
+2023-04-15 22:43:14.4991 INFO Vehicle Details fetched from database successfully
+2023-04-15 22:48:53.5279 ERROR    at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Evaluate(Expression expression, Boolean generateParameter)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitBinary(BinaryExpression node)
+   at System.Linq.Expressions.BinaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitLambda[T](Expression`1 node)
+   at System.Linq.Expressions.Expression`1.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitUnary(UnaryExpression node)
+   at System.Linq.Expressions.UnaryExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at System.Linq.Expressions.MethodCallExpression.Accept(ExpressionVisitor visitor)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression, Boolean clearEvaluatedValues)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   at DataAccessLayer.GenericRepository`1.Get(Expression`1 predicate) in F:\TaxiBookingService\DataAccessLayer\Repositories\GenericRepository\GenericRepository.cs:line 23
+   at DataAccessLayer.VehicleDetailsService.Search(String email) in F:\TaxiBookingService\DataAccessLayer\Services\VehiclesDetails\VehicleDetailsService.cs:line 132
+2023-04-15 22:48:53.6483 ERROR ravi@gmail.com could not be found
+2023-04-15 22:48:56.7881 INFO Vehicle Details displayed successfully
+2023-04-15 22:48:56.7881 INFO Vehicle Details fetched from database successfully
+2023-04-15 22:52:10.9657 ERROR    at System.Nullable`1.get_Value()
+   at DataAccessLayer.VehicleDetailsService.Search(String email) in F:\TaxiBookingService\DataAccessLayer\Services\VehiclesDetails\VehicleDetailsService.cs:line 131
+2023-04-15 22:52:11.1467 ERROR ravi@gmail.com could not be found
+2023-04-15 22:52:13.4388 INFO Vehicle Details displayed successfully
+2023-04-15 22:52:13.4391 INFO Vehicle Details fetched from database successfully
+2023-04-15 22:53:40.1293 INFO Vehicle Details added successfully
+2023-04-15 22:59:41.4066 INFO Vehicle Details added successfully
+2023-04-15 22:59:46.9514 INFO Vehicle Detail added sucessfully
+2023-04-15 23:00:00.3516 ERROR    at System.Nullable`1.get_Value()
+   at DataAccessLayer.VehicleDetailsService.Search(String email) in F:\TaxiBookingService\DataAccessLayer\Services\VehiclesDetails\VehicleDetailsService.cs:line 137
+2023-04-15 23:00:00.3516 ERROR ravi@gmail.com could not be found
+2023-04-15 23:00:07.6240 INFO Vehicle Details displayed successfully
+2023-04-15 23:00:07.6240 INFO Vehicle Details fetched from database successfully
+2023-04-15 23:01:19.4550 INFO Vehicle Details displayed successfully
+2023-04-15 23:01:19.6082 INFO Vehicle Details fetched from database successfully
+2023-04-15 23:02:14.3405 INFO Vehicle Details added successfully
+2023-04-15 23:02:20.8310 INFO Vehicle Detail added sucessfully
+2023-04-15 23:03:19.3727 INFO Vehicle detail fetched successfully
+2023-04-15 23:03:24.0557 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:03:54.2510 INFO StateRepo: State list displayed successfully
+2023-04-15 23:03:54.3287 INFO States fetched from database successfully
+2023-04-15 23:03:58.4016 INFO CityRepo: City list fetched successfully
+2023-04-15 23:03:58.4016 INFO Cities fetched from database successfully
+2023-04-15 23:04:00.2023 INFO Areas returned successfully
+2023-04-15 23:04:00.2023 INFO Areas fetched from database successfully
+2023-04-15 23:04:11.9570 INFO StateRepo: State list displayed successfully
+2023-04-15 23:04:11.9570 INFO States fetched from database successfully
+2023-04-15 23:04:12.2265 INFO Location for driver added successfully
+2023-04-15 23:04:12.2265 INFO City added sucessfully
+2023-04-15 23:04:12.8019 ERROR User could not be found
+2023-04-15 23:05:25.2588 INFO BookRepo: Booking found
+2023-04-15 23:05:25.2588 INFO 25 found sucessfully
+2023-04-15 23:05:59.9372 INFO UserRepo: user list displayed successfully
+2023-04-15 23:06:00.7982 INFO User logged in successfully
+2023-04-15 23:06:51.8833 INFO BookRepo: Booking found
+2023-04-15 23:06:51.8833 INFO 25 found sucessfully
+2023-04-15 23:06:52.0159 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:06:52.0159 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:06:52.0915 INFO BookRepo: Booking found
+2023-04-15 23:06:52.0915 INFO 25 found sucessfully
+2023-04-15 23:06:52.7519 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:06:52.7519 INFO DriverRepo: Current driver fetched
+2023-04-15 23:06:52.7519 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:07:13.3767 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:07:13.3767 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:07:13.4775 INFO BookRepo: Booking found
+2023-04-15 23:07:13.4775 INFO 25 found sucessfully
+2023-04-15 23:07:13.7993 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:07:13.7993 INFO DriverRepo: Current driver fetched
+2023-04-15 23:07:13.7993 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:07:18.1398 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:07:18.1398 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:12:43.2469 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:12:43.2469 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:12:43.4028 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:12:43.4028 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:12:43.2469 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:12:43.4071 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:12:46.9489 INFO CancelledBooking: Booking Cancelled and added sucessfully
+2023-04-15 23:12:47.0242 INFO BookRepo: Booking Declined successfully
+2023-04-15 23:12:47.0242 INFO Booking Status added sucessfully
+2023-04-15 23:12:47.1441 INFO Location for driver added successfully
+2023-04-15 23:12:47.1725 INFO Payment Modes fetched from database successfully
+2023-04-15 23:12:52.2712 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:12:52.2712 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:12:52.3590 INFO BookRepo: Booking found
+2023-04-15 23:12:52.3590 INFO 25 found sucessfully
+2023-04-15 23:12:53.6441 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:12:53.6441 INFO DriverRepo: Current driver fetched
+2023-04-15 23:12:53.6441 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:13:14.0672 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:13:14.0672 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:13:14.1530 INFO BookRepo: Booking found
+2023-04-15 23:13:14.1530 INFO 25 found sucessfully
+2023-04-15 23:13:14.4316 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:13:14.4316 INFO DriverRepo: Current driver fetched
+2023-04-15 23:13:14.4316 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:13:18.1642 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:13:18.1642 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:13:18.2311 INFO CancelledBooking: Booking Cancelled and added sucessfully
+2023-04-15 23:13:18.2402 INFO BookRepo: Booking Declined successfully
+2023-04-15 23:13:18.2402 INFO Booking Status added sucessfully
+2023-04-15 23:13:18.2751 INFO Location for driver added successfully
+2023-04-15 23:13:18.2826 INFO Payment Modes fetched from database successfully
+2023-04-15 23:13:20.7068 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:13:20.7068 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:13:20.7547 INFO BookRepo: Booking found
+2023-04-15 23:13:20.7547 INFO 25 found sucessfully
+2023-04-15 23:13:20.9671 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:13:20.9671 INFO DriverRepo: Current driver fetched
+2023-04-15 23:13:20.9671 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:13:41.8206 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:13:41.8206 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:13:41.9684 INFO BookRepo: Booking found
+2023-04-15 23:13:41.9684 INFO 25 found sucessfully
+2023-04-15 23:13:42.1540 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:13:42.1540 INFO DriverRepo: Current driver fetched
+2023-04-15 23:13:42.1540 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:14:06.0092 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:14:06.0092 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:14:06.0092 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:14:06.0092 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:14:08.3042 INFO BookRepo: Booking found
+2023-04-15 23:14:08.3042 INFO 25 found sucessfully
+2023-04-15 23:14:10.0032 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:14:10.0032 INFO DriverRepo: Current driver fetched
+2023-04-15 23:14:10.0032 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:14:49.4449 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:14:49.4449 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:15:01.1133 INFO BookRepo: Booking found
+2023-04-15 23:15:01.1133 INFO 25 found sucessfully
+2023-04-15 23:15:03.5638 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:15:03.5638 INFO DriverRepo: Current driver fetched
+2023-04-15 23:15:03.5638 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:15:12.0817 INFO CancelledBooking: Booking Cancelled and added sucessfully
+2023-04-15 23:15:26.1094 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:15:26.1094 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:15:26.7366 INFO BookRepo: Booking found
+2023-04-15 23:15:26.7366 INFO 25 found sucessfully
+2023-04-15 23:15:31.0434 INFO BookRepo: Booking Declined successfully
+2023-04-15 23:15:36.2297 INFO Booking Status added sucessfully
+2023-04-15 23:15:41.4330 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:15:41.4330 INFO DriverRepo: Current driver fetched
+2023-04-15 23:15:41.4330 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:16:26.2277 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:16:26.2277 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:16:26.3530 INFO BookRepo: Booking found
+2023-04-15 23:16:26.3530 INFO 25 found sucessfully
+2023-04-15 23:16:26.5752 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:16:26.5752 INFO DriverRepo: Current driver fetched
+2023-04-15 23:16:26.5752 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:16:47.7748 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:16:47.7748 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:16:47.9037 INFO BookRepo: Booking found
+2023-04-15 23:16:47.9037 INFO 25 found sucessfully
+2023-04-15 23:16:48.0943 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:16:48.0943 INFO DriverRepo: Current driver fetched
+2023-04-15 23:16:48.0943 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:17:08.7811 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:17:08.7811 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:17:08.8643 INFO BookRepo: Booking found
+2023-04-15 23:17:08.8643 INFO 25 found sucessfully
+2023-04-15 23:17:09.0151 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:17:09.0151 INFO DriverRepo: Current driver fetched
+2023-04-15 23:17:09.0151 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:17:29.7388 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:17:29.7388 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:17:29.8122 INFO BookRepo: Booking found
+2023-04-15 23:17:29.8122 INFO 25 found sucessfully
+2023-04-15 23:17:30.0131 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:17:30.0131 INFO DriverRepo: Current driver fetched
+2023-04-15 23:17:30.0131 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:17:50.7927 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:17:50.7927 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:17:50.8742 INFO BookRepo: Booking found
+2023-04-15 23:17:50.8742 INFO 25 found sucessfully
+2023-04-15 23:17:51.1606 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:17:51.1606 INFO DriverRepo: Current driver fetched
+2023-04-15 23:17:51.1606 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:18:07.7428 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:18:07.7428 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:18:07.8293 INFO BookRepo: Booking found
+2023-04-15 23:18:07.8295 INFO 25 found sucessfully
+2023-04-15 23:18:08.1171 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:18:08.1171 INFO DriverRepo: Current driver fetched
+2023-04-15 23:18:08.1171 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:18:28.7848 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:18:28.7848 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:18:28.8616 INFO BookRepo: Booking found
+2023-04-15 23:18:28.8616 INFO 25 found sucessfully
+2023-04-15 23:18:29.0670 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:18:29.0670 INFO DriverRepo: Current driver fetched
+2023-04-15 23:18:29.0670 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:18:49.8520 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:18:49.8520 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:18:49.8520 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:18:49.8520 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:18:51.4637 INFO BookRepo: Booking found
+2023-04-15 23:18:51.4637 INFO 25 found sucessfully
+2023-04-15 23:18:51.5027 INFO CancelledBooking: Booking Cancelled and added sucessfully
+2023-04-15 23:18:51.5027 INFO BookRepo: Booking Declined successfully
+2023-04-15 23:18:51.5027 INFO Booking Status added sucessfully
+2023-04-15 23:18:51.6305 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:18:51.6305 INFO DriverRepo: Current driver fetched
+2023-04-15 23:18:51.6305 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:19:12.7775 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:19:12.7775 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:19:12.8776 INFO BookRepo: Booking found
+2023-04-15 23:19:12.8776 INFO 25 found sucessfully
+2023-04-15 23:19:13.1189 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:19:13.1189 INFO DriverRepo: Current driver fetched
+2023-04-15 23:19:13.1189 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:19:33.8028 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:19:33.8028 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:19:33.8917 INFO BookRepo: Booking found
+2023-04-15 23:19:33.8918 INFO 25 found sucessfully
+2023-04-15 23:19:34.1243 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:19:34.1243 INFO DriverRepo: Current driver fetched
+2023-04-15 23:19:34.1243 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:19:47.3407 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:19:47.3407 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:19:57.4477 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:19:57.4477 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:19:58.5216 INFO BookRepo: Booking found
+2023-04-15 23:19:58.5216 INFO 25 found sucessfully
+2023-04-15 23:19:58.5580 INFO CancelledBooking: Booking Cancelled and added sucessfully
+2023-04-15 23:19:59.9378 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:19:59.9378 INFO DriverRepo: Current driver fetched
+2023-04-15 23:19:59.9378 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:21:45.2607 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:21:45.2607 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:21:45.4372 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:21:45.4372 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:21:48.0001 INFO BookRepo: Booking found
+2023-04-15 23:21:48.0001 INFO 25 found sucessfully
+2023-04-15 23:21:48.0001 INFO BookRepo: Booking found
+2023-04-15 23:21:48.0001 INFO 25 found sucessfully
+2023-04-15 23:21:49.4485 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:21:49.4485 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:21:49.4485 INFO DriverRepo: Current driver fetched
+2023-04-15 23:21:49.4485 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:21:49.4485 INFO DriverRepo: Current driver fetched
+2023-04-15 23:21:49.4485 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:22:07.8161 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:22:07.8161 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:22:12.2389 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:22:12.2389 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:22:22.6842 INFO BookRepo: Booking found
+2023-04-15 23:22:22.6842 INFO 25 found sucessfully
+2023-04-15 23:22:23.9205 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:22:23.9205 INFO DriverRepo: Current driver fetched
+2023-04-15 23:22:23.9205 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:22:25.0541 INFO CancelledBooking: Booking Cancelled and added sucessfully
+2023-04-15 23:22:34.7796 INFO BookRepo: Booking Declined successfully
+2023-04-15 23:22:39.9043 INFO Booking Status added sucessfully
+2023-04-15 23:22:54.7727 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:22:54.7727 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:22:55.5906 INFO BookRepo: Booking found
+2023-04-15 23:22:55.5906 INFO 25 found sucessfully
+2023-04-15 23:22:57.2995 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:22:57.2995 INFO DriverRepo: Current driver fetched
+2023-04-15 23:22:57.2995 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:23:18.7310 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:23:18.7310 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:23:18.8492 INFO BookRepo: Booking found
+2023-04-15 23:23:18.8492 INFO 25 found sucessfully
+2023-04-15 23:23:19.0885 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:23:19.0885 INFO DriverRepo: Current driver fetched
+2023-04-15 23:23:19.0885 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:23:34.0428 INFO BookRepo: Booking found
+2023-04-15 23:23:34.0428 INFO 25 found sucessfully
+2023-04-15 23:23:37.2539 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:23:37.2539 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:23:37.3286 INFO BookRepo: Booking found
+2023-04-15 23:23:37.3286 INFO 25 found sucessfully
+2023-04-15 23:23:37.5676 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:23:37.5676 INFO DriverRepo: Current driver fetched
+2023-04-15 23:23:37.5676 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:23:58.7900 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:23:58.7900 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:23:58.8402 INFO BookRepo: Booking found
+2023-04-15 23:23:58.8402 INFO 25 found sucessfully
+2023-04-15 23:23:59.0238 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:23:59.0238 INFO DriverRepo: Current driver fetched
+2023-04-15 23:23:59.0238 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:24:19.7691 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:24:19.7691 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:24:19.8546 INFO BookRepo: Booking found
+2023-04-15 23:24:19.8546 INFO 25 found sucessfully
+2023-04-15 23:24:20.1093 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:24:20.1093 INFO DriverRepo: Current driver fetched
+2023-04-15 23:24:20.1093 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:24:40.8059 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:24:40.8059 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:24:40.9786 INFO BookRepo: Booking found
+2023-04-15 23:24:40.9786 INFO 25 found sucessfully
+2023-04-15 23:24:41.3307 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:24:41.3307 INFO DriverRepo: Current driver fetched
+2023-04-15 23:24:41.3307 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:25:01.8163 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:25:01.8163 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:25:01.8576 INFO BookRepo: Booking found
+2023-04-15 23:25:01.8576 INFO 25 found sucessfully
+2023-04-15 23:25:02.0861 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:25:02.0861 INFO DriverRepo: Current driver fetched
+2023-04-15 23:25:02.0861 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:25:22.7664 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:25:22.7667 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:25:22.8639 INFO BookRepo: Booking found
+2023-04-15 23:25:22.8639 INFO 25 found sucessfully
+2023-04-15 23:25:23.0380 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:25:23.0380 INFO DriverRepo: Current driver fetched
+2023-04-15 23:25:23.0380 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:25:43.8000 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:25:43.8000 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:25:44.0061 INFO BookRepo: Booking found
+2023-04-15 23:25:44.0061 INFO 25 found sucessfully
+2023-04-15 23:25:44.3165 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:25:44.3165 INFO DriverRepo: Current driver fetched
+2023-04-15 23:25:44.3165 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:25:51.2935 INFO CancelReasonRepo: Reasons displayed successfully
+2023-04-15 23:25:51.2935 INFO Cancellation Reason fetched from database successfully
+2023-04-15 23:25:54.3954 INFO CancelledBooking: Booking Cancelled and added sucessfully
+2023-04-15 23:25:54.4749 INFO BookRepo: Booking Declined successfully
+2023-04-15 23:25:54.4749 INFO Booking Status added sucessfully
+2023-04-15 23:25:54.5979 INFO Location for driver added successfully
+2023-04-15 23:25:54.6663 INFO Payment Modes fetched from database successfully
+2023-04-15 23:40:47.6417 ERROR hhn could not be found
+2023-04-15 23:51:54.1753 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:51:54.5440 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:51:54.7424 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:51:54.9440 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:51:55.1406 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:51:55.1421 INFO DriverRepo: Driver displayed successfully
+2023-04-15 23:51:55.8324 INFO User logged in successfully
+2023-04-15 23:51:56.1895 INFO StateRepo: State list displayed successfully
+2023-04-15 23:51:56.3130 INFO States fetched from database successfully
+2023-04-15 23:52:10.9518 ERROR    at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at DataAccessLayer.RatingService.CalculateRating(Int32 id) in F:\TaxiBookingService\DataAccessLayer\Services\Rating\RatingService.cs:line 29
+2023-04-15 23:52:10.9518 INFO DriverRepo: Driver searched clearly
+2023-04-15 23:52:10.9518 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:52:28.0268 INFO Vehicle detail fetched successfully
+2023-04-15 23:52:28.0268 INFO ravi@gmail.com found sucessfully
+2023-04-15 23:52:42.3608 INFO StateRepo: State list displayed successfully
+2023-04-15 23:52:42.3791 INFO States fetched from database successfully
+2023-04-15 23:52:46.3700 INFO CityRepo: City list fetched successfully
+2023-04-15 23:52:46.3700 INFO Cities fetched from database successfully
+2023-04-15 23:52:48.1796 INFO Areas returned successfully
+2023-04-15 23:52:48.1796 INFO Areas fetched from database successfully

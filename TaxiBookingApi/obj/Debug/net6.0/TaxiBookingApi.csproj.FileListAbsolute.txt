@@ -1,0 +1,372 @@
+F:\TaxiBookingApi\bin\Debug\net6.0\appsettings.Development.json
+F:\TaxiBookingApi\bin\Debug\net6.0\appsettings.json
+F:\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.exe
+F:\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.deps.json
+F:\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.runtimeconfig.json
+F:\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.pdb
+F:\TaxiBookingApi\bin\Debug\net6.0\Azure.Core.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Azure.Identity.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Humanizer.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\System.CodeDom.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\System.Memory.Data.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\System.Text.Json.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\DataAccessLayer.dll
+F:\TaxiBookingApi\bin\Debug\net6.0\DataAccessLayer.pdb
+F:\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.csproj.AssemblyReference.cache
+F:\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.AssemblyInfoInputs.cache
+F:\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.AssemblyInfo.cs
+F:\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.csproj.CoreCompileInputs.cache
+F:\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.MvcApplicationPartsAssemblyInfo.cs
+F:\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.MvcApplicationPartsAssemblyInfo.cache
+F:\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.TaxiBookingApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.build.TaxiBookingApi.props
+F:\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TaxiBookingApi.props
+F:\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TaxiBookingApi.props
+F:\TaxiBookingApi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\TaxiBookingApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\TaxiBookingApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\TaxiBookingApi\obj\Debug\net6.0\scopedcss\bundle\TaxiBookingApi.styles.css
+F:\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.csproj.CopyComplete
+F:\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.dll
+F:\TaxiBookingApi\obj\Debug\net6.0\refint\TaxiBookingApi.dll
+F:\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.pdb
+F:\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.genruntimeconfig.cache
+F:\TaxiBookingApi\obj\Debug\net6.0\ref\TaxiBookingApi.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\DataAccessLayer.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Azure.Core.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Azure.Identity.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\BCrypt.Net-Next.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Humanizer.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\NLog.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.CodeDom.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Memory.Data.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Text.Json.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\DataAccessLayer.pdb
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.csproj.AssemblyReference.cache
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.AssemblyInfoInputs.cache
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.AssemblyInfo.cs
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.csproj.CoreCompileInputs.cache
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.MvcApplicationPartsAssemblyInfo.cs
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.MvcApplicationPartsAssemblyInfo.cache
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.TaxiBookingApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.build.TaxiBookingApi.props
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TaxiBookingApi.props
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TaxiBookingApi.props
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\scopedcss\bundle\TaxiBookingApi.styles.css
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.dll
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\refint\TaxiBookingApi.dll
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.pdb
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\nlog.config
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\appsettings.Development.json
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\appsettings.json
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.exe
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.deps.json
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.runtimeconfig.json
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.dll
+F:\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.pdb
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.csproj.CopyComplete
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.genruntimeconfig.cache
+F:\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\ref\TaxiBookingApi.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\NLog.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.csproj.AssemblyReference.cache
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.AssemblyInfoInputs.cache
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.AssemblyInfo.cs
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.csproj.CoreCompileInputs.cache
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.TaxiBookingApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.build.TaxiBookingApi.props
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TaxiBookingApi.props
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TaxiBookingApi.props
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\scopedcss\bundle\TaxiBookingApi.styles.css
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\refint\TaxiBookingApi.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.pdb
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\nlog.config
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\appsettings.json
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.exe
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.deps.json
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.runtimeconfig.json
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.dll
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.pdb
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.csproj.CopyComplete
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.genruntimeconfig.cache
+C:\Users\bhawana.agrawal\Desktop\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\ref\TaxiBookingApi.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\nlog.config
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\appsettings.Development.json
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\appsettings.json
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.exe
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.deps.json
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.runtimeconfig.json
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\TaxiBookingApi.pdb
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Azure.Core.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Azure.Identity.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\BCrypt.Net-Next.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Humanizer.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\NLog.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.CodeDom.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Text.Json.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\DataAccessLayer.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\bin\Debug\net6.0\DataAccessLayer.pdb
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.csproj.AssemblyReference.cache
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.AssemblyInfoInputs.cache
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.AssemblyInfo.cs
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.csproj.CoreCompileInputs.cache
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.sourcelink.json
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.TaxiBookingApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.build.TaxiBookingApi.props
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TaxiBookingApi.props
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TaxiBookingApi.props
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\scopedcss\bundle\TaxiBookingApi.styles.css
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBook.238A49C5.Up2Date
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\refint\TaxiBookingApi.dll
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.pdb
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\TaxiBookingApi.genruntimeconfig.cache
+F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingApi\obj\Debug\net6.0\ref\TaxiBookingApi.dll

@@ -1,0 +1,79 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="NewFolder\**" />
+    <Compile Remove="ResponseModels\**" />
+    <Compile Remove="Interfaces\**" />
+    <Compile Remove="Repository\**" />
+    <EmbeddedResource Remove="NewFolder\**" />
+    <EmbeddedResource Remove="ResponseModels\**" />
+    <EmbeddedResource Remove="Interfaces\**" />
+    <EmbeddedResource Remove="Repository\**" />
+    <None Remove="NewFolder\**" />
+    <None Remove="ResponseModels\**" />
+    <None Remove="Interfaces\**" />
+    <None Remove="Repository\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Entity\CommonProperties.cs" />
+    <Compile Remove="Models\RideDTO.cs" />
+    <Compile Remove="Models\Token.cs" />
+    <Compile Remove="UnitOfWork\IUnitOfWork.cs" />
+    <Compile Remove="UnitOfWork\UnitOfWork.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="nlog.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="ResponseModels\AreaResponse.cs" />
+    <Compile Include="ResponseModels\BookingResponse.cs" />
+    <Compile Include="ResponseModels\BookingStatusResponse.cs" />
+    <Compile Include="ResponseModels\CancellationReasonResponse.cs" />
+    <Compile Include="ResponseModels\CityResponse.cs" />
+    <Compile Include="ResponseModels\DriverEditModel.cs" />
+    <Compile Include="ResponseModels\PaymentModeResponse.cs" />
+    <Compile Include="ResponseModels\PaymentVerificationModel.cs" />
+    <Compile Include="ResponseModels\RoleResponse.cs" />
+    <Compile Include="ResponseModels\StateResponse.cs" />
+    <Compile Include="ResponseModels\UserResponse.cs" />
+    <Compile Include="ResponseModels\UserEditModel.cs" />
+    <Compile Include="ResponseModels\VehicleDetailResponse.cs" />
+    <Compile Include="ResponseModels\VehicleTypeResponse.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="nlog.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="NLog.Extensions.Logging" Version="5.2.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.29.0" />
+  </ItemGroup>
+
+</Project>

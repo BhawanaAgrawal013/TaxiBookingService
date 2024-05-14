@@ -1,0 +1,148 @@
+﻿@model TaxiBookingServiceUI.Models.LocationViewModel
+
+@{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    ViewData["Title"] = "UpdateLocation";
+    Layout = "~/Views/Shared/_DriverLayout.cshtml";
+}
+
+<script>
+    $(document).ready(function () {
+        console.log("change");
+        $('#State').change(function () {
+            var selectionval = (this.value);
+            var markup = "<option value='0'>--Select City--</option>";
+            console.log("change function selection" + selectionval)
+            $("#City").html('');
+            $.ajax({
+                type: "POST",
+                dataType: "JSON",
+                url: "/Location/GetCities",
+                data: { state: selectionval },
+                success:
+                    function (data) {
+                        console.log(data);
+                        for (var i = 0; i < data.length; i++) {
+                            markup += "<option value=" + selectionval + ">" + data[i] + "</option>";
+                            console.log("po" + data[i]);
+                        }
+                        $("#City").append(markup);
+                        $("#locationCityDiv").show();
+                    },
+                error: function (data) {
+                    alert("error" + data);
+                }
+            })
+        });
+    });
+
+    $(document).ready(function () {
+        $('#City').change(function () {
+            var selectionval = (this.value);
+            var markup = "<option value='0'>--Select Area--</option>";
+            var text = $(this).find("option:selected").text();
+            console.log("jj" + selectionval + text)
+            $("#Area").html('');
+            $.ajax({
+                type: "POST",
+                dataType: "JSON",
+                url: "/Location/GetArea",
+                data: { city: text },
+                success:
+                    function (data) {
+                        console.log(data);
+                        for (var i = 0; i < data.length; i++) {
+                            markup += "<option value=" + data[i] + ">" + data[i] + "</option>";
+                            // console.log("id: " + data[i] +"   " + data + "value: " + data[i].area)
+                        }
+                        $("#Area").append(markup);
+                        $("#locationAreaDiv").show();
+                    },
+                error: function (data) {
+                    alert("error" + data);
+                }
+            })
+        });
+    });
+
+    $(document).ready(function () {
+        $('#Area').change(function () {
+            getLocation();
+        })
+    });
+
+    function getLocation() {
+        if (navigator.geolocation) {
+            console.log("navigate");
+            navigator.geolocation.getCurrentPosition(showPosition);
+        }
+        else {
+            console.log("eroor:::");
+            x.innerHTML = "Geolocation is not supported by this browser.";
+        }
+    }
+    function showPosition(position) {
+        var latlondata = position.coords.latitude + "," + position.coords.longitude;
+        console.log(latlondata);
+        document.getElementById("Latitude").value = position.coords.latitude;
+        document.getElementById("Longitude").value = position.coords.longitude;
+        var latlon = "Your Latitude Position is:=" + position.coords.latitude + "," + "Your Longitude Position is:=" + position.coords.longitude;
+        alert(latlon);
+        console.log(text + ":text" + street);
+    }
+
+</script>
+
+<h5>Update Location</h5>
+
+<hr />
+
+<strong style="color: red">@ViewBag.errmsg</strong>
+<strong style="color: green">@ViewBag.msg</strong>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UpdateLocation">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="State" class="control-label"></label>
+                @Html.DropDownList("State", new SelectList((List<string>)ViewBag.States), "--Select--", new { @id="State", @class="form-control"})
+                <span asp-validation-for="State" class="text-danger"></span>
+            </div>
+
+            <div class="form-group" id="locationCityDiv">
+                <label for="City">City</label>
+                <div>
+                    <select class="form-control" id="City" name="City" title="City"></select>
+                </div>
+            </div>
+
+            <br />
+            <div class="form-group" id="locationAreaDiv">
+                <label for="Area">Area</label>
+                <div>
+                    <select class="form-control" id="Area" name="Area" title="Area"></select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="Street" class="control-label"></label>
+                <input asp-for="Street" class="form-control" />
+                <span asp-validation-for="Street" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Latitude" class="control-label" hidden></label>
+                <input asp-for="Latitude" class="form-control" type="hidden"/>
+                <span asp-validation-for="Latitude" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Longitude" class="control-label" hidden></label>
+                <input asp-for="Longitude" class="form-control" type="hidden"/>
+                <span asp-validation-for="Longitude" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+

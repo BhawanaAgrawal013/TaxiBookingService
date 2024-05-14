@@ -1,0 +1,37 @@
+﻿@model IEnumerable<TaxiBookingServiceUI.Models.StateViewModel>
+
+@{
+    ViewData["Title"] = "Display";
+}
+
+<h5>Display</h5>
+
+<strong style="color:red">@TempData["errmsg"]</strong>
+<strong style="color:green">@TempData["msg"]</strong>
+
+<p>
+    <a asp-action="Add">Enter New State</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.State)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.State)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.Id  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

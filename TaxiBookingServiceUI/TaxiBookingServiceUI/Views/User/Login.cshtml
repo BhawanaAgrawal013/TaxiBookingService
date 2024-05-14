@@ -1,0 +1,42 @@
+﻿@model TaxiBookingServiceUI.Models.LoginViewModel
+
+@{
+    ViewData["Title"] = "User Login";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+<h5>User Login</h5>
+
+<strong style="color: red">@TempData["errmsg"]</strong>
+<strong style="color: green">@TempData["msg"]</strong>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Login" asp-controller="Driver">Login As Driver</a>
+    <a asp-action="Login" asp-controller="Admin">Login As Admin</a>
+</div>
+
+<div>
+    <a asp-action="Add" asp-controller="User">Register As User</a>
+</div>

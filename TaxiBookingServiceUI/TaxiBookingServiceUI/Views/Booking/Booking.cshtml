@@ -1,0 +1,104 @@
+﻿@model dynamic
+@{
+    ViewBag.Title = "Your Current Ride";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+<script type="text/javascript">
+    function timedRefresh(timeoutPeriod) {
+        setTimeout(function() {
+            location.reload(true);
+        }, timeoutPeriod);
+    }
+</script>
+
+<body onload="JavaScript:timedRefresh(20000);">
+<div class="row">
+    <div class="col-md-4">
+            <form asp-action="Booking">
+
+                <p><strong>Pick Up Location: </strong> @Model.Booking.PickupLocation</p>
+
+                <p><strong>Drop Off Location: </strong> @Model.Booking.DropLocation</p>
+
+                <p><strong>Pickup Time: </strong> @Model.Booking.PickupTime</p>
+
+                <p><strong>DropOff Time: </strong> @Model.Booking.DropTime</p>
+
+                <p class="small">Estimated time, it does not account for traffic</p>
+
+                <p><strong>Booking Amount: </strong>  @String.Format("{0:n2}",@Model.Booking.Payment)</p>
+
+                <p><strong>Payment Mode: </strong> @Model.Booking.PaymentMode</p>
+
+                <p><strong>Booking Ride For: </strong> @Model.Booking.PhoneNumber</p>
+
+            <h5>Your Driver</h5>
+
+                <p><strong>Driver Name: </strong>  @Model.Vehicle.Name</p>
+
+                <p><strong>Gender: </strong> @Model.Vehicle.Gender</p>
+
+                <p><strong>Vehicle Type: </strong> @Model.Vehicle.VehicleType</p>
+
+                <p><strong>No. of Seats: </strong> @Model.Vehicle.Seating</p>
+
+                <p><strong>Vehicle Model: </strong>  @Model.Vehicle.VehicleModel</p>
+
+                <p><strong>Manufacturer: </strong>  @Model.Vehicle.Manufacturer</p>
+
+                <p><strong>Rating: </strong> @Model.Vehicle.Rating</p>
+
+                @{
+                    ViewBag.Status = Model.Booking.Status;
+                }
+
+                @if(ViewBag.Status == Statuses.Accepted.ToString())
+                {
+                    <p>The OTP for the driver is: @TempData["Otp"]</p>
+                }
+
+                @if (ViewBag.Status != Statuses.Arrived.ToString() && ViewBag.Status != Statuses.Completed.ToString())
+                {
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        @Html.DropDownList("CancellationReasons", new SelectList((List<string>)ViewBag.CancellationReasons), "--Select a reason--")
+                    </div>
+                    <div class="form-group">
+                        <input type="hidden" id="PickupLocation" name="PickupLocation" value="@Model.Booking.PickupLocation" />
+                    </div>
+                    <div class="form-group">
+                        <input type="hidden" id="DropLocation" name="DropLocation" value="@Model.Booking.DropLocation" />
+                    </div>
+                    <div class="form-group">
+                        <input type="hidden" id="PickupTime" name="PickupTime" value="@Model.Booking.PickupTime" />
+                    </div>
+                    <div class="form-group">
+                        <input type="hidden" id="DropTime" name="DropTime" value="@Model.Booking.DropTime" />
+                    </div>
+                    <div class="form-group">
+                        <input type="hidden" id="Payment" name="Payment" value="@Model.Booking.Payment" />
+                    </div>
+                    <div class="form-group">
+                        <input type="hidden" id="PaymentMode" name="PaymentMode" value="@Model.Booking.PaymentMode" />
+                    </div>
+                    <div class="form-group">
+                        <input type="hidden" id="PhoneNumber" name="PhoneNumber" value="@Model.Booking.PhoneNumber" />
+                    </div>
+                    <div class="form-group">
+                        <input type="hidden" id="Status" name="Status" value="@Model.Booking.Status" />
+                    </div>
+                    <div class="form-group">
+                        <input type="hidden" id="DriverEmail" name="DriverEmail" value="@Model.Booking.DriverEmail" />
+                    </div>
+                    <div class="form-group">
+                        <input type="hidden" id="VehiclePreference" name="VehiclePreference" value="@Model.Booking.VehiclePreference" />
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Decline the Ride" class="btn btn-primary" />
+                    </div>
+                }
+        </form>
+    </div>
+</div>
+</body>

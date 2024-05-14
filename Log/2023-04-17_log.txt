@@ -1,0 +1,26 @@
+2023-04-17 00:00:23.3820 INFO UserRepo: user list displayed successfully
+2023-04-17 00:00:23.6965 INFO User logged in successfully
+2023-04-17 00:00:27.3711 INFO Areas returned successfully
+2023-04-17 00:00:27.3711 INFO Areas fetched from database successfully
+2023-04-17 00:00:29.4797 INFO StateRepo: State list displayed successfully
+2023-04-17 00:00:29.5006 INFO States fetched from database successfully
+2023-04-17 00:00:32.9481 INFO StateRepo: State list displayed successfully
+2023-04-17 00:00:32.9481 INFO States fetched from database successfully
+2023-04-17 00:00:33.6812 INFO CityRepo: City was added successfully
+2023-04-17 00:00:33.6812 INFO City added sucessfully
+2023-04-17 00:00:33.7472 INFO CityRepo: City list fetched successfully
+2023-04-17 00:00:33.7472 INFO Cities fetched from database successfully
+2023-04-17 00:00:35.7916 INFO StateRepo: State list displayed successfully
+2023-04-17 00:00:35.8020 INFO States fetched from database successfully
+2023-04-17 00:00:35.8244 INFO StateRepo: State searched successfully
+2023-04-17 00:00:35.8385 INFO 4 found sucessfully
+2023-04-17 00:00:38.3880 INFO StateRepo: State list displayed successfully
+2023-04-17 00:00:38.3971 INFO States fetched from database successfully
+2023-04-17 00:00:38.4755 INFO CityRepo: city was updated successfully
+2023-04-17 00:00:38.4755 INFO 4 city updated sucessfully
+2023-04-17 00:00:38.5107 INFO CityRepo: City list fetched successfully
+2023-04-17 00:00:38.5107 INFO Cities fetched from database successfully
+2023-04-17 00:00:41.7903 INFO CityRepo: city was deleted successfully
+2023-04-17 00:00:41.7903 INFO City 4 removed
+2023-04-17 00:00:41.8271 INFO CityRepo: City list fetched successfully
+2023-04-17 00:00:41.8271 INFO Cities fetched from database successfully

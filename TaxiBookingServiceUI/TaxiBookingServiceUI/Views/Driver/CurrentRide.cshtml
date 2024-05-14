@@ -1,0 +1,137 @@
+﻿@model TaxiBookingServiceUI.Models.BookingViewModel
+
+@{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    ViewData["Title"] = "CurrentRide";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+<script>
+    $(document).ready(function () {
+        console.log("change");
+        $('#Verify').change(function () {
+            var selectionval = (this.value);
+            console.log(selectionval)
+            if(selectionval == "False") {
+                document.getElementById("Remark").style.display = "block";
+            }
+            else {
+                document.getElementById("Remark").style.display = "none";
+            }
+        });
+    });
+</script>
+
+<body>
+<h5>Current Ride</h5>
+
+<strong style="color: red">@TempData["errmsg"]</strong>
+<strong style="color: green">@TempData["msg"]</strong>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PickupLocation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PickupLocation)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PickupTime)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PickupTime)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DropTime)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DropTime)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DropLocation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DropLocation)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PaymentMode)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PaymentMode)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Payment)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Payment)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PhoneNumber)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VehiclePreference)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VehiclePreference)
+        </dd>
+    </dl>
+</div>
+<div>
+
+            @{
+            ViewBag.Status = Model.Status;
+
+            if(ViewBag.Status == Statuses.Accepted.ToString())
+            {
+                <br />
+
+
+                @using (Html.BeginForm("ReachedLocation", "Driver", FormMethod.Post, new { id = Model.Id}))
+                {
+                    @Html.HiddenFor(model => model.Id)
+                    <strong>Enter the OTP given by the user? </strong>
+                    <input type="number" id="Otp" name="Otp" class="form-control"/>
+                    <br />
+                    <input type="submit" value="Verify" />
+                }
+            }
+            if(ViewBag.Status == Statuses.Arrived.ToString())
+            {
+                <br />
+                @Html.ActionLink("Ride Completed", "CompleteRide", new {id = Model.Id})
+            }
+            if(ViewBag.Status == Statuses.Completed.ToString())
+            {
+                @using (Html.BeginForm("PaymentVerfied", "Driver" , FormMethod.Post, new { id = Model.Id, Verify = Model.Verify }))
+                {
+                    <strong>Payment Mode? </strong>
+                    @Html.HiddenFor(model => model.Id)
+
+
+                    <label asp-for="PaymentMode" class="control-label required"></label>
+                    @Html.DropDownList("PaymentMode", new List<SelectListItem>() { new SelectListItem() { Text = "Cash", Value = "Cash" }, new SelectListItem() { Text = "UPI", Value = "UPI" } }, "--Payment Mode--", new {@id="PaymentMode", @class="form-control"})
+
+                    <strong>Verify that the payment has been done? </strong>
+                    @Html.DropDownListFor(model => model.Verify, new List<SelectListItem>() { new SelectListItem() { Text = "Yes", Value = "True" }, new SelectListItem() { Text = "No", Value = "False" } }, "Verify", htmlAttributes: new {@id="Verify", @class = "form-control"})
+                    <br />
+                    
+                    <div id="Remark" style="display: none">
+                        <label id="Remark" class="control-label">Remark</label>
+                        <input type="text" id="Remark" name="Remark" class="form-control"/>
+                    </div>
+
+                    <input type="submit" value="Verify" />
+                }
+            }
+        }
+</div>
+</body>

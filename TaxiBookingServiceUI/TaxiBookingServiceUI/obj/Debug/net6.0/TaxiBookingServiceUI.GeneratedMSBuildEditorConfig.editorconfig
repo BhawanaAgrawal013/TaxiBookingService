@@ -1,0 +1,211 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TaxiBookingServiceUI
+build_property.RootNamespace = TaxiBookingServiceUI
+build_property.ProjectDir = F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingServiceUI\TaxiBookingServiceUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Dot_Net_Training2023\Week 8\week-8\TaxiBookingService\TaxiBookingServiceUI\TaxiBookingServiceUI
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Admin/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGlzcGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Admin/DriverVehicle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRHJpdmVyVmVoaWNsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Admin/SearchBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2VhcmNoQm9va2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Area/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Area/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYVxEaXNwbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Area/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Booking/AvailableRides.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xBdmFpbGFibGVSaWRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Booking/Booking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Booking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Booking/Rating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xSYXRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Booking/UserBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xVc2VyQm9va2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Booking/Waiting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xXYWl0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/CancellationReason/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuY2VsbGF0aW9uUmVhc29uXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/CancellationReason/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuY2VsbGF0aW9uUmVhc29uXERpc3BsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/City/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/City/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxEaXNwbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/City/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Driver/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Driver/CurrentRide.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXEN1cnJlbnRSaWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Driver/GetRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXEdldFJlcXVlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Driver/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Driver/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Driver/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Driver/Rating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHJpdmVyXFJhdGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Location/DriverLocation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25cRHJpdmVyTG9jYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Shared/UnAuthorized.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFVuQXV0aG9yaXplZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Shared/_DriverLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ecml2ZXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Shared/_LoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/State/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/State/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcRGlzcGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/State/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/User/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/User/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/VehicleDetail/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZURldGFpbFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/VehicleDetail/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZURldGFpbFxEaXNwbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/VehicleDetail/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZURldGFpbFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Dot_Net_Training2023/Week 8/week-8/TaxiBookingService/TaxiBookingServiceUI/TaxiBookingServiceUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-h5ue75i46i

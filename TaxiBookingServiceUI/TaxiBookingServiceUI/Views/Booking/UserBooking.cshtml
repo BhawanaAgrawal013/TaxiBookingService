@@ -1,0 +1,50 @@
+﻿@model TaxiBookingServiceUI.Models.BookingViewModel
+
+@{
+    ViewData["Title"] = "UserBooking";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h5>Booking Request</h5>
+
+<hr />
+
+<strong style="color: red">@TempData["errmsg"]</strong>
+<strong style="color: green">@TempData["msg"]</strong>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UserBooking">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PickupLocation" class="control-label"></label>
+                <input asp-for="PickupLocation" class="form-control" />
+                <span asp-validation-for="PickupLocation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DropLocation" class="control-label"></label>
+                <input asp-for="DropLocation" class="form-control" />
+                <span asp-validation-for="DropLocation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PickupTime" class="control-label"></label>
+                <input asp-for="PickupTime" class="form-control" />
+                <span asp-validation-for="PickupTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhoneNumber" class="control-label"></label>
+                <input asp-for="PhoneNumber" class="form-control" type="number"/>
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PaymentMode" class="control-label required"></label>
+                @Html.DropDownList("PaymentMode", new SelectList((List<string>)ViewBag.PaymentModes), "--Payment Mode--", new { @class="form-control"})
+                <span asp-validation-for="PaymentMode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Request" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+

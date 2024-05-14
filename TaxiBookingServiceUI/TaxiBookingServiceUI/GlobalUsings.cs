@@ -1,0 +1,10 @@
+﻿global using AssetManagementSystemUI;
+global using Microsoft.AspNetCore.Mvc;
+global using Newtonsoft.Json;
+global using TaxiBookingServiceUI.Models;
+global using System.Net.Http.Headers;
+global using TaxiBookingServiceUI.Services;
+global using System.Dynamic;
+global using System.ComponentModel;
+global using System.ComponentModel.DataAnnotations;
+global using System.Diagnostics;

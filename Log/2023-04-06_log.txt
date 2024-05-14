@@ -1,0 +1,70 @@
+2023-04-06 14:32:16.4394 INFO User bhawana@gmail.com found
+2023-04-06 14:32:16.7409 INFO VehicleTypeRepo: Type added sucessfully
+2023-04-06 14:32:16.7409 INFO Vehicle Detail added sucessfully
+2023-04-06 14:32:22.6146 INFO vehicleTypeRepository: Types fetched successfully
+2023-04-06 14:32:22.6146 INFO Vehicle Types fetched from database successfully
+2023-04-06 14:32:41.7891 WARN VehicleDetailRepository: There are no Vehicle details present
+2023-04-06 14:32:41.7891 WARN There are no Vehicle Details present
+2023-04-06 14:33:10.9591 INFO User bhawana@gmail.com found
+2023-04-06 14:33:10.9855 INFO PaymentModeRepo: Payment Mode added sucessfully
+2023-04-06 14:33:10.9855 INFO Payment Mode added sucessfully
+2023-04-06 14:34:07.3034 INFO State string found
+2023-04-06 14:34:07.3034 ERROR City could not be added
+2023-04-06 14:34:25.2924 INFO State string found
+2023-04-06 14:34:25.2924 ERROR City could not be added
+2023-04-06 14:34:33.0042 INFO State Rajasthan found
+2023-04-06 14:34:33.0042 INFO User bhawana@gmail.com found
+2023-04-06 14:34:33.0408 INFO CityRepo: City added sucessfully
+2023-04-06 14:34:33.0408 INFO City added sucessfully
+2023-04-06 14:35:27.8411 INFO State Jaipur found
+2023-04-06 14:35:27.8440 INFO User bhawana@gmail.com found
+2023-04-06 14:35:27.8739 INFO AreaRepo: Area added sucessfully
+2023-04-06 14:35:27.8739 INFO Area added sucessfully
+2023-04-06 14:35:35.3979 INFO AreaRepository: Areas fetched successfully
+2023-04-06 14:35:35.3979 INFO Areas fetched from database successfully
+2023-04-06 14:36:05.6686 INFO AreaRepository: Areas fetched successfully
+2023-04-06 14:36:18.5221 INFO Areas fetched from database successfully
+2023-04-06 14:37:25.1620 INFO AreaRepository: Areas fetched successfully
+2023-04-06 14:37:25.1620 INFO Areas fetched from database successfully
+2023-04-06 14:51:39.5395 INFO UserRepository: Users fetched successfully
+2023-04-06 14:51:39.8600 INFO User logged in successfully
+2023-04-06 14:53:00.1469 INFO StateRepository: States fetched successfully
+2023-04-06 14:53:00.1469 INFO States fetched from database successfully
+2023-04-06 16:11:25.5351 INFO AreaRepository: Areas fetched successfully
+2023-04-06 16:11:25.7503 INFO Areas fetched from database successfully
+2023-04-06 16:11:46.7231 INFO StateRepository: States fetched successfully
+2023-04-06 16:11:46.7231 INFO States fetched from database successfully
+2023-04-06 16:18:26.3644 INFO StateRepository: States fetched successfully
+2023-04-06 16:18:26.5764 INFO States fetched from database successfully
+2023-04-06 16:50:30.2736 INFO StateRepository: States fetched successfully
+2023-04-06 16:50:30.4292 INFO States fetched from database successfully
+2023-04-06 16:54:58.2656 INFO StateRepository: States fetched successfully
+2023-04-06 16:54:58.2656 INFO States fetched from database successfully
+2023-04-06 16:55:24.0054 INFO AreaRepository: Areas fetched successfully
+2023-04-06 16:55:24.0054 INFO Areas fetched from database successfully
+2023-04-06 16:56:22.2278 INFO AreaRepository: Areas fetched successfully
+2023-04-06 16:56:22.3650 INFO Areas fetched from database successfully
+2023-04-06 17:02:11.2500 INFO StateRepository: States fetched successfully
+2023-04-06 17:02:11.3960 INFO States fetched from database successfully
+2023-04-06 17:05:09.6756 INFO StateRepository: States fetched successfully
+2023-04-06 17:05:09.8149 INFO States fetched from database successfully
+2023-04-06 17:10:18.1944 INFO StateRepository: States fetched successfully
+2023-04-06 17:10:18.3305 INFO States fetched from database successfully
+2023-04-06 17:12:39.6127 INFO StateRepository: States fetched successfully
+2023-04-06 17:12:39.7788 INFO States fetched from database successfully
+2023-04-06 17:13:08.2061 INFO StateRepository: States fetched successfully
+2023-04-06 17:13:08.2061 INFO States fetched from database successfully
+2023-04-06 17:16:21.4659 INFO StateRepository: States fetched successfully
+2023-04-06 17:16:21.5939 INFO States fetched from database successfully
+2023-04-06 17:25:04.3991 INFO StateRepository: States fetched successfully
+2023-04-06 17:25:04.5364 INFO States fetched from database successfully
+2023-04-06 17:29:22.4065 INFO CityRepository: Cities fetched successfully
+2023-04-06 17:29:22.5539 INFO Cities fetched from database successfully
+2023-04-06 17:29:31.6137 INFO StateRepository: States fetched successfully
+2023-04-06 17:29:31.6137 INFO States fetched from database successfully
+2023-04-06 17:29:52.9673 INFO AreaRepository: Areas fetched successfully
+2023-04-06 17:29:52.9673 INFO Areas fetched from database successfully
+2023-04-06 17:37:23.6498 INFO StateRepository: States fetched successfully
+2023-04-06 17:37:23.8866 INFO States fetched from database successfully
+2023-04-06 17:39:33.3884 INFO StateRepository: States fetched successfully
+2023-04-06 17:39:33.5987 INFO States fetched from database successfully

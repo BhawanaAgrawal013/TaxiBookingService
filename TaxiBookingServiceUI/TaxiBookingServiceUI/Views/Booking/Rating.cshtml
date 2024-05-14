@@ -1,0 +1,74 @@
+﻿@model TaxiBookingServiceUI.Models.BookingViewModel
+
+@{
+    ViewData["Title"] = "Rating";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h5>Rating</h5>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Rating">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+            <div class="form-group">
+                <input type="hidden" id="PickupLocation" name="PickupLocation" value="@Model.PickupLocation" />
+            </div>
+            <div class="form-group">
+                <input type="hidden" id="DropLocation" name="DropLocation" value="@Model.DropLocation" />
+            </div>
+            <div class="form-group">
+                <input type="hidden" id="PickupTime" name="PickupTime" value="@Model.PickupTime" />
+            </div>
+            <div class="form-group">
+                <input type="hidden" id="DropTime" name="DropTime" value="@Model.DropTime" />
+            </div>
+            <div class="form-group">
+                <input type="hidden" id="Payment" name="Payment" value="@Model.Payment" />
+            </div>
+            <div class="form-group">
+                <input type="hidden" id="PaymentMode" name="PaymentMode" value="@Model.PaymentMode" />
+            </div>
+            <div class="form-group">
+                <input type="hidden" id="PhoneNumber" name="PhoneNumber" value="@Model.PhoneNumber" />
+            </div>
+            <div class="form-group">
+                <input type="hidden" id="Status" name="Status" value="@Model.Status" />
+            </div>
+            <div class="form-group">
+                <input type="hidden" id="DriverEmail" name="DriverEmail" value="@Model.DriverEmail" />
+            </div>
+            <div class="form-group">
+                <input type="hidden" id="VehiclePreference" name="VehiclePreference" value="@Model.VehiclePreference" />
+            </div>
+
+
+            <div class="form-group">
+                <label for="Rating" name="Rating" class="control-label required">Rating </label>
+                <input for="Rating" name="Rating"  class="form-control" />
+                <span for="Rating" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Comment" name="Comment" class="control-label required">Comment </label>
+                <input for="Comment" name="Comment" class="form-control" />
+                <span for="Comment" class="text-danger"></span>
+            </div>
+            @*<div class="form-group">
+                <label asp-for="DriverEmail" class="control-label"></label>
+                <input asp-for="DriverEmail" class="form-control" />
+                <span asp-validation-for="DriverEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookingId" class="control-label"></label>
+                <input asp-for="BookingId" class="form-control" />
+                <span asp-validation-for="BookingId" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+                <input type="submit" value="Rate" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

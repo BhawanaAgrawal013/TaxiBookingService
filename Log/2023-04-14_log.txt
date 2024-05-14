@@ -1,0 +1,97 @@
+2023-04-14 00:00:14.7356 ERROR 17 could not be found
+2023-04-14 00:07:51.6133 ERROR 17 could not be found
+2023-04-14 08:38:41.9777 INFO Cities fetched from database successfully
+2023-04-14 08:41:02.4817 INFO Roles fetched from database successfully
+2023-04-14 08:42:37.2573 INFO States fetched from database successfully
+2023-04-14 08:42:44.0352 INFO Users fetched from database successfully
+2023-04-14 08:42:57.5266 WARN There are no Vehicle Details present
+2023-04-14 08:45:00.5129 INFO Vehicle Types fetched from database successfully
+2023-04-14 08:45:15.6717 INFO 1 found sucessfully
+2023-04-14 08:45:43.2624 INFO Vehicle Detail added sucessfully
+2023-04-14 08:46:38.7173 INFO 2 Vehicle Detail updated sucessfully
+2023-04-14 08:46:50.3311 INFO Vehicle Types fetched from database successfully
+2023-04-14 08:47:02.0996 INFO Vehicle Detail 2 removed
+2023-04-14 08:47:09.0017 INFO Vehicle Types fetched from database successfully
+2023-04-14 08:47:27.8414 INFO Users fetched from database successfully
+2023-04-14 08:50:54.7121 INFO User added sucessfully
+2023-04-14 08:51:24.5773 INFO testing@example.com found sucessfully
+2023-04-14 08:53:28.6325 INFO testing@example.com user updated sucessfully
+2023-04-14 08:56:13.5894 ERROR User could not be found
+2023-04-14 08:56:30.1382 INFO User logged in successfully
+2023-04-14 08:56:48.9847 WARN There are no Vehicle Details present
+2023-04-14 08:56:53.2407 WARN There are no Vehicle Details present
+2023-04-14 08:57:31.5107 WARN There are no Vehicle Details present
+2023-04-14 08:58:08.7204 WARN There are no Vehicle Details present
+2023-04-14 08:58:34.2571 INFO States fetched from database successfully
+2023-04-14 08:58:47.3624 INFO 5 found sucessfully
+2023-04-14 08:59:10.7902 INFO State added sucessfully
+2023-04-14 08:59:26.8187 INFO States fetched from database successfully
+2023-04-14 08:59:51.4783 INFO 6 state updated sucessfully
+2023-04-14 09:00:00.1108 INFO States fetched from database successfully
+2023-04-14 09:00:08.4689 INFO State 6 removed
+2023-04-14 09:00:14.3084 INFO States fetched from database successfully
+2023-04-14 09:00:38.7786 INFO Roles fetched from database successfully
+2023-04-14 09:00:52.2259 INFO Payment Modes fetched from database successfully
+2023-04-14 09:01:15.8310 ERROR 3 could not be updated
+2023-04-14 09:01:43.2930 INFO Payment Mode added sucessfully
+2023-04-14 09:01:51.6870 INFO Payment Modes fetched from database successfully
+2023-04-14 09:02:22.9726 ERROR 2 could not be updated
+2023-04-14 09:02:32.5125 INFO 2 Payment Mode updated sucessfully
+2023-04-14 09:03:13.0916 INFO Cancellation Reason fetched from database successfully
+2023-04-14 09:10:40.0937 INFO Cancellation Reason fetched from database successfully
+2023-04-14 09:11:02.9896 INFO Cancellation Reason added sucessfully
+2023-04-14 09:11:17.2202 INFO Cancellation Reason fetched from database successfully
+2023-04-14 09:11:34.5788 INFO 6 Cancellation Reason updated sucessfully
+2023-04-14 09:11:41.6406 INFO Cancellation Reason 6 removed
+2023-04-14 09:11:46.9028 INFO Cancellation Reason fetched from database successfully
+2023-04-14 09:12:34.3035 INFO Areas fetched from database successfully
+2023-04-14 09:13:11.7790 ERROR Area could not be added
+2023-04-14 09:13:19.2184 INFO Area added sucessfully
+2023-04-14 09:13:33.9042 INFO Areas fetched from database successfully
+2023-04-14 09:13:39.8695 INFO Area 3 removed
+2023-04-14 09:13:45.0163 INFO Areas fetched from database successfully
+2023-04-14 09:13:45.2366 INFO Areas fetched from database successfully
+2023-04-14 09:14:40.7872 INFO Booking Status fetched from database successfully
+2023-04-14 09:15:16.6765 INFO Booking Status added sucessfully
+2023-04-14 09:15:26.9518 INFO Booking Status fetched from database successfully
+2023-04-14 09:15:47.7702 INFO 5 Booking Status updated sucessfully
+2023-04-14 09:32:29.5552 INFO Users fetched from database successfully
+2023-04-14 09:38:05.2826 INFO Users fetched from database successfully
+2023-04-14 09:39:07.3066 ERROR User could not be added
+2023-04-14 09:40:14.4263 INFO User added sucessfully
+2023-04-14 09:40:55.4713 INFO Users fetched from database successfully
+2023-04-14 09:41:26.4640 INFO driver@example.com found sucessfully
+2023-04-14 09:41:53.9139 ERROR driver@example.com could not be found
+2023-04-14 09:42:22.3417 ERROR User could not be found
+2023-04-14 09:42:26.9944 ERROR User could not be found
+2023-04-14 09:43:22.3770 ERROR User could not be found
+2023-04-14 09:45:11.9206 ERROR User could not be found
+2023-04-14 09:45:22.1541 INFO Users fetched from database successfully
+2023-04-14 09:54:58.9361 INFO Users fetched from database successfully
+2023-04-14 09:57:29.0254 INFO User 6 removed
+2023-04-14 09:58:26.1494 ERROR User could not be added
+2023-04-14 09:58:36.0639 ERROR User could not be added
+2023-04-14 09:58:38.0921 ERROR User could not be added
+2023-04-14 09:59:09.3021 ERROR User could not be added
+2023-04-14 10:01:29.5908 ERROR User could not be added
+2023-04-14 10:02:46.9625 INFO User added sucessfully
+2023-04-14 10:04:08.2313 INFO User logged in successfully
+2023-04-14 10:05:01.5405 INFO User logged in successfully
+2023-04-14 10:08:52.1102 INFO City added sucessfully
+2023-04-14 10:09:14.0486 ERROR driving@example.com could not be found
+2023-04-14 10:10:39.3588 INFO driving@example.com Vehicle Detail updated sucessfully
+2023-04-14 10:11:43.6817 ERROR User could not be found
+2023-04-14 13:22:46.4738 ERROR 98 could not be updated
+2023-04-14 17:01:19.6309 ERROR User could not be found
+2023-04-14 17:01:24.0917 ERROR User could not be found
+2023-04-14 17:01:32.3715 ERROR User could not be found
+2023-04-14 17:01:36.8686 INFO Users fetched from database successfully
+2023-04-14 17:01:52.5838 ERROR User could not be found
+2023-04-14 17:02:00.9819 ERROR User could not be found
+2023-04-14 17:02:18.4270 INFO User logged in successfully
+2023-04-14 17:02:44.9065 INFO Areas returned successfully
+2023-04-14 17:02:44.9065 INFO Areas fetched from database successfully
+2023-04-14 21:05:27.7770 INFO Areas returned successfully
+2023-04-14 21:05:27.8904 INFO Areas fetched from database successfully
+2023-04-14 21:07:15.8922 INFO Areas returned successfully
+2023-04-14 21:07:15.8922 INFO Areas fetched from database successfully

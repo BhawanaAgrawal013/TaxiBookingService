@@ -1,0 +1,94 @@
+2023-04-13 00:39:16.7393 INFO User user@example.com found
+2023-04-13 00:40:20.6302 ERROR Role could not be added
+2023-04-13 00:40:41.7830 INFO User user@example.com found
+2023-04-13 00:41:15.9600 ERROR Role could not be added
+2023-04-13 00:41:36.4822 INFO User user@example.com found
+2023-04-13 00:45:04.0755 INFO UserRepository: Users fetched successfully
+2023-04-13 00:45:04.5663 INFO User logged in successfully
+2023-04-13 00:45:07.6295 INFO StateRepository: States fetched successfully
+2023-04-13 00:45:07.6295 INFO Payment Modes fetched from database successfully
+2023-04-13 00:45:27.0782 INFO StateRepository: States fetched successfully
+2023-04-13 00:45:27.0782 INFO Payment Modes fetched from database successfully
+2023-04-13 00:45:46.4630 INFO User manish@gmail.com found
+2023-04-13 00:45:46.5265 INFO Cancelled bookings found sucessfully
+2023-04-13 00:49:04.1879 INFO StateRepository: States fetched successfully
+2023-04-13 00:49:04.1879 INFO Payment Modes fetched from database successfully
+2023-04-13 00:49:05.7610 INFO StateRepository: States fetched successfully
+2023-04-13 00:49:05.7610 INFO Payment Modes fetched from database successfully
+2023-04-13 00:49:40.0889 INFO UserRepository: Users fetched successfully
+2023-04-13 00:49:40.0889 INFO User logged in successfully
+2023-04-13 00:49:42.2931 INFO StateRepository: States fetched successfully
+2023-04-13 00:49:42.2931 INFO Payment Modes fetched from database successfully
+2023-04-13 00:50:03.8896 INFO StateRepository: States fetched successfully
+2023-04-13 00:50:03.8896 INFO Payment Modes fetched from database successfully
+2023-04-13 00:50:11.8300 INFO User manish@gmail.com found
+2023-04-13 00:50:11.8473 INFO Cancelled bookings found sucessfully
+2023-04-13 00:51:05.6096 INFO User logged in successfully
+2023-04-13 00:51:18.0686 INFO Payment Mode found
+2023-04-13 00:51:18.0731 INFO User manish@gmail.com found
+2023-04-13 00:51:18.7052 INFO PaymentRepo: Payment added sucessfully
+2023-04-13 00:51:18.7275 INFO User manish@gmail.com found
+2023-04-13 00:51:19.0676 INFO BookingRepo: Booking added sucessfully
+2023-04-13 00:51:19.0676 INFO Booking Status added sucessfully
+2023-04-13 00:51:19.2397 INFO 22 found sucessfully
+2023-04-13 00:51:21.5699 INFO StateRepository: States fetched successfully
+2023-04-13 00:51:21.5699 INFO Payment Modes fetched from database successfully
+2023-04-13 00:51:48.3302 INFO StateRepository: States fetched successfully
+2023-04-13 00:51:48.3302 INFO Payment Modes fetched from database successfully
+2023-04-13 00:52:09.1987 INFO User manish@gmail.com found
+2023-04-13 00:52:09.2183 INFO Cancelled bookings found sucessfully
+2023-04-13 09:07:05.6407 INFO UserRepository: Users fetched successfully
+2023-04-13 09:07:06.3664 INFO User logged in successfully
+2023-04-13 09:07:38.3079 INFO UserRepository: Users fetched successfully
+2023-04-13 09:07:38.3079 INFO User logged in successfully
+2023-04-13 09:07:40.6428 INFO StateRepository: States fetched successfully
+2023-04-13 09:07:40.6428 INFO Payment Modes fetched from database successfully
+2023-04-13 09:07:58.0548 INFO StateRepository: States fetched successfully
+2023-04-13 09:07:58.0548 INFO Payment Modes fetched from database successfully
+2023-04-13 09:08:05.2524 INFO User manish@gmail.com found
+2023-04-13 09:08:05.3222 INFO Cancelled bookings found sucessfully
+2023-04-13 09:08:59.5641 INFO StateRepository: States fetched successfully
+2023-04-13 09:08:59.5641 INFO Payment Modes fetched from database successfully
+2023-04-13 09:08:59.5770 INFO StateRepository: States fetched successfully
+2023-04-13 09:08:59.5770 INFO Payment Modes fetched from database successfully
+2023-04-13 09:11:01.4883 INFO UserRepository: Users fetched successfully
+2023-04-13 09:11:01.4893 INFO User logged in successfully
+2023-04-13 09:11:03.5778 INFO StateRepository: States fetched successfully
+2023-04-13 09:11:03.5778 INFO Payment Modes fetched from database successfully
+2023-04-13 09:12:56.4501 INFO UserRepository: Users fetched successfully
+2023-04-13 09:12:56.4501 INFO User logged in successfully
+2023-04-13 09:12:58.4022 INFO StateRepository: States fetched successfully
+2023-04-13 09:12:58.4022 INFO Payment Modes fetched from database successfully
+2023-04-13 09:14:08.7172 INFO UserRepository: Users fetched successfully
+2023-04-13 09:14:08.7172 INFO User logged in successfully
+2023-04-13 09:14:10.2506 INFO StateRepository: States fetched successfully
+2023-04-13 09:14:10.2506 INFO Payment Modes fetched from database successfully
+2023-04-13 09:14:49.2164 INFO User manish@gmail.com found
+2023-04-13 09:14:49.2329 INFO Cancelled bookings found sucessfully
+2023-04-13 09:16:03.5535 INFO Booking Status added sucessfully
+2023-04-13 09:20:07.2557 INFO Booking Status added sucessfully
+2023-04-13 09:23:00.5546 INFO UserRepository: Users fetched successfully
+2023-04-13 09:23:01.0203 INFO User logged in successfully
+2023-04-13 09:23:05.5317 INFO StateRepository: States fetched successfully
+2023-04-13 09:23:05.5317 INFO Payment Modes fetched from database successfully
+2023-04-13 09:23:34.6805 INFO User manish@gmail.com found
+2023-04-13 09:23:34.7473 INFO Cancelled bookings found sucessfully
+2023-04-13 09:23:54.7310 INFO Booking Status added sucessfully
+2023-04-13 09:25:31.3668 INFO User logged in successfully
+2023-04-13 10:15:00.8742 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-13 10:15:01.1254 INFO Cancellation Reason fetched from database successfully
+2023-04-13 10:19:46.2956 INFO CityRepository: Cities fetched successfully
+2023-04-13 10:19:46.2956 INFO Cities fetched from database successfully
+2023-04-13 12:32:28.1566 ERROR User could not be added
+2023-04-13 12:35:34.8750 ERROR User could not be added
+2023-04-13 12:35:56.8990 INFO User added sucessfully
+2023-04-13 12:45:21.0380 INFO Users fetched from database successfully
+2023-04-13 12:46:16.0893 INFO test@example.com found sucessfully
+2023-04-13 12:46:29.8808 INFO Users fetched from database successfully
+2023-04-13 12:47:57.7517 ERROR User could not be found
+2023-04-13 22:06:40.7377 INFO Areas fetched from database successfully
+2023-04-13 22:07:06.1620 ERROR Area could not be added
+2023-04-13 22:57:36.7392 INFO Cities fetched from database successfully
+2023-04-13 23:58:43.2836 INFO Areas fetched from database successfully
+2023-04-13 23:58:59.8126 ERROR 15 could not be found
+2023-04-13 23:59:23.5881 ERROR 17 could not be found

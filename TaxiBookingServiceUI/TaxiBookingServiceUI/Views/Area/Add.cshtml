@@ -1,0 +1,90 @@
+﻿@model TaxiBookingServiceUI.Models.AreaViewModel
+
+@{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    ViewData["Title"] = "Add";
+}
+
+<script>
+    $(document).ready(function () {
+        console.log("change");
+        $('#State').change(function () {
+            var selectionval = (this.value);
+            var markup = "<option value='0'>--Select City--</option>";
+            console.log("change function selection" + selectionval)
+            $("#City").html('');
+            $.ajax({
+                type: "POST",
+                dataType: "JSON",
+                url: "/Location/GetCities",
+                data: { state: selectionval },
+                success:
+                    function (data) {
+                        console.log(data);
+                        for (var i = 0; i < data.length; i++) {
+                            markup += "<option value=" + data[i] + ">" + data[i] + "</option>";
+                            console.log("po" + data[i] + "sel" + selectionval)
+                        }
+                        $("#City").append(markup);
+                        $("#locationCityDiv").show();
+                    },
+                error: function (data) {
+                    alert("error" + data);
+                }
+            })
+        });
+    });
+</script>
+
+<h5>Add</h5>
+
+<hr />
+
+<strong style="color: red">@TempData["errmsg"]</strong>
+<strong style="color: green">@TempData["msg"]</strong>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Add">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="State" class="control-label"></label>
+                @Html.DropDownList("State", new SelectList((List<string>)ViewBag.States), "--Select--", new { @id="State", @class="form-control"})
+                <span asp-validation-for="State" class="text-danger"></span>
+            </div>
+
+            <div class="form-group" id="locationCityDiv">
+                <label for="City">City</label>
+                <div>
+                    <select class="form-control" id="City" name="City" title="City"></select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="Area" class="control-label"></label>
+                <input asp-for="Area" class="form-control" />
+                <span asp-validation-for="Area" class="text-danger"></span>
+            </div>
+            @*<div class="form-group">
+                <label asp-for="City" class="control-label"></label>
+                @Html.DropDownList("City", new SelectList((List<string>)ViewBag.Cities))
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+                <label asp-for="Pincode" class="control-label"></label>
+                <input asp-for="Pincode" class="form-control" />
+                <span asp-validation-for="Pincode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Display">Area List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

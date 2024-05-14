@@ -1,0 +1,212 @@
+2023-04-11 09:07:08.1376 INFO yashika@gmail.com found sucessfully
+2023-04-11 09:15:27.2758 WARN BookingStatusRepo: There are no Booking Status present
+2023-04-11 09:15:27.2779 WARN There are no Booking Status present
+2023-04-11 09:15:51.6624 INFO User bhawana@gmail.com found
+2023-04-11 09:15:52.5332 INFO BookingStatusRepo: Booking Status added sucessfully
+2023-04-11 09:15:52.5332 INFO Booking Status added sucessfully
+2023-04-11 09:15:57.8416 INFO BookingStatusRepo: Booking Status fetched successfully
+2023-04-11 09:15:57.8416 INFO Booking Status fetched from database successfully
+2023-04-11 09:20:23.8573 INFO StateRepository: States fetched successfully
+2023-04-11 09:20:23.8573 INFO Payment Modes fetched from database successfully
+2023-04-11 09:32:33.4522 INFO User user@example.com found
+2023-04-11 09:32:59.8579 ERROR UserRepo: User could not be added
+2023-04-11 09:32:59.8745 ERROR Booking Status could not be added
+2023-04-11 09:33:38.7838 INFO BookingStatusRepo: Booking Status fetched successfully
+2023-04-11 09:33:38.8945 INFO Booking Status fetched from database successfully
+2023-04-11 09:34:08.8342 INFO StateRepository: States fetched successfully
+2023-04-11 09:34:08.8342 INFO Payment Modes fetched from database successfully
+2023-04-11 09:34:56.4919 INFO User user@example.com found
+2023-04-11 09:36:59.2947 INFO User user@example.com found
+2023-04-11 09:40:02.0981 INFO Vehicle found
+2023-04-11 09:40:10.9804 INFO User user@example.com found
+2023-04-11 09:42:25.4193 ERROR UserRepo: User could not be added
+2023-04-11 09:42:25.4193 ERROR Booking Status could not be added
+2023-04-11 09:43:08.7480 INFO Vehicle found
+2023-04-11 09:43:11.4946 INFO User user@example.com found
+2023-04-11 09:46:02.3967 ERROR UserRepo: User could not be added
+2023-04-11 09:46:02.3967 ERROR Booking Status could not be added
+2023-04-11 09:49:53.0332 INFO Vehicle found
+2023-04-11 09:49:54.5968 INFO User user@example.com found
+2023-04-11 09:58:57.4551 INFO Vehicle found
+2023-04-11 09:59:03.9556 INFO User user@example.com found
+2023-04-11 10:55:32.8827 INFO Vehicle found
+2023-04-11 10:55:36.0392 INFO User user@example.com found
+2023-04-11 12:11:43.2569 INFO user@example.com found sucessfully
+2023-04-11 12:51:31.1346 ERROR User could not be found
+2023-04-11 12:51:57.4055 ERROR User could not be found
+2023-04-11 12:57:15.7572 ERROR User could not be found
+2023-04-11 15:16:28.1305 INFO UserRepository: Users fetched successfully
+2023-04-11 15:16:28.6296 INFO User logged in successfully
+2023-04-11 15:17:46.6851 INFO UserRepository: Users fetched successfully
+2023-04-11 15:17:46.6851 INFO User logged in successfully
+2023-04-11 15:21:37.9530 INFO UserRepository: Users fetched successfully
+2023-04-11 15:21:37.9530 INFO User logged in successfully
+2023-04-11 15:24:41.7054 INFO User logged in successfully
+2023-04-11 15:40:29.9403 INFO UserRepository: Users fetched successfully
+2023-04-11 15:40:29.9403 INFO User logged in successfully
+2023-04-11 15:41:07.3072 INFO User logged in successfully
+2023-04-11 16:51:07.3458 ERROR User could not be found
+2023-04-11 16:51:29.9370 ERROR User could not be found
+2023-04-11 16:51:34.0940 ERROR User could not be found
+2023-04-11 16:52:37.1421 ERROR User could not be found
+2023-04-11 17:01:36.5098 INFO User logged in successfully
+2023-04-11 17:06:29.7098 INFO User logged in successfully
+2023-04-11 17:07:02.2870 INFO User logged in successfully
+2023-04-11 17:10:54.6966 INFO User logged in successfully
+2023-04-11 17:11:21.3379 INFO User logged in successfully
+2023-04-11 17:11:28.1257 INFO User logged in successfully
+2023-04-11 17:11:40.6029 INFO User logged in successfully
+2023-04-11 17:12:44.2858 ERROR User could not be found
+2023-04-11 17:12:51.2192 ERROR User could not be found
+2023-04-11 17:14:05.4654 ERROR User could not be found
+2023-04-11 17:16:48.1195 ERROR User could not be found
+2023-04-11 17:17:25.7778 ERROR User could not be found
+2023-04-11 17:17:25.7778 ERROR User could not be found
+2023-04-11 17:17:25.8889 ERROR User could not be found
+2023-04-11 17:21:17.4251 INFO User logged in successfully
+2023-04-11 17:24:04.5685 INFO UserRepository: Users fetched successfully
+2023-04-11 17:24:05.2833 INFO User logged in successfully
+2023-04-11 17:24:53.4355 INFO User logged in successfully
+2023-04-11 17:28:10.5501 INFO UserRepository: Users fetched successfully
+2023-04-11 17:28:10.5511 INFO User logged in successfully
+2023-04-11 17:28:23.1040 INFO User logged in successfully
+2023-04-11 17:29:44.0301 INFO Vehicle found
+2023-04-11 17:29:44.0808 INFO User user@example.com found
+2023-04-11 17:29:45.5811 INFO UserRepo: User added sucessfully
+2023-04-11 17:29:45.5811 INFO Booking Status added sucessfully
+2023-04-11 17:30:59.1138 INFO User logged in successfully
+2023-04-11 19:35:26.6769 INFO UserRepository: Users fetched successfully
+2023-04-11 19:35:26.6769 INFO User logged in successfully
+2023-04-11 19:35:43.3824 INFO User logged in successfully
+2023-04-11 19:37:20.7357 INFO User logged in successfully
+2023-04-11 19:41:09.0740 INFO UserRepository: Users fetched successfully
+2023-04-11 19:41:09.6975 INFO User logged in successfully
+2023-04-11 19:41:28.9036 INFO User logged in successfully
+2023-04-11 19:49:21.9573 INFO UserRepository: Users fetched successfully
+2023-04-11 19:49:21.9573 INFO User logged in successfully
+2023-04-11 19:50:41.1205 INFO User logged in successfully
+2023-04-11 19:53:42.3864 INFO UserRepository: Users fetched successfully
+2023-04-11 19:53:42.3864 INFO User logged in successfully
+2023-04-11 19:53:59.4629 INFO User logged in successfully
+2023-04-11 19:58:45.2034 INFO UserRepository: Users fetched successfully
+2023-04-11 19:58:45.2034 INFO User logged in successfully
+2023-04-11 19:58:57.5660 INFO User logged in successfully
+2023-04-11 20:03:01.7074 INFO StateRepository: States fetched successfully
+2023-04-11 20:03:01.7074 INFO Payment Modes fetched from database successfully
+2023-04-11 21:03:13.2328 ERROR User could not be found
+2023-04-11 21:03:20.3539 INFO UserRepository: Users fetched successfully
+2023-04-11 21:03:20.3539 INFO User logged in successfully
+2023-04-11 21:03:22.8145 INFO CityRepository: Cities fetched successfully
+2023-04-11 21:03:22.8145 INFO Cities fetched from database successfully
+2023-04-11 21:04:49.5538 INFO UserRepository: Users fetched successfully
+2023-04-11 21:04:49.5538 INFO User logged in successfully
+2023-04-11 21:04:59.4344 INFO StateRepository: States fetched successfully
+2023-04-11 21:04:59.4344 INFO Payment Modes fetched from database successfully
+2023-04-11 21:06:22.2669 INFO UserRepository: Users fetched successfully
+2023-04-11 21:06:22.2669 INFO User logged in successfully
+2023-04-11 21:06:27.4217 INFO StateRepository: States fetched successfully
+2023-04-11 21:06:27.4217 INFO Payment Modes fetched from database successfully
+2023-04-11 21:07:15.2613 INFO UserRepository: Users fetched successfully
+2023-04-11 21:07:15.2613 INFO User logged in successfully
+2023-04-11 21:07:20.2350 INFO StateRepository: States fetched successfully
+2023-04-11 21:07:20.2350 INFO Payment Modes fetched from database successfully
+2023-04-11 21:07:38.9311 INFO StateRepository: States fetched successfully
+2023-04-11 21:07:38.9311 INFO Payment Modes fetched from database successfully
+2023-04-11 21:07:41.0595 INFO User logged in successfully
+2023-04-11 21:08:05.1236 INFO Vehicle found
+2023-04-11 21:08:05.1559 INFO User manish@gmail.com found
+2023-04-11 21:08:06.3006 ERROR UserRepo: User could not be added
+2023-04-11 21:08:06.3006 ERROR Booking Status could not be added
+2023-04-11 21:08:39.1825 INFO User logged in successfully
+2023-04-11 21:08:57.9516 INFO Vehicle found
+2023-04-11 21:08:57.9516 INFO User manish@gmail.com found
+2023-04-11 21:08:58.0191 ERROR UserRepo: User could not be added
+2023-04-11 21:08:58.0191 ERROR Booking Status could not be added
+2023-04-11 21:10:13.4610 INFO Vehicle found
+2023-04-11 21:10:13.4713 INFO User user@example.com found
+2023-04-11 21:10:13.5185 ERROR UserRepo: User could not be added
+2023-04-11 21:10:13.5185 ERROR Booking Status could not be added
+2023-04-11 21:10:19.7801 INFO Vehicle found
+2023-04-11 21:10:19.7801 INFO User user@example.com found
+2023-04-11 21:10:19.8408 ERROR UserRepo: User could not be added
+2023-04-11 21:10:19.8412 ERROR Booking Status could not be added
+2023-04-11 21:10:33.5583 INFO Vehicle found
+2023-04-11 21:10:33.5607 INFO User user@example.com found
+2023-04-11 21:10:33.5799 ERROR UserRepo: User could not be added
+2023-04-11 21:10:33.5799 ERROR Booking Status could not be added
+2023-04-11 21:10:39.2358 INFO Vehicle found
+2023-04-11 21:10:39.2358 INFO User user@example.com found
+2023-04-11 21:10:39.2738 ERROR UserRepo: User could not be added
+2023-04-11 21:10:39.2738 ERROR Booking Status could not be added
+2023-04-11 21:17:47.4626 INFO Vehicle found
+2023-04-11 21:17:47.6078 INFO User user@example.com found
+2023-04-11 21:17:48.9000 ERROR UserRepo: User could not be added
+2023-04-11 21:17:48.9000 ERROR Booking Status could not be added
+2023-04-11 21:17:56.7700 INFO Vehicle found
+2023-04-11 21:17:56.7700 INFO User user@example.com found
+2023-04-11 21:17:56.8217 ERROR UserRepo: User could not be added
+2023-04-11 21:17:56.8217 ERROR Booking Status could not be added
+2023-04-11 21:18:00.5338 INFO Vehicle found
+2023-04-11 21:18:00.5338 INFO User user@example.com found
+2023-04-11 21:18:00.5627 ERROR UserRepo: User could not be added
+2023-04-11 21:18:00.5627 ERROR Booking Status could not be added
+2023-04-11 21:18:06.9130 INFO Vehicle found
+2023-04-11 21:18:06.9130 INFO User user@example.com found
+2023-04-11 21:18:06.9463 ERROR UserRepo: User could not be added
+2023-04-11 21:18:06.9463 ERROR Booking Status could not be added
+2023-04-11 21:20:02.7584 INFO Vehicle found
+2023-04-11 21:20:06.5682 INFO User user@example.com found
+2023-04-11 21:20:48.1296 ERROR UserRepo: User could not be added
+2023-04-11 21:20:48.1296 ERROR Booking Status could not be added
+2023-04-11 21:21:03.9438 INFO Vehicle found
+2023-04-11 21:21:04.9772 INFO User user@example.com found
+2023-04-11 21:29:13.6060 INFO Vehicle found
+2023-04-11 21:29:13.8167 INFO User user@example.com found
+2023-04-11 21:29:21.7700 INFO UserRepo: User added sucessfully
+2023-04-11 21:29:25.3668 INFO Booking Status added sucessfully
+2023-04-11 21:30:30.2712 INFO UserRepository: Users fetched successfully
+2023-04-11 21:30:30.9533 INFO User logged in successfully
+2023-04-11 21:30:36.3928 INFO StateRepository: States fetched successfully
+2023-04-11 21:30:36.3928 INFO Payment Modes fetched from database successfully
+2023-04-11 21:30:54.0374 INFO StateRepository: States fetched successfully
+2023-04-11 21:30:54.0374 INFO Payment Modes fetched from database successfully
+2023-04-11 21:30:56.8146 INFO User logged in successfully
+2023-04-11 21:31:12.3173 INFO Vehicle found
+2023-04-11 21:31:12.3292 INFO User manish@gmail.com found
+2023-04-11 21:31:12.3902 INFO UserRepo: User added sucessfully
+2023-04-11 21:31:12.3902 INFO Booking Status added sucessfully
+2023-04-11 21:31:45.6585 ERROR User could not be found
+2023-04-11 21:31:50.3867 INFO UserRepository: Users fetched successfully
+2023-04-11 21:31:50.3889 INFO User logged in successfully
+2023-04-11 21:31:52.9355 INFO yashika@gmail.com found sucessfully
+2023-04-11 21:32:17.6119 ERROR User could not be found
+2023-04-11 21:32:32.4395 ERROR User could not be found
+2023-04-11 21:32:51.2392 ERROR User could not be found
+2023-04-11 21:38:27.4875 INFO User logged in successfully
+2023-04-11 21:38:58.3662 INFO User logged in successfully
+2023-04-11 21:39:12.4127 INFO User logged in successfully
+2023-04-11 22:52:05.9512 INFO User user@example.com found
+2023-04-11 22:52:06.3172 INFO BookingStatusRepo: Booking Status added sucessfully
+2023-04-11 22:52:06.3172 INFO Booking Status added sucessfully
+2023-04-11 22:53:06.7026 ERROR Exception occured
+2023-04-11 22:59:34.9038 ERROR Exception occured
+2023-04-11 22:59:45.8538 ERROR Exception occured
+2023-04-11 23:01:10.8265 ERROR Exception occured
+2023-04-11 23:02:28.2816 INFO 2 found sucessfully
+2023-04-11 23:03:42.9026 INFO 2 found sucessfully
+2023-04-11 23:06:50.7476 INFO Booking Status added sucessfully
+2023-04-11 23:45:38.8421 INFO Booking Status added sucessfully
+2023-04-11 23:46:34.0773 INFO UserRepository: Users fetched successfully
+2023-04-11 23:46:34.2803 INFO User logged in successfully
+2023-04-11 23:46:34.4513 INFO yashika@gmail.com found sucessfully
+2023-04-11 23:46:47.7693 INFO User logged in successfully
+2023-04-11 23:52:14.3098 INFO UserRepository: Users fetched successfully
+2023-04-11 23:52:14.3110 INFO User logged in successfully
+2023-04-11 23:52:14.4045 INFO yashika@gmail.com found sucessfully
+2023-04-11 23:52:19.7264 INFO User logged in successfully
+2023-04-11 23:52:30.3151 INFO Booking Status added sucessfully
+2023-04-11 23:55:26.9970 INFO UserRepository: Users fetched successfully
+2023-04-11 23:55:26.9983 INFO User logged in successfully
+2023-04-11 23:56:16.1637 INFO UserRepository: Users fetched successfully
+2023-04-11 23:56:16.1637 INFO User logged in successfully
+2023-04-11 23:56:16.2239 INFO yashika@gmail.com found sucessfully

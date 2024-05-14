@@ -1,0 +1,31 @@
+﻿@model TaxiBookingServiceUI.DTOModels.CancellationReasonModel
+
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_DriverLayout.cshtml";
+}
+
+<h5>Add</h5>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Add">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Reason" class="control-label"></label>
+                <input asp-for="Reason" class="form-control" />
+                <span asp-validation-for="Reason" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsCharged" /> @Html.DisplayNameFor(model => model.IsCharged)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+

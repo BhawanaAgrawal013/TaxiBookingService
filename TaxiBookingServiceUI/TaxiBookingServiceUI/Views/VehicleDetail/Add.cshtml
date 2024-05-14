@@ -1,0 +1,54 @@
+﻿@model TaxiBookingServiceUI.VehicleDetailModel
+
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_DriverLayout.cshtml";
+}
+
+<h5>Add Your Vehicle</h5>
+
+<hr />
+
+<strong style="color: red">@TempData["errmsg"]</strong>
+<strong style="color: green">@TempData["msg"]</strong>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Add">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Manufacturer" class="control-label"></label>
+                <input asp-for="Manufacturer" class="form-control" />
+                <span asp-validation-for="Manufacturer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VehicleModel" class="control-label"></label>
+                <input asp-for="VehicleModel" class="form-control" />
+                <span asp-validation-for="VehicleModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VehicleType" class="control-label"></label>
+                @Html.DropDownList("VehicleType", new SelectList((List<string>)ViewBag.VehicleTypes))
+                <span asp-validation-for="VehicleType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seating" class="control-label"></label>
+                <input asp-for="Seating" class="form-control" />
+                <span asp-validation-for="Seating" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RegistrationNumber" class="control-label"></label>
+                <input asp-for="RegistrationNumber" class="form-control" />
+                <span asp-validation-for="RegistrationNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RegistrationName" class="control-label"></label>
+                <input asp-for="RegistrationName" class="form-control" />
+                <span asp-validation-for="RegistrationName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

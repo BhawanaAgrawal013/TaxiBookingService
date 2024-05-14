@@ -1,0 +1,116 @@
+2023-04-09 16:52:32.3843 INFO StateRepository: States fetched successfully
+2023-04-09 16:52:32.4189 INFO States fetched from database successfully
+2023-04-09 16:53:05.5415 INFO StateRepository: States fetched successfully
+2023-04-09 16:53:05.5415 INFO States fetched from database successfully
+2023-04-09 16:55:03.4103 INFO StateRepository: States fetched successfully
+2023-04-09 16:55:03.4103 INFO States fetched from database successfully
+2023-04-09 16:55:50.8144 INFO StateRepository: States fetched successfully
+2023-04-09 16:55:50.8144 INFO States fetched from database successfully
+2023-04-09 16:56:00.5265 INFO UserRepository: Users fetched successfully
+2023-04-09 16:56:00.6885 INFO User logged in successfully
+2023-04-09 16:56:08.1678 INFO StateRepository: States fetched successfully
+2023-04-09 16:56:08.1678 INFO States fetched from database successfully
+2023-04-09 16:58:53.1219 INFO UserRepository: Users fetched successfully
+2023-04-09 16:58:53.1219 INFO User logged in successfully
+2023-04-09 16:59:16.9889 INFO StateRepository: States fetched successfully
+2023-04-09 16:59:16.9889 INFO States fetched from database successfully
+2023-04-09 17:00:01.5998 INFO User bhawana@gmail.com found
+2023-04-09 17:00:01.7807 INFO StateRepo: State added sucessfully
+2023-04-09 17:00:01.7807 INFO State added sucessfully
+2023-04-09 17:00:06.3099 INFO StateRepository: States fetched successfully
+2023-04-09 17:00:06.3099 INFO States fetched from database successfully
+2023-04-09 17:00:09.2272 ERROR 0 could not be found
+2023-04-09 17:00:38.4243 ERROR 0 could not be found
+2023-04-09 17:03:13.7072 INFO StateRepository: States fetched successfully
+2023-04-09 17:03:13.7072 INFO States fetched from database successfully
+2023-04-09 17:15:03.7739 INFO CityRepository: Cities fetched successfully
+2023-04-09 17:15:03.8031 INFO Cities fetched from database successfully
+2023-04-09 17:26:46.3535 INFO UserRepository: Users fetched successfully
+2023-04-09 17:26:46.4770 INFO User logged in successfully
+2023-04-09 17:26:57.6910 INFO CityRepository: Cities fetched successfully
+2023-04-09 17:26:57.6910 INFO Cities fetched from database successfully
+2023-04-09 17:27:14.1774 INFO StateRepository: States fetched successfully
+2023-04-09 17:27:14.1774 INFO States fetched from database successfully
+2023-04-09 17:34:49.2568 INFO UserRepository: Users fetched successfully
+2023-04-09 17:34:49.2568 INFO User logged in successfully
+2023-04-09 17:35:03.8472 INFO StateRepository: States fetched successfully
+2023-04-09 17:35:03.8472 INFO States fetched from database successfully
+2023-04-09 17:37:04.3962 INFO UserRepository: Users fetched successfully
+2023-04-09 17:37:04.3962 INFO User logged in successfully
+2023-04-09 17:37:15.9371 INFO StateRepository: States fetched successfully
+2023-04-09 17:37:15.9371 INFO States fetched from database successfully
+2023-04-09 17:37:31.8722 INFO State Raj found
+2023-04-09 17:37:31.8722 ERROR City could not be added
+2023-04-09 17:37:35.3939 INFO StateRepository: States fetched successfully
+2023-04-09 17:37:35.3939 INFO States fetched from database successfully
+2023-04-09 17:37:54.9823 INFO State Raj found
+2023-04-09 17:37:54.9823 ERROR City could not be added
+2023-04-09 17:39:15.3486 INFO UserRepository: Users fetched successfully
+2023-04-09 17:39:15.3486 INFO User logged in successfully
+2023-04-09 17:39:22.3044 INFO StateRepository: States fetched successfully
+2023-04-09 17:39:22.3044 INFO States fetched from database successfully
+2023-04-09 17:39:26.5675 INFO State Rajasthan found
+2023-04-09 17:39:26.5773 INFO User bhawana@gmail.com found
+2023-04-09 17:39:26.7593 INFO CityRepo: City added sucessfully
+2023-04-09 17:39:26.7593 INFO City added sucessfully
+2023-04-09 17:39:26.7788 INFO CityRepository: Cities fetched successfully
+2023-04-09 17:39:26.7788 INFO Cities fetched from database successfully
+2023-04-09 17:54:25.7488 INFO UserRepository: Users fetched successfully
+2023-04-09 17:54:25.7488 INFO User logged in successfully
+2023-04-09 17:54:36.1573 INFO AreaRepository: Areas fetched successfully
+2023-04-09 17:54:36.1573 INFO Areas fetched from database successfully
+2023-04-09 17:54:45.0736 INFO CityRepository: Cities fetched successfully
+2023-04-09 17:54:45.0736 INFO Cities fetched from database successfully
+2023-04-09 17:55:14.8003 INFO State Jaipur found
+2023-04-09 17:55:14.8019 INFO User bhawana@gmail.com found
+2023-04-09 17:55:14.8373 INFO AreaRepo: Area added sucessfully
+2023-04-09 17:55:14.8373 INFO Area added sucessfully
+2023-04-09 17:55:14.8568 INFO AreaRepository: Areas fetched successfully
+2023-04-09 17:55:14.8568 INFO Areas fetched from database successfully
+2023-04-09 18:48:43.7901 INFO AreaRepository: Areas fetched successfully
+2023-04-09 18:48:43.7901 INFO Areas fetched from database successfully
+2023-04-09 18:48:46.8716 INFO CityRepository: Cities fetched successfully
+2023-04-09 18:48:46.8716 INFO Cities fetched from database successfully
+2023-04-09 18:48:48.3204 INFO AreaRepository: Areas fetched successfully
+2023-04-09 18:48:48.3204 INFO Areas fetched from database successfully
+2023-04-09 18:48:50.1627 INFO StateRepository: States fetched successfully
+2023-04-09 18:48:50.1627 INFO States fetched from database successfully
+2023-04-09 18:48:52.0991 INFO AreaRepository: Areas fetched successfully
+2023-04-09 18:48:52.0991 INFO Areas fetched from database successfully
+2023-04-09 18:48:54.3046 INFO AreaRepository: Areas fetched successfully
+2023-04-09 18:48:54.3046 INFO Areas fetched from database successfully
+2023-04-09 18:48:55.2313 INFO CityRepository: Cities fetched successfully
+2023-04-09 18:48:55.2313 INFO Cities fetched from database successfully
+2023-04-09 20:35:24.2466 INFO UserRepository: Users fetched successfully
+2023-04-09 20:35:24.3811 INFO Users fetched from database successfully
+2023-04-09 20:36:20.1906 ERROR User not found
+2023-04-09 20:36:20.1906 ERROR User could not be added
+2023-04-09 20:42:01.3155 ERROR User not found
+2023-04-09 20:42:01.3155 ERROR User could not be added
+2023-04-09 20:46:33.3526 INFO UserRepo: User added sucessfully
+2023-04-09 20:46:33.5047 INFO User added sucessfully
+2023-04-09 20:47:27.7482 INFO UserRepository: Users fetched successfully
+2023-04-09 20:47:28.1172 INFO User logged in successfully
+2023-04-09 21:06:19.1644 INFO UserRepository: Users fetched successfully
+2023-04-09 21:06:19.7062 INFO User logged in successfully
+2023-04-09 21:18:27.8475 INFO UserRepository: Users fetched successfully
+2023-04-09 21:18:27.8498 INFO User logged in successfully
+2023-04-09 22:30:31.3452 WARN UserRepository: There are no Users present
+2023-04-09 22:30:31.4728 WARN There are no Users present
+2023-04-09 22:31:03.6241 ERROR UserRepo: User could not be added
+2023-04-09 22:31:03.6241 ERROR User could not be added
+2023-04-09 22:32:12.8356 ERROR UserRepo: User could not be added
+2023-04-09 22:32:12.8356 ERROR User could not be added
+2023-04-09 22:38:10.2381 INFO User manish@gmail.com found
+2023-04-09 22:38:11.9457 INFO RoleRepo: Role added sucessfully
+2023-04-09 22:38:11.9457 INFO Role added sucessfully
+2023-04-09 22:38:22.8344 INFO RoleRepository: Roles fetched successfully
+2023-04-09 22:38:22.8344 INFO Roles fetched from database successfully
+2023-04-09 22:39:25.0558 INFO User user@example.com found
+2023-04-09 22:47:41.6027 INFO User user@example.com found
+2023-04-09 23:33:45.5593 INFO User user@example.com found
+2023-04-09 23:54:27.3206 INFO User user@example.com found
+2023-04-09 23:54:36.2340 INFO UserRepo: User added sucessfully
+2023-04-09 23:54:44.3751 INFO User added sucessfully
+2023-04-09 23:55:07.4303 INFO UserRepository: Users fetched successfully
+2023-04-09 23:55:07.4303 INFO Users fetched from database successfully

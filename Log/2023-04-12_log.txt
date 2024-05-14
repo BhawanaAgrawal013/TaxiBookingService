@@ -1,0 +1,435 @@
+2023-04-12 00:07:23.4218 INFO 1 found sucessfully
+2023-04-12 08:49:40.6624 INFO 1 found sucessfully
+2023-04-12 08:54:52.2410 ERROR 1 could not be found
+2023-04-12 09:27:30.8158 ERROR 1 could not be found
+2023-04-12 09:29:57.4341 INFO 1 found sucessfully
+2023-04-12 09:30:49.5601 INFO 1 found sucessfully
+2023-04-12 09:32:12.9317 INFO 1 found sucessfully
+2023-04-12 09:35:00.8779 INFO 1 found sucessfully
+2023-04-12 09:36:23.7032 INFO UserRepository: Users fetched successfully
+2023-04-12 09:36:24.6363 INFO User logged in successfully
+2023-04-12 09:36:42.2418 ERROR 1 could not be found
+2023-04-12 09:38:08.1003 INFO UserRepository: Users fetched successfully
+2023-04-12 09:38:08.1003 INFO User logged in successfully
+2023-04-12 09:38:29.1997 INFO 1 found sucessfully
+2023-04-12 09:39:18.2192 INFO UserRepository: Users fetched successfully
+2023-04-12 09:39:18.2192 INFO User logged in successfully
+2023-04-12 09:39:18.3215 INFO yashika@gmail.com found sucessfully
+2023-04-12 09:39:40.1667 INFO User logged in successfully
+2023-04-12 09:40:42.1683 INFO Booking Status added sucessfully
+2023-04-12 09:41:05.5172 INFO 1 found sucessfully
+2023-04-12 09:41:43.4018 INFO 1 found sucessfully
+2023-04-12 09:41:43.4306 INFO Booking Status added sucessfully
+2023-04-12 09:41:46.9811 INFO User logged in successfully
+2023-04-12 09:43:21.6931 INFO User user@example.com found
+2023-04-12 09:43:22.5498 INFO BookingStatusRepo: Booking Status added sucessfully
+2023-04-12 09:43:22.5498 INFO Booking Status added sucessfully
+2023-04-12 09:43:46.5080 INFO Booking Status added sucessfully
+2023-04-12 09:43:47.6061 INFO 1 found sucessfully
+2023-04-12 09:43:56.6704 INFO 1 found sucessfully
+2023-04-12 09:46:24.6210 INFO Booking Status added sucessfully
+2023-04-12 09:46:45.4424 INFO 1 found sucessfully
+2023-04-12 09:49:33.9404 INFO UserRepository: Users fetched successfully
+2023-04-12 09:49:34.5025 INFO User logged in successfully
+2023-04-12 09:49:34.7855 INFO yashika@gmail.com found sucessfully
+2023-04-12 09:49:40.7370 INFO User logged in successfully
+2023-04-12 09:50:17.8417 INFO Booking Status added sucessfully
+2023-04-12 09:50:19.6683 INFO 1 found sucessfully
+2023-04-12 09:50:40.3308 INFO UserRepository: Users fetched successfully
+2023-04-12 09:50:40.3308 INFO User logged in successfully
+2023-04-12 09:50:46.8523 INFO 1 found sucessfully
+2023-04-12 09:50:56.4491 INFO Booking Status added sucessfully
+2023-04-12 09:50:56.5422 INFO User logged in successfully
+2023-04-12 09:56:14.4862 INFO Driver found
+2023-04-12 09:56:31.5941 INFO Booking Status added sucessfully
+2023-04-12 10:04:23.2907 INFO UserRepository: Users fetched successfully
+2023-04-12 10:04:23.7612 INFO User logged in successfully
+2023-04-12 10:04:28.8631 INFO 1 found sucessfully
+2023-04-12 10:04:34.9134 INFO 1 found sucessfully
+2023-04-12 10:04:40.1237 INFO 1 found sucessfully
+2023-04-12 10:04:45.2805 INFO 1 found sucessfully
+2023-04-12 10:04:50.5749 INFO 1 found sucessfully
+2023-04-12 10:04:55.8310 INFO 1 found sucessfully
+2023-04-12 10:05:01.1199 INFO 1 found sucessfully
+2023-04-12 10:05:06.3389 INFO 1 found sucessfully
+2023-04-12 10:05:11.6767 INFO 1 found sucessfully
+2023-04-12 10:05:16.9409 INFO 1 found sucessfully
+2023-04-12 10:05:22.2763 INFO 1 found sucessfully
+2023-04-12 10:05:27.6071 INFO 1 found sucessfully
+2023-04-12 10:05:32.8406 INFO 1 found sucessfully
+2023-04-12 10:05:38.3422 INFO 1 found sucessfully
+2023-04-12 10:05:43.5534 INFO 1 found sucessfully
+2023-04-12 10:05:48.8718 INFO 1 found sucessfully
+2023-04-12 10:05:54.1596 INFO 1 found sucessfully
+2023-04-12 10:05:59.3665 INFO 1 found sucessfully
+2023-04-12 10:06:04.6255 INFO 1 found sucessfully
+2023-04-12 10:06:09.8229 INFO 1 found sucessfully
+2023-04-12 10:06:15.1344 INFO 1 found sucessfully
+2023-04-12 10:06:20.4473 INFO 1 found sucessfully
+2023-04-12 10:06:25.7450 INFO 1 found sucessfully
+2023-04-12 10:06:31.0794 INFO 1 found sucessfully
+2023-04-12 10:06:36.3638 INFO 1 found sucessfully
+2023-04-12 10:06:41.6745 INFO 1 found sucessfully
+2023-04-12 10:06:46.8916 INFO 1 found sucessfully
+2023-04-12 10:06:52.1798 INFO 1 found sucessfully
+2023-04-12 10:06:57.4410 INFO 1 found sucessfully
+2023-04-12 10:07:02.7386 INFO 1 found sucessfully
+2023-04-12 10:07:07.9713 INFO 1 found sucessfully
+2023-04-12 10:07:13.2908 INFO 1 found sucessfully
+2023-04-12 10:07:18.5623 INFO 1 found sucessfully
+2023-04-12 10:07:23.7868 INFO 1 found sucessfully
+2023-04-12 10:07:29.1701 INFO 1 found sucessfully
+2023-04-12 10:07:34.4495 INFO 1 found sucessfully
+2023-04-12 10:07:39.7624 INFO 1 found sucessfully
+2023-04-12 10:07:45.0309 INFO 1 found sucessfully
+2023-04-12 10:07:50.4945 INFO 1 found sucessfully
+2023-04-12 10:07:55.7053 INFO 1 found sucessfully
+2023-04-12 10:08:00.9165 INFO 1 found sucessfully
+2023-04-12 10:08:06.1670 INFO 1 found sucessfully
+2023-04-12 10:08:11.3609 INFO 1 found sucessfully
+2023-04-12 10:08:16.6704 INFO 1 found sucessfully
+2023-04-12 10:09:34.2373 INFO UserRepository: Users fetched successfully
+2023-04-12 10:09:34.2373 INFO User logged in successfully
+2023-04-12 10:09:41.7121 INFO 1 found sucessfully
+2023-04-12 10:09:47.3570 INFO 1 found sucessfully
+2023-04-12 10:09:52.5567 INFO 1 found sucessfully
+2023-04-12 10:09:57.7639 INFO 1 found sucessfully
+2023-04-12 10:20:45.9360 INFO 1 found sucessfully
+2023-04-12 10:22:44.0238 INFO 1 found sucessfully
+2023-04-12 10:26:24.1360 INFO 1 found sucessfully
+2023-04-12 10:26:46.4447 INFO 14 found sucessfully
+2023-04-12 10:28:22.4840 INFO 1 found sucessfully
+2023-04-12 10:28:34.0649 INFO 14 found sucessfully
+2023-04-12 10:29:43.1525 INFO UserRepository: Users fetched successfully
+2023-04-12 10:29:43.8887 INFO User logged in successfully
+2023-04-12 10:29:52.1129 INFO 1 found sucessfully
+2023-04-12 10:30:01.2196 INFO 1 found sucessfully
+2023-04-12 10:30:27.7147 INFO UserRepository: Users fetched successfully
+2023-04-12 10:30:27.7147 INFO User logged in successfully
+2023-04-12 10:30:33.3549 INFO 1 found sucessfully
+2023-04-12 10:37:40.3741 INFO 1 found sucessfully
+2023-04-12 10:37:59.3163 INFO 1 found sucessfully
+2023-04-12 11:06:20.2691 INFO UserRepository: Users fetched successfully
+2023-04-12 11:06:20.7180 INFO User logged in successfully
+2023-04-12 11:06:26.9252 INFO 1 found sucessfully
+2023-04-12 11:07:02.8238 INFO UserRepository: Users fetched successfully
+2023-04-12 11:07:02.8238 INFO User logged in successfully
+2023-04-12 11:07:05.6132 INFO 1 found sucessfully
+2023-04-12 11:07:06.1005 INFO 1 found sucessfully
+2023-04-12 11:07:06.2179 INFO user@example.com found sucessfully
+2023-04-12 11:08:37.1651 INFO 1 found sucessfully
+2023-04-12 11:08:38.3222 INFO user@example.com found sucessfully
+2023-04-12 11:08:52.0410 INFO 1 found sucessfully
+2023-04-12 11:09:12.1139 INFO user@example.com found sucessfully
+2023-04-12 11:09:39.1364 INFO 1 found sucessfully
+2023-04-12 11:09:44.3378 INFO user@example.com found sucessfully
+2023-04-12 11:10:40.5506 INFO UserRepository: Users fetched successfully
+2023-04-12 11:10:40.5506 INFO User logged in successfully
+2023-04-12 11:10:43.5833 INFO 1 found sucessfully
+2023-04-12 11:10:44.0938 INFO 1 found sucessfully
+2023-04-12 11:10:44.1348 INFO user@example.com found sucessfully
+2023-04-12 11:10:49.7251 INFO 1 found sucessfully
+2023-04-12 11:10:49.7455 INFO user@example.com found sucessfully
+2023-04-12 11:10:54.9112 INFO 1 found sucessfully
+2023-04-12 11:10:54.9276 INFO user@example.com found sucessfully
+2023-04-12 11:11:00.5580 INFO 1 found sucessfully
+2023-04-12 11:11:00.5751 INFO user@example.com found sucessfully
+2023-04-12 11:11:58.4970 INFO 1 found sucessfully
+2023-04-12 11:11:59.4925 INFO user@example.com found sucessfully
+2023-04-12 11:12:05.4229 INFO 1 found sucessfully
+2023-04-12 11:12:05.4583 INFO user@example.com found sucessfully
+2023-04-12 11:12:10.8102 INFO 1 found sucessfully
+2023-04-12 11:12:10.8383 INFO user@example.com found sucessfully
+2023-04-12 11:12:16.5973 INFO 1 found sucessfully
+2023-04-12 11:12:16.6195 INFO user@example.com found sucessfully
+2023-04-12 11:12:22.2746 INFO UserRepository: Users fetched successfully
+2023-04-12 11:12:22.2746 INFO User logged in successfully
+2023-04-12 11:12:22.4012 INFO yashika@gmail.com found sucessfully
+2023-04-12 11:12:22.5831 INFO 1 found sucessfully
+2023-04-12 11:12:22.6096 INFO user@example.com found sucessfully
+2023-04-12 11:12:58.4592 ERROR 0 could not be found
+2023-04-12 11:13:02.0538 INFO 1 found sucessfully
+2023-04-12 11:13:03.4460 INFO 1 found sucessfully
+2023-04-12 11:13:03.4890 INFO 1 found sucessfully
+2023-04-12 11:13:03.4974 INFO user@example.com found sucessfully
+2023-04-12 11:13:03.4974 INFO 1 found sucessfully
+2023-04-12 11:13:03.5351 INFO user@example.com found sucessfully
+2023-04-12 11:13:13.2539 INFO 1 found sucessfully
+2023-04-12 11:13:13.2773 INFO user@example.com found sucessfully
+2023-04-12 11:13:14.0167 INFO Booking Status added sucessfully
+2023-04-12 11:13:14.1119 INFO User logged in successfully
+2023-04-12 11:13:18.5687 INFO 1 found sucessfully
+2023-04-12 11:13:18.5910 INFO user@example.com found sucessfully
+2023-04-12 11:19:28.1930 WARN CancellationReasonRepo: There are no Cancellation reason present
+2023-04-12 11:19:28.1930 WARN There are no Cancellation Reason present
+2023-04-12 11:28:34.6659 INFO User bhawana@gmail.com found
+2023-04-12 11:28:35.6418 INFO CancellationReasonRepo: Cancellation reasonadded sucessfully
+2023-04-12 11:28:35.6418 INFO Cancellation Reason added sucessfully
+2023-04-12 11:28:59.4177 INFO User bhawana@gmail.com found
+2023-04-12 11:28:59.4466 INFO CancellationReasonRepo: Cancellation reasonadded sucessfully
+2023-04-12 11:28:59.4466 INFO Cancellation Reason added sucessfully
+2023-04-12 11:29:19.0316 INFO User bhawana@gmail.com found
+2023-04-12 11:29:19.0475 INFO CancellationReasonRepo: Cancellation reasonadded sucessfully
+2023-04-12 11:29:19.0475 INFO Cancellation Reason added sucessfully
+2023-04-12 11:29:32.2422 INFO User bhawana@gmail.com found
+2023-04-12 11:29:32.2572 INFO CancellationReasonRepo: Cancellation reasonadded sucessfully
+2023-04-12 11:29:32.2572 INFO Cancellation Reason added sucessfully
+2023-04-12 11:29:50.7250 INFO User bhawana@gmail.com found
+2023-04-12 11:29:50.7250 INFO CancellationReasonRepo: Cancellation reasonadded sucessfully
+2023-04-12 11:29:50.7250 INFO Cancellation Reason added sucessfully
+2023-04-12 11:30:09.6397 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 11:30:09.6397 INFO Cancellation Reason fetched from database successfully
+2023-04-12 11:30:10.7279 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 11:30:10.7279 INFO Cancellation Reason fetched from database successfully
+2023-04-12 11:44:53.2234 INFO UserRepository: Users fetched successfully
+2023-04-12 11:44:53.6048 INFO User logged in successfully
+2023-04-12 11:44:56.3490 INFO 1 found sucessfully
+2023-04-12 11:45:02.3461 INFO 1 found sucessfully
+2023-04-12 11:45:03.0799 INFO 14 found sucessfully
+2023-04-12 11:45:08.2939 INFO 14 found sucessfully
+2023-04-12 11:45:13.5287 INFO 14 found sucessfully
+2023-04-12 11:45:19.5807 INFO 14 found sucessfully
+2023-04-12 11:45:24.8977 INFO 14 found sucessfully
+2023-04-12 11:45:27.0793 INFO StateRepository: States fetched successfully
+2023-04-12 11:45:27.0793 INFO Payment Modes fetched from database successfully
+2023-04-12 11:46:23.6089 INFO StateRepository: States fetched successfully
+2023-04-12 11:46:23.6089 INFO Payment Modes fetched from database successfully
+2023-04-12 13:21:16.5355 ERROR User could not be found
+2023-04-12 13:21:33.4620 INFO UserRepository: Users fetched successfully
+2023-04-12 13:21:33.4620 INFO User logged in successfully
+2023-04-12 13:21:35.2620 INFO StateRepository: States fetched successfully
+2023-04-12 13:21:35.2620 INFO Payment Modes fetched from database successfully
+2023-04-12 13:21:54.0386 INFO StateRepository: States fetched successfully
+2023-04-12 13:21:54.0386 INFO Payment Modes fetched from database successfully
+2023-04-12 13:21:56.8798 INFO User logged in successfully
+2023-04-12 13:22:13.6406 INFO StateRepository: States fetched successfully
+2023-04-12 13:22:13.6406 INFO Payment Modes fetched from database successfully
+2023-04-12 13:22:41.4819 INFO StateRepository: States fetched successfully
+2023-04-12 13:22:41.4819 INFO Payment Modes fetched from database successfully
+2023-04-12 13:22:58.0052 INFO User logged in successfully
+2023-04-12 13:24:48.6911 INFO UserRepository: Users fetched successfully
+2023-04-12 13:24:48.6911 INFO User logged in successfully
+2023-04-12 13:24:50.3719 INFO StateRepository: States fetched successfully
+2023-04-12 13:24:50.3719 INFO Payment Modes fetched from database successfully
+2023-04-12 13:25:09.2142 INFO StateRepository: States fetched successfully
+2023-04-12 13:25:09.2142 INFO Payment Modes fetched from database successfully
+2023-04-12 13:25:14.9393 INFO User logged in successfully
+2023-04-12 13:26:05.8263 INFO UserRepository: Users fetched successfully
+2023-04-12 13:26:05.8263 INFO User logged in successfully
+2023-04-12 13:26:07.5814 INFO StateRepository: States fetched successfully
+2023-04-12 13:26:07.5814 INFO Payment Modes fetched from database successfully
+2023-04-12 13:26:29.4067 INFO StateRepository: States fetched successfully
+2023-04-12 13:26:29.4067 INFO Payment Modes fetched from database successfully
+2023-04-12 13:26:33.5726 INFO User logged in successfully
+2023-04-12 13:27:14.4188 INFO User logged in successfully
+2023-04-12 13:28:49.3670 INFO User logged in successfully
+2023-04-12 13:33:09.2383 INFO UserRepository: Users fetched successfully
+2023-04-12 13:33:09.7981 INFO User logged in successfully
+2023-04-12 13:33:12.0128 INFO StateRepository: States fetched successfully
+2023-04-12 13:33:12.0128 INFO Payment Modes fetched from database successfully
+2023-04-12 13:33:38.4181 INFO StateRepository: States fetched successfully
+2023-04-12 13:33:38.4181 INFO Payment Modes fetched from database successfully
+2023-04-12 13:33:42.9981 INFO User logged in successfully
+2023-04-12 13:38:04.3761 INFO Vehicle found
+2023-04-12 13:38:08.0225 INFO User string found
+2023-04-12 13:39:15.6847 ERROR UserRepo: User could not be added
+2023-04-12 13:39:15.6847 ERROR Booking Status could not be added
+2023-04-12 13:39:33.7818 INFO Vehicle found
+2023-04-12 13:39:34.4299 INFO User string found
+2023-04-12 13:39:50.0888 INFO UserRepo: User added sucessfully
+2023-04-12 13:39:53.2656 INFO Booking Status added sucessfully
+2023-04-12 13:43:52.7126 INFO User logged in successfully
+2023-04-12 13:44:08.6635 INFO Vehicle found
+2023-04-12 13:44:08.6779 INFO User manish@gmail.com found
+2023-04-12 13:44:09.2089 ERROR UserRepo: User could not be added
+2023-04-12 13:44:09.2089 ERROR Booking Status could not be added
+2023-04-12 13:44:23.5990 INFO User logged in successfully
+2023-04-12 13:44:25.7126 INFO StateRepository: States fetched successfully
+2023-04-12 13:44:25.7126 INFO Payment Modes fetched from database successfully
+2023-04-12 13:44:35.5084 INFO StateRepository: States fetched successfully
+2023-04-12 13:44:35.5085 INFO Payment Modes fetched from database successfully
+2023-04-12 13:46:07.5600 INFO User logged in successfully
+2023-04-12 13:46:29.3399 INFO Vehicle found
+2023-04-12 13:46:29.3399 INFO User manish@gmail.com found
+2023-04-12 13:46:29.3633 INFO UserRepo: User added sucessfully
+2023-04-12 13:46:29.3633 INFO Booking Status added sucessfully
+2023-04-12 13:47:11.8263 ERROR 0 could not be found
+2023-04-12 13:48:44.3500 ERROR 0 could not be found
+2023-04-12 13:48:44.3500 INFO User logged in successfully
+2023-04-12 13:49:39.6804 INFO Vehicle found
+2023-04-12 13:49:40.1995 INFO User manish@gmail.com found
+2023-04-12 13:49:45.7311 INFO UserRepo: User added sucessfully
+2023-04-12 13:50:05.1061 INFO Booking Status added sucessfully
+2023-04-12 13:56:01.6771 INFO UserRepository: Users fetched successfully
+2023-04-12 13:56:02.3928 INFO User logged in successfully
+2023-04-12 13:56:04.3974 INFO StateRepository: States fetched successfully
+2023-04-12 13:56:04.3974 INFO Payment Modes fetched from database successfully
+2023-04-12 13:56:31.0566 INFO StateRepository: States fetched successfully
+2023-04-12 13:56:31.0566 INFO Payment Modes fetched from database successfully
+2023-04-12 13:56:36.5062 INFO User logged in successfully
+2023-04-12 13:56:57.1745 INFO Vehicle found
+2023-04-12 13:56:57.2094 INFO User manish@gmail.com found
+2023-04-12 13:56:58.0126 INFO UserRepo: User added sucessfully
+2023-04-12 13:56:58.0126 INFO Booking Status added sucessfully
+2023-04-12 13:57:11.4398 INFO 21 found sucessfully
+2023-04-12 13:57:42.1824 INFO 21 found sucessfully
+2023-04-12 13:57:47.5258 INFO 21 found sucessfully
+2023-04-12 13:57:53.5145 INFO 21 found sucessfully
+2023-04-12 13:57:59.5593 INFO 21 found sucessfully
+2023-04-12 13:58:05.5382 INFO 21 found sucessfully
+2023-04-12 13:58:11.5164 INFO 21 found sucessfully
+2023-04-12 13:58:12.1933 INFO UserRepository: Users fetched successfully
+2023-04-12 13:58:12.1933 INFO User logged in successfully
+2023-04-12 13:58:12.2312 INFO yashika@gmail.com found sucessfully
+2023-04-12 13:58:16.8445 INFO User logged in successfully
+2023-04-12 13:58:17.5505 INFO 21 found sucessfully
+2023-04-12 13:58:27.0940 INFO 21 found sucessfully
+2023-04-12 13:58:36.3871 INFO 21 found sucessfully
+2023-04-12 13:58:36.6674 INFO Driver found
+2023-04-12 13:58:44.0820 INFO 21 found sucessfully
+2023-04-12 13:58:49.4038 INFO Booking Status added sucessfully
+2023-04-12 13:58:52.8332 INFO 21 found sucessfully
+2023-04-12 13:59:05.9801 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 13:59:05.9801 INFO Cancellation Reason fetched from database successfully
+2023-04-12 13:59:14.4625 INFO 21 found sucessfully
+2023-04-12 13:59:14.4740 INFO 21 found sucessfully
+2023-04-12 13:59:18.1448 INFO yashika@gmail.com found sucessfully
+2023-04-12 13:59:37.6468 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 13:59:37.6468 INFO Cancellation Reason fetched from database successfully
+2023-04-12 13:59:39.4842 INFO 21 found sucessfully
+2023-04-12 13:59:43.0715 INFO yashika@gmail.com found sucessfully
+2023-04-12 14:00:03.5401 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 14:00:03.5401 INFO Cancellation Reason fetched from database successfully
+2023-04-12 14:00:03.5606 INFO 21 found sucessfully
+2023-04-12 14:00:04.9848 INFO yashika@gmail.com found sucessfully
+2023-04-12 14:00:14.0057 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 14:00:14.0057 INFO Cancellation Reason fetched from database successfully
+2023-04-12 14:00:14.0250 INFO 21 found sucessfully
+2023-04-12 14:00:14.0363 INFO yashika@gmail.com found sucessfully
+2023-04-12 14:25:33.6712 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 14:25:33.8615 INFO Cancellation Reason fetched from database successfully
+2023-04-12 14:33:24.7706 INFO User manish@gmail.com found
+2023-04-12 14:56:35.9215 INFO 15 found sucessfully
+2023-04-12 20:56:26.5439 INFO User manish@gmail.com found
+2023-04-12 21:00:04.3666 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:00:04.5205 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:00:45.9727 INFO User manish@gmail.com found
+2023-04-12 21:11:16.6789 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:11:16.8622 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:11:50.8386 INFO User manish@gmail.com found
+2023-04-12 21:11:54.3333 INFO UserRepo: User added sucessfully
+2023-04-12 21:12:24.0883 INFO Booking Status added sucessfully
+2023-04-12 21:33:04.7576 INFO User bhawana@gmail.com found
+2023-04-12 21:33:04.8747 INFO BookingStatusRepo: Booking Status added sucessfully
+2023-04-12 21:33:04.8747 INFO Booking Status added sucessfully
+2023-04-12 21:33:24.2118 INFO UserRepository: Users fetched successfully
+2023-04-12 21:33:25.1368 INFO User logged in successfully
+2023-04-12 21:33:25.5618 INFO yashika@gmail.com found sucessfully
+2023-04-12 21:33:36.5768 INFO User logged in successfully
+2023-04-12 21:33:49.7973 INFO Driver found
+2023-04-12 21:33:49.8680 INFO Booking Status added sucessfully
+2023-04-12 21:33:54.0841 INFO 17 found sucessfully
+2023-04-12 21:34:17.0506 INFO UserRepository: Users fetched successfully
+2023-04-12 21:34:17.0506 INFO User logged in successfully
+2023-04-12 21:34:26.7094 INFO 17 found sucessfully
+2023-04-12 21:34:28.1288 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:34:28.1288 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:34:29.8372 INFO 17 found sucessfully
+2023-04-12 21:34:29.9260 INFO yashika@gmail.com found sucessfully
+2023-04-12 21:34:49.2751 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:34:49.2751 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:34:49.4256 INFO StateRepository: States fetched successfully
+2023-04-12 21:34:49.4256 INFO Payment Modes fetched from database successfully
+2023-04-12 21:34:57.3405 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:34:57.3405 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:34:58.7178 INFO 17 found sucessfully
+2023-04-12 21:34:58.7640 INFO yashika@gmail.com found sucessfully
+2023-04-12 21:35:23.9871 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:35:23.9871 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:35:25.6872 INFO 17 found sucessfully
+2023-04-12 21:35:25.7319 INFO yashika@gmail.com found sucessfully
+2023-04-12 21:35:44.0744 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:35:44.0744 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:36:27.1400 INFO UserRepository: Users fetched successfully
+2023-04-12 21:36:27.1400 INFO User logged in successfully
+2023-04-12 21:36:42.4772 INFO 17 found sucessfully
+2023-04-12 21:36:49.2794 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:36:49.2794 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:36:51.0951 INFO 17 found sucessfully
+2023-04-12 21:36:51.1466 INFO yashika@gmail.com found sucessfully
+2023-04-12 21:37:03.9124 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:37:03.9124 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:37:21.7152 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:37:21.7152 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:37:22.9726 INFO 17 found sucessfully
+2023-04-12 21:37:23.0141 INFO yashika@gmail.com found sucessfully
+2023-04-12 21:37:53.6605 INFO User string found
+2023-04-12 21:37:57.0701 INFO UserRepo: User added sucessfully
+2023-04-12 21:38:42.0062 INFO Booking Status added sucessfully
+2023-04-12 21:38:55.9419 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:38:55.9419 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:38:56.0329 INFO 17 found sucessfully
+2023-04-12 21:38:56.0683 INFO yashika@gmail.com found sucessfully
+2023-04-12 21:39:12.4629 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:39:12.4629 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:46:59.0621 INFO UserRepository: Users fetched successfully
+2023-04-12 21:46:59.4509 INFO User logged in successfully
+2023-04-12 21:46:59.6682 INFO yashika@gmail.com found sucessfully
+2023-04-12 21:47:11.8063 INFO User logged in successfully
+2023-04-12 21:47:16.8010 INFO Driver found
+2023-04-12 21:47:17.1551 INFO Booking Status added sucessfully
+2023-04-12 21:47:18.5016 INFO 19 found sucessfully
+2023-04-12 21:47:35.9707 INFO UserRepository: Users fetched successfully
+2023-04-12 21:47:35.9707 INFO User logged in successfully
+2023-04-12 21:47:42.3226 INFO 19 found sucessfully
+2023-04-12 21:47:43.8804 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:47:43.8804 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:47:43.9837 INFO 19 found sucessfully
+2023-04-12 21:47:44.0460 INFO yashika@gmail.com found sucessfully
+2023-04-12 21:47:55.0960 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:47:55.0960 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:48:57.8597 ERROR Exception occured
+2023-04-12 21:49:18.6669 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:49:18.6669 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:49:18.6669 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:49:18.6669 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:49:18.7304 INFO 19 found sucessfully
+2023-04-12 21:49:18.7304 INFO 19 found sucessfully
+2023-04-12 21:49:18.7681 INFO yashika@gmail.com found sucessfully
+2023-04-12 21:49:18.7681 INFO yashika@gmail.com found sucessfully
+2023-04-12 21:49:47.4252 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:49:47.4252 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:49:47.5869 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 21:49:47.5869 INFO Cancellation Reason fetched from database successfully
+2023-04-12 21:49:55.4298 INFO 19 found sucessfully
+2023-04-12 22:00:31.3734 INFO UserRepository: Users fetched successfully
+2023-04-12 22:00:31.3734 INFO User logged in successfully
+2023-04-12 22:00:39.4769 INFO 19 found sucessfully
+2023-04-12 22:00:42.4559 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 22:00:42.4559 INFO Cancellation Reason fetched from database successfully
+2023-04-12 22:00:42.5619 INFO 19 found sucessfully
+2023-04-12 22:00:42.5989 INFO yashika@gmail.com found sucessfully
+2023-04-12 22:00:57.3721 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 22:00:57.3721 INFO Cancellation Reason fetched from database successfully
+2023-04-12 22:01:01.2720 INFO User manish@gmail.com found
+2023-04-12 22:01:01.4785 INFO UserRepo: User added sucessfully
+2023-04-12 22:01:01.5076 INFO Booking Status added sucessfully
+2023-04-12 22:01:08.7638 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 22:01:08.7638 INFO Cancellation Reason fetched from database successfully
+2023-04-12 22:01:10.0380 INFO 19 found sucessfully
+2023-04-12 22:01:12.6236 INFO yashika@gmail.com found sucessfully
+2023-04-12 22:01:23.6663 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 22:01:23.6663 INFO Cancellation Reason fetched from database successfully
+2023-04-12 22:01:23.6839 INFO User manish@gmail.com found
+2023-04-12 22:01:23.6839 INFO UserRepo: User added sucessfully
+2023-04-12 22:01:23.6995 INFO Booking Status added sucessfully
+2023-04-12 22:01:23.7202 INFO StateRepository: States fetched successfully
+2023-04-12 22:01:23.7202 INFO Payment Modes fetched from database successfully
+2023-04-12 22:01:37.3687 INFO CancellationReasonRepo: Cancellation reason fetched successfully
+2023-04-12 22:01:37.3687 INFO Cancellation Reason fetched from database successfully
+2023-04-12 22:01:38.5081 INFO 19 found sucessfully
+2023-04-12 22:01:38.5081 INFO yashika@gmail.com found sucessfully
+2023-04-12 23:39:37.8511 INFO User manish@gmail.com found
+2023-04-12 23:39:38.0526 INFO Cancelled bookings found sucessfully
+2023-04-12 23:42:12.6531 INFO User manish@gmail.com found
+2023-04-12 23:42:12.6693 INFO Cancelled bookings found sucessfully

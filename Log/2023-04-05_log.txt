@@ -1,0 +1,78 @@
+2023-04-05 13:14:20.9845 INFO Roles fetched from database successfully
+2023-04-05 13:15:53.6890 WARN There are no Roles present
+2023-04-05 13:26:00.8084 WARN RoleRepository: There are no Roles present
+2023-04-05 13:26:00.8579 WARN There are no Roles present
+2023-04-05 13:37:22.9010 INFO RoleRepo: Role added sucessfully
+2023-04-05 13:37:22.9914 INFO Role added sucessfully
+2023-04-05 13:37:31.3206 INFO RoleRepository: Roles fetched successfully
+2023-04-05 13:37:31.3206 INFO Roles fetched from database successfully
+2023-04-05 13:42:15.0177 INFO RoleRepo: Role added sucessfully
+2023-04-05 13:42:18.5313 INFO Role added sucessfully
+2023-04-05 13:42:32.7702 INFO RoleRepository: Roles fetched successfully
+2023-04-05 13:42:32.7702 INFO Roles fetched from database successfully
+2023-04-05 13:46:39.0806 INFO RoleRepository: Roles fetched successfully
+2023-04-05 13:46:39.1904 INFO Roles fetched from database successfully
+2023-04-05 14:25:47.8056 INFO RoleRepository: Roles fetched successfully
+2023-04-05 14:25:47.8831 INFO Roles fetched from database successfully
+2023-04-05 14:27:45.5802 ERROR User not found
+2023-04-05 14:28:01.1688 ERROR Role could not be added
+2023-04-05 14:53:31.7747 WARN UserRepository: There are no Users present
+2023-04-05 14:53:32.0105 WARN There are no Users present
+2023-04-05 15:05:44.3481 ERROR User not found
+2023-04-05 15:05:52.4322 ERROR User could not be added
+2023-04-05 15:08:35.0402 INFO UserRepo: User added sucessfully
+2023-04-05 15:08:39.1805 INFO User added sucessfully
+2023-04-05 15:10:44.1921 INFO UserRepository: Users fetched successfully
+2023-04-05 15:10:44.4018 INFO Users fetched from database successfully
+2023-04-05 15:10:47.1136 INFO RoleRepository: Roles fetched successfully
+2023-04-05 15:10:47.1136 INFO Roles fetched from database successfully
+2023-04-05 15:12:07.6255 INFO UserRepository: Users fetched successfully
+2023-04-05 15:12:07.6255 INFO Users fetched from database successfully
+2023-04-05 15:13:37.6361 INFO UserRepo: User added sucessfully
+2023-04-05 15:13:37.6361 INFO User added sucessfully
+2023-04-05 15:13:46.2157 INFO UserRepository: Users fetched successfully
+2023-04-05 15:13:46.2157 INFO Users fetched from database successfully
+2023-04-05 15:38:43.7808 ERROR 0 could not be found
+2023-04-05 15:39:34.5559 INFO 2 found sucessfully
+2023-04-05 15:41:32.1801 INFO User bhawana@gmail.com found
+2023-04-05 15:41:33.0408 INFO UserRepo: User added sucessfully
+2023-04-05 15:41:33.0408 INFO 2 user updated sucessfully
+2023-04-05 15:41:42.7680 INFO 2 found sucessfully
+2023-04-05 15:42:31.4175 INFO User bhawana@gmail.com found
+2023-04-05 15:42:36.5568 INFO UserRepo: User added sucessfully
+2023-04-05 15:42:40.4177 INFO 2 user updated sucessfully
+2023-04-05 15:42:51.9219 INFO 2 found sucessfully
+2023-04-05 15:43:57.5269 INFO 2 found sucessfully
+2023-04-05 15:58:15.6845 INFO UserRepository: Users fetched successfully
+2023-04-05 15:58:27.4955 INFO Users fetched from database successfully
+2023-04-05 15:59:51.1108 INFO UserRepository: Users fetched successfully
+2023-04-05 15:59:51.1108 INFO Users fetched from database successfully
+2023-04-05 17:06:00.4828 WARN UserRepository: There are no Users present
+2023-04-05 17:06:00.6390 WARN There are no Users present
+2023-04-05 17:20:50.9736 INFO UserRepository: Users fetched successfully
+2023-04-05 17:20:51.1869 INFO Users fetched from database successfully
+2023-04-05 17:22:15.4410 ERROR StateRepo: State could not be added
+2023-04-05 17:22:15.4410 ERROR State could not be added
+2023-04-05 17:24:10.5875 ERROR StateRepo: State could not be added
+2023-04-05 17:24:10.7818 ERROR State could not be added
+2023-04-05 17:24:19.0037 ERROR StateRepo: State could not be added
+2023-04-05 17:24:19.0037 ERROR State could not be added
+2023-04-05 17:28:12.1610 INFO User bhawana@gmail.com found
+2023-04-05 17:28:13.7776 ERROR StateRepo: State could not be added
+2023-04-05 17:28:13.7776 ERROR State could not be added
+2023-04-05 17:28:47.9638 INFO User bhawana@gmail.com found
+2023-04-05 20:35:24.6966 INFO User bhawana@gmail.com found
+2023-04-05 20:35:24.6966 INFO User bhawana@gmail.com found
+2023-04-05 20:36:07.4748 INFO StateRepo: State added sucessfully
+2023-04-05 20:36:07.4748 INFO StateRepo: State added sucessfully
+2023-04-05 20:36:23.3339 INFO State added sucessfully
+2023-04-05 20:36:25.1088 INFO State added sucessfully
+2023-04-05 20:36:46.6930 INFO UserRepository: Users fetched successfully
+2023-04-05 20:36:46.6930 INFO States fetched from database successfully
+2023-04-05 20:37:21.1942 ERROR StateRepo: State could not be deleted
+2023-04-05 20:37:21.1942 ERROR 2 not found
+2023-04-05 20:38:21.9405 INFO StateRepo: State soft deleted sucessfully
+2023-04-05 20:38:21.9405 INFO State 4 removed
+2023-04-05 20:38:27.0081 INFO UserRepository: Users fetched successfully
+2023-04-05 20:38:27.0081 INFO States fetched from database successfully
+2023-04-05 20:38:49.3186 INFO 3 found sucessfully

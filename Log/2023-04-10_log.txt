@@ -1,0 +1,504 @@
+2023-04-10 08:44:15.4786 INFO vehicleTypeRepository: Types fetched successfully
+2023-04-10 08:44:15.5245 INFO Vehicle Types fetched from database successfully
+2023-04-10 09:22:57.4365 INFO UserRepository: Users fetched successfully
+2023-04-10 09:22:57.4766 INFO Users fetched from database successfully
+2023-04-10 09:23:24.9881 ERROR User could not be found
+2023-04-10 09:27:44.3494 INFO User yashika@gmail.com found
+2023-04-10 09:27:44.3808 INFO UserRepo: User added sucessfully
+2023-04-10 09:27:44.3808 INFO User added sucessfully
+2023-04-10 09:27:51.8423 ERROR User could not be found
+2023-04-10 09:27:58.9630 ERROR User could not be found
+2023-04-10 09:28:30.4855 ERROR User could not be found
+2023-04-10 09:29:35.6886 ERROR User could not be found
+2023-04-10 09:29:53.4855 ERROR User could not be found
+2023-04-10 09:30:00.4089 ERROR User could not be found
+2023-04-10 09:30:30.1767 ERROR User could not be found
+2023-04-10 09:31:13.5285 ERROR User could not be found
+2023-04-10 09:32:11.3540 ERROR User could not be found
+2023-04-10 09:33:27.2504 INFO UserRepository: Users fetched successfully
+2023-04-10 09:33:28.4283 INFO User logged in successfully
+2023-04-10 09:33:56.9412 ERROR User could not be found
+2023-04-10 09:34:39.0214 ERROR User could not be found
+2023-04-10 09:36:15.0655 ERROR User could not be found
+2023-04-10 09:39:35.7825 INFO UserRepository: Users fetched successfully
+2023-04-10 09:39:36.1278 INFO User logged in successfully
+2023-04-10 09:40:21.0988 INFO UserRepository: Users fetched successfully
+2023-04-10 09:40:21.3103 INFO User logged in successfully
+2023-04-10 09:40:36.2347 INFO UserRepository: Users fetched successfully
+2023-04-10 09:40:36.2347 INFO Users fetched from database successfully
+2023-04-10 09:40:42.1108 INFO AreaRepository: Areas fetched successfully
+2023-04-10 09:40:42.1108 INFO Areas fetched from database successfully
+2023-04-10 09:41:16.4741 ERROR yashika@gmail.com could not be found
+2023-04-10 09:49:41.0711 INFO UserRepository: Users fetched successfully
+2023-04-10 09:49:41.0722 INFO User logged in successfully
+2023-04-10 09:49:50.8055 INFO CityRepository: Cities fetched successfully
+2023-04-10 09:49:50.8055 INFO Cities fetched from database successfully
+2023-04-10 09:51:32.5583 INFO UserRepository: Users fetched successfully
+2023-04-10 09:51:32.5583 INFO User logged in successfully
+2023-04-10 09:51:52.0145 INFO CityRepository: Cities fetched successfully
+2023-04-10 09:51:52.0145 INFO Cities fetched from database successfully
+2023-04-10 09:52:55.2654 INFO UserRepository: Users fetched successfully
+2023-04-10 09:52:55.2654 INFO User logged in successfully
+2023-04-10 09:53:20.7294 INFO vehicleTypeRepository: Types fetched successfully
+2023-04-10 09:53:20.7294 INFO Vehicle Types fetched from database successfully
+2023-04-10 09:55:01.8170 INFO vehicleTypeRepository: Types fetched successfully
+2023-04-10 09:55:01.8170 INFO Vehicle Types fetched from database successfully
+2023-04-10 09:55:25.8008 INFO vehicleTypeRepository: Types fetched successfully
+2023-04-10 09:55:25.8008 INFO Vehicle Types fetched from database successfully
+2023-04-10 09:55:45.2240 INFO vehicleTypeRepository: Types fetched successfully
+2023-04-10 09:55:45.2240 INFO Vehicle Types fetched from database successfully
+2023-04-10 09:56:06.5461 INFO vehicleTypeRepository: Types fetched successfully
+2023-04-10 09:56:06.5461 INFO Vehicle Types fetched from database successfully
+2023-04-10 09:59:06.9735 INFO State string found
+2023-04-10 09:59:07.0271 INFO User user@example.com found
+2023-04-10 09:59:07.3736 ERROR VehicleDetailRepo: Vehicle Detail could not be added
+2023-04-10 09:59:07.3736 ERROR Vehicle Detail could not be added
+2023-04-10 09:59:18.2945 INFO State string found
+2023-04-10 09:59:18.2945 INFO User user@example.com found
+2023-04-10 09:59:18.3025 ERROR VehicleDetailRepo: Vehicle Detail could not be added
+2023-04-10 09:59:18.3025 ERROR Vehicle Detail could not be added
+2023-04-10 09:59:25.0883 INFO State Car found
+2023-04-10 09:59:25.0883 INFO User user@example.com found
+2023-04-10 09:59:25.2775 INFO Vehicle found
+2023-04-10 09:59:25.3120 INFO VehicleDetailRepo: Vehicle Detail added sucessfully
+2023-04-10 09:59:25.3120 INFO Vehicle Detail added sucessfully
+2023-04-10 09:59:40.0320 INFO UserRepository: Users fetched successfully
+2023-04-10 09:59:40.1467 INFO User logged in successfully
+2023-04-10 10:00:19.9084 INFO vehicleTypeRepository: Types fetched successfully
+2023-04-10 10:00:19.9084 INFO Vehicle Types fetched from database successfully
+2023-04-10 10:01:04.9422 INFO State Car found
+2023-04-10 10:01:04.9422 INFO User yashika@gmail.com found
+2023-04-10 10:01:04.9422 INFO Vehicle found
+2023-04-10 10:01:04.9580 INFO VehicleDetailRepo: Vehicle Detail added sucessfully
+2023-04-10 10:01:04.9580 INFO Vehicle Detail added sucessfully
+2023-04-10 10:01:05.0046 INFO yashika@gmail.com found sucessfully
+2023-04-10 10:03:00.2734 INFO UserRepository: Users fetched successfully
+2023-04-10 10:03:00.2734 INFO User logged in successfully
+2023-04-10 10:10:54.5430 INFO UserRepository: Users fetched successfully
+2023-04-10 10:10:54.5430 INFO Users fetched from database successfully
+2023-04-10 10:55:05.1834 INFO yashika@gmail.com found sucessfully
+2023-04-10 11:41:23.0772 INFO StateRepository: States fetched successfully
+2023-04-10 11:41:23.0772 INFO States fetched from database successfully
+2023-04-10 11:41:50.1138 INFO StateRepository: States fetched successfully
+2023-04-10 11:41:50.1138 INFO States fetched from database successfully
+2023-04-10 11:41:51.2680 INFO StateRepository: States fetched successfully
+2023-04-10 11:41:51.2680 INFO States fetched from database successfully
+2023-04-10 11:43:37.8627 INFO StateRepository: States fetched successfully
+2023-04-10 11:43:37.8627 INFO States fetched from database successfully
+2023-04-10 11:43:54.0525 INFO StateRepository: States fetched successfully
+2023-04-10 11:43:54.0525 INFO States fetched from database successfully
+2023-04-10 11:44:46.7449 INFO StateRepository: States fetched successfully
+2023-04-10 11:44:46.7449 INFO States fetched from database successfully
+2023-04-10 11:52:14.5683 INFO StateRepository: States fetched successfully
+2023-04-10 11:52:14.5683 INFO States fetched from database successfully
+2023-04-10 11:52:28.7883 INFO CityRepository: Cities fetched successfully
+2023-04-10 11:52:28.7883 INFO Cities fetched from database successfully
+2023-04-10 11:56:53.9592 INFO StateRepository: States fetched successfully
+2023-04-10 11:56:53.9592 INFO States fetched from database successfully
+2023-04-10 11:57:04.7329 INFO CityRepository: Cities fetched successfully
+2023-04-10 11:57:04.7329 INFO Cities fetched from database successfully
+2023-04-10 11:57:57.6043 INFO StateRepository: States fetched successfully
+2023-04-10 11:57:57.6043 INFO States fetched from database successfully
+2023-04-10 11:58:02.2863 INFO CityRepository: Cities fetched successfully
+2023-04-10 11:58:02.2863 INFO Cities fetched from database successfully
+2023-04-10 12:02:08.8258 INFO StateRepository: States fetched successfully
+2023-04-10 12:02:08.8258 INFO States fetched from database successfully
+2023-04-10 12:02:11.9629 INFO CityRepository: Cities fetched successfully
+2023-04-10 12:02:11.9632 INFO Cities fetched from database successfully
+2023-04-10 12:02:14.3431 INFO StateRepository: States fetched successfully
+2023-04-10 12:02:14.3431 INFO States fetched from database successfully
+2023-04-10 12:02:17.0336 INFO CityRepository: Cities fetched successfully
+2023-04-10 12:02:17.0336 INFO Cities fetched from database successfully
+2023-04-10 12:02:19.4962 INFO AreaRepository: Areas fetched successfully
+2023-04-10 12:02:19.4962 INFO Areas fetched from database successfully
+2023-04-10 12:03:29.9358 INFO AreaRepository: Areas fetched successfully
+2023-04-10 12:03:29.9358 INFO Areas fetched from database successfully
+2023-04-10 12:03:35.0518 INFO StateRepository: States fetched successfully
+2023-04-10 12:03:35.0518 INFO States fetched from database successfully
+2023-04-10 12:03:41.9232 INFO CityRepository: Cities fetched successfully
+2023-04-10 12:03:41.9232 INFO Cities fetched from database successfully
+2023-04-10 12:03:45.7676 INFO CityRepository: Cities fetched successfully
+2023-04-10 12:03:45.7676 INFO Cities fetched from database successfully
+2023-04-10 12:03:47.4866 INFO AreaRepository: Areas fetched successfully
+2023-04-10 12:03:47.4866 INFO Areas fetched from database successfully
+2023-04-10 12:05:45.0556 INFO StateRepository: States fetched successfully
+2023-04-10 12:05:45.0556 INFO States fetched from database successfully
+2023-04-10 12:05:58.3335 INFO CityRepository: Cities fetched successfully
+2023-04-10 12:05:58.3335 INFO Cities fetched from database successfully
+2023-04-10 12:06:01.6696 INFO AreaRepository: Areas fetched successfully
+2023-04-10 12:06:01.6696 INFO Areas fetched from database successfully
+2023-04-10 12:06:53.8480 INFO StateRepository: States fetched successfully
+2023-04-10 12:06:53.8480 INFO States fetched from database successfully
+2023-04-10 12:07:02.3702 INFO CityRepository: Cities fetched successfully
+2023-04-10 12:07:02.3702 INFO Cities fetched from database successfully
+2023-04-10 12:07:04.6390 INFO AreaRepository: Areas fetched successfully
+2023-04-10 12:07:04.6390 INFO Areas fetched from database successfully
+2023-04-10 12:07:31.1594 INFO StateRepository: States fetched successfully
+2023-04-10 12:07:31.1594 INFO States fetched from database successfully
+2023-04-10 12:07:38.3369 INFO CityRepository: Cities fetched successfully
+2023-04-10 12:07:38.3369 INFO Cities fetched from database successfully
+2023-04-10 12:07:52.2592 INFO AreaRepository: Areas fetched successfully
+2023-04-10 12:07:52.2592 INFO Areas fetched from database successfully
+2023-04-10 12:09:37.8570 INFO StateRepository: States fetched successfully
+2023-04-10 12:09:37.8570 INFO States fetched from database successfully
+2023-04-10 12:09:40.1681 INFO CityRepository: Cities fetched successfully
+2023-04-10 12:09:40.1681 INFO Cities fetched from database successfully
+2023-04-10 12:09:42.0118 INFO AreaRepository: Areas fetched successfully
+2023-04-10 12:09:42.0118 INFO Areas fetched from database successfully
+2023-04-10 12:13:21.8380 INFO StateRepository: States fetched successfully
+2023-04-10 12:13:21.8380 INFO States fetched from database successfully
+2023-04-10 12:13:37.5515 INFO CityRepository: Cities fetched successfully
+2023-04-10 12:13:37.5515 INFO Cities fetched from database successfully
+2023-04-10 12:13:39.5581 INFO AreaRepository: Areas fetched successfully
+2023-04-10 12:13:39.5581 INFO Areas fetched from database successfully
+2023-04-10 12:14:56.1376 INFO StateRepository: States fetched successfully
+2023-04-10 12:14:56.1376 INFO States fetched from database successfully
+2023-04-10 12:15:03.3196 INFO CityRepository: Cities fetched successfully
+2023-04-10 12:15:03.3196 INFO Cities fetched from database successfully
+2023-04-10 12:15:05.2185 INFO AreaRepository: Areas fetched successfully
+2023-04-10 12:15:05.2185 INFO Areas fetched from database successfully
+2023-04-10 12:15:45.0231 INFO StateRepository: States fetched successfully
+2023-04-10 12:15:45.0231 INFO States fetched from database successfully
+2023-04-10 12:15:49.4708 INFO CityRepository: Cities fetched successfully
+2023-04-10 12:15:49.4708 INFO Cities fetched from database successfully
+2023-04-10 12:15:51.1719 INFO AreaRepository: Areas fetched successfully
+2023-04-10 12:15:51.1719 INFO Areas fetched from database successfully
+2023-04-10 12:25:56.0598 INFO StateRepository: States fetched successfully
+2023-04-10 12:25:56.0598 INFO States fetched from database successfully
+2023-04-10 12:26:39.8512 INFO StateRepository: States fetched successfully
+2023-04-10 12:26:39.8512 INFO States fetched from database successfully
+2023-04-10 12:26:52.0509 INFO StateRepository: States fetched successfully
+2023-04-10 12:26:52.0509 INFO States fetched from database successfully
+2023-04-10 12:26:53.6694 INFO StateRepository: States fetched successfully
+2023-04-10 12:26:53.6694 INFO States fetched from database successfully
+2023-04-10 12:31:19.0671 INFO StateRepository: States fetched successfully
+2023-04-10 12:31:19.0671 INFO States fetched from database successfully
+2023-04-10 12:31:28.4482 INFO StateRepository: States fetched successfully
+2023-04-10 12:31:28.4482 INFO States fetched from database successfully
+2023-04-10 12:35:06.5545 INFO StateRepository: States fetched successfully
+2023-04-10 12:35:06.5545 INFO States fetched from database successfully
+2023-04-10 12:35:52.0207 INFO StateRepository: States fetched successfully
+2023-04-10 12:35:52.0207 INFO States fetched from database successfully
+2023-04-10 12:35:54.1010 INFO StateRepository: States fetched successfully
+2023-04-10 12:35:54.1010 INFO States fetched from database successfully
+2023-04-10 12:36:51.1662 INFO StateRepository: States fetched successfully
+2023-04-10 12:36:51.1662 INFO States fetched from database successfully
+2023-04-10 12:36:54.0495 INFO StateRepository: States fetched successfully
+2023-04-10 12:36:54.0495 INFO States fetched from database successfully
+2023-04-10 12:36:55.7899 INFO StateRepository: States fetched successfully
+2023-04-10 12:36:55.7899 INFO States fetched from database successfully
+2023-04-10 12:36:56.9693 INFO StateRepository: States fetched successfully
+2023-04-10 12:36:56.9693 INFO States fetched from database successfully
+2023-04-10 12:36:57.8932 INFO StateRepository: States fetched successfully
+2023-04-10 12:36:57.8932 INFO States fetched from database successfully
+2023-04-10 12:36:58.5126 INFO StateRepository: States fetched successfully
+2023-04-10 12:36:58.5126 INFO States fetched from database successfully
+2023-04-10 12:36:58.9373 INFO StateRepository: States fetched successfully
+2023-04-10 12:36:58.9373 INFO States fetched from database successfully
+2023-04-10 12:36:59.3087 INFO StateRepository: States fetched successfully
+2023-04-10 12:36:59.3087 INFO States fetched from database successfully
+2023-04-10 12:36:59.8049 INFO StateRepository: States fetched successfully
+2023-04-10 12:36:59.8049 INFO States fetched from database successfully
+2023-04-10 12:37:00.0102 INFO StateRepository: States fetched successfully
+2023-04-10 12:37:00.0102 INFO States fetched from database successfully
+2023-04-10 12:37:00.3415 INFO StateRepository: States fetched successfully
+2023-04-10 12:37:00.3415 INFO States fetched from database successfully
+2023-04-10 12:37:00.7343 INFO StateRepository: States fetched successfully
+2023-04-10 12:37:00.7343 INFO States fetched from database successfully
+2023-04-10 12:37:01.0221 INFO StateRepository: States fetched successfully
+2023-04-10 12:37:01.0221 INFO States fetched from database successfully
+2023-04-10 12:37:01.8720 INFO StateRepository: States fetched successfully
+2023-04-10 12:37:01.8720 INFO States fetched from database successfully
+2023-04-10 12:38:03.2371 INFO StateRepository: States fetched successfully
+2023-04-10 12:38:03.2371 INFO States fetched from database successfully
+2023-04-10 12:38:04.8264 INFO StateRepository: States fetched successfully
+2023-04-10 12:38:04.8264 INFO States fetched from database successfully
+2023-04-10 12:38:06.8339 INFO StateRepository: States fetched successfully
+2023-04-10 12:38:06.8339 INFO States fetched from database successfully
+2023-04-10 12:38:07.9680 INFO StateRepository: States fetched successfully
+2023-04-10 12:38:07.9680 INFO States fetched from database successfully
+2023-04-10 12:38:08.7205 INFO StateRepository: States fetched successfully
+2023-04-10 12:38:08.7205 INFO States fetched from database successfully
+2023-04-10 12:38:09.5035 INFO StateRepository: States fetched successfully
+2023-04-10 12:38:09.5035 INFO States fetched from database successfully
+2023-04-10 12:38:41.1917 INFO StateRepository: States fetched successfully
+2023-04-10 12:38:41.1917 INFO States fetched from database successfully
+2023-04-10 12:38:48.6942 INFO StateRepository: States fetched successfully
+2023-04-10 12:38:48.6942 INFO States fetched from database successfully
+2023-04-10 12:38:49.6226 INFO StateRepository: States fetched successfully
+2023-04-10 12:38:49.6226 INFO States fetched from database successfully
+2023-04-10 12:38:56.5948 INFO StateRepository: States fetched successfully
+2023-04-10 12:38:56.5948 INFO States fetched from database successfully
+2023-04-10 12:38:57.4331 INFO StateRepository: States fetched successfully
+2023-04-10 12:38:57.4331 INFO States fetched from database successfully
+2023-04-10 12:38:58.1931 INFO StateRepository: States fetched successfully
+2023-04-10 12:38:58.1931 INFO States fetched from database successfully
+2023-04-10 12:39:00.8871 INFO StateRepository: States fetched successfully
+2023-04-10 12:39:00.8871 INFO States fetched from database successfully
+2023-04-10 12:39:01.7652 INFO StateRepository: States fetched successfully
+2023-04-10 12:39:01.7652 INFO States fetched from database successfully
+2023-04-10 12:39:02.5922 INFO StateRepository: States fetched successfully
+2023-04-10 12:39:02.5922 INFO States fetched from database successfully
+2023-04-10 12:39:03.5769 INFO StateRepository: States fetched successfully
+2023-04-10 12:39:03.5769 INFO States fetched from database successfully
+2023-04-10 12:39:04.3126 INFO StateRepository: States fetched successfully
+2023-04-10 12:39:04.3126 INFO States fetched from database successfully
+2023-04-10 12:39:05.1947 INFO StateRepository: States fetched successfully
+2023-04-10 12:39:05.1947 INFO States fetched from database successfully
+2023-04-10 12:39:06.1820 INFO StateRepository: States fetched successfully
+2023-04-10 12:39:06.1820 INFO States fetched from database successfully
+2023-04-10 12:39:06.8761 INFO StateRepository: States fetched successfully
+2023-04-10 12:39:06.8761 INFO States fetched from database successfully
+2023-04-10 12:39:14.8252 INFO StateRepository: States fetched successfully
+2023-04-10 12:39:14.8252 INFO States fetched from database successfully
+2023-04-10 12:39:15.7190 INFO StateRepository: States fetched successfully
+2023-04-10 12:39:15.7190 INFO States fetched from database successfully
+2023-04-10 12:39:16.1003 INFO StateRepository: States fetched successfully
+2023-04-10 12:39:16.1003 INFO States fetched from database successfully
+2023-04-10 12:39:53.8041 INFO StateRepository: States fetched successfully
+2023-04-10 12:39:53.8041 INFO States fetched from database successfully
+2023-04-10 12:40:05.2415 INFO StateRepository: States fetched successfully
+2023-04-10 12:40:05.2415 INFO States fetched from database successfully
+2023-04-10 12:40:22.3550 INFO StateRepository: States fetched successfully
+2023-04-10 12:40:22.3550 INFO States fetched from database successfully
+2023-04-10 13:07:32.3266 INFO StateRepository: States fetched successfully
+2023-04-10 13:07:32.3266 INFO States fetched from database successfully
+2023-04-10 13:07:34.6466 INFO StateRepository: States fetched successfully
+2023-04-10 13:07:34.6466 INFO States fetched from database successfully
+2023-04-10 13:07:36.5697 INFO StateRepository: States fetched successfully
+2023-04-10 13:07:36.5700 INFO States fetched from database successfully
+2023-04-10 13:07:38.2728 INFO StateRepository: States fetched successfully
+2023-04-10 13:07:38.2730 INFO States fetched from database successfully
+2023-04-10 13:08:01.5101 INFO StateRepository: States fetched successfully
+2023-04-10 13:08:01.5101 INFO States fetched from database successfully
+2023-04-10 13:08:04.3638 INFO StateRepository: States fetched successfully
+2023-04-10 13:08:04.3638 INFO States fetched from database successfully
+2023-04-10 13:08:06.8135 INFO StateRepository: States fetched successfully
+2023-04-10 13:08:06.8135 INFO States fetched from database successfully
+2023-04-10 13:08:08.1339 INFO StateRepository: States fetched successfully
+2023-04-10 13:08:08.1339 INFO States fetched from database successfully
+2023-04-10 13:08:20.9600 INFO StateRepository: States fetched successfully
+2023-04-10 13:08:20.9600 INFO States fetched from database successfully
+2023-04-10 13:08:55.4966 INFO StateRepository: States fetched successfully
+2023-04-10 13:08:55.4966 INFO States fetched from database successfully
+2023-04-10 13:09:48.3843 INFO StateRepository: States fetched successfully
+2023-04-10 13:09:48.3843 INFO States fetched from database successfully
+2023-04-10 13:11:23.5692 INFO StateRepository: States fetched successfully
+2023-04-10 13:11:23.5692 INFO States fetched from database successfully
+2023-04-10 13:12:11.9413 INFO StateRepository: States fetched successfully
+2023-04-10 13:12:11.9413 INFO States fetched from database successfully
+2023-04-10 13:12:34.5548 INFO StateRepository: States fetched successfully
+2023-04-10 13:12:34.5548 INFO States fetched from database successfully
+2023-04-10 13:12:41.1768 INFO StateRepository: States fetched successfully
+2023-04-10 13:12:41.1768 INFO States fetched from database successfully
+2023-04-10 13:12:43.1671 INFO StateRepository: States fetched successfully
+2023-04-10 13:12:43.1671 INFO States fetched from database successfully
+2023-04-10 13:14:00.0847 INFO StateRepository: States fetched successfully
+2023-04-10 13:14:00.0847 INFO States fetched from database successfully
+2023-04-10 13:23:16.4465 INFO StateRepository: States fetched successfully
+2023-04-10 13:23:16.4465 INFO States fetched from database successfully
+2023-04-10 13:23:17.2180 INFO StateRepository: States fetched successfully
+2023-04-10 13:23:17.2180 INFO States fetched from database successfully
+2023-04-10 13:23:20.4115 INFO StateRepository: States fetched successfully
+2023-04-10 13:23:20.4115 INFO States fetched from database successfully
+2023-04-10 13:23:21.6284 INFO StateRepository: States fetched successfully
+2023-04-10 13:23:21.6284 INFO States fetched from database successfully
+2023-04-10 13:23:43.2419 INFO StateRepository: States fetched successfully
+2023-04-10 13:23:43.2419 INFO States fetched from database successfully
+2023-04-10 13:24:13.6672 INFO StateRepository: States fetched successfully
+2023-04-10 13:24:13.6672 INFO States fetched from database successfully
+2023-04-10 13:25:14.2451 INFO StateRepository: States fetched successfully
+2023-04-10 13:25:14.2451 INFO States fetched from database successfully
+2023-04-10 13:25:38.9527 INFO StateRepository: States fetched successfully
+2023-04-10 13:25:38.9527 INFO States fetched from database successfully
+2023-04-10 13:27:05.1302 INFO StateRepository: States fetched successfully
+2023-04-10 13:27:05.1302 INFO States fetched from database successfully
+2023-04-10 13:36:12.0235 INFO StateRepository: States fetched successfully
+2023-04-10 13:36:12.0235 INFO States fetched from database successfully
+2023-04-10 13:41:31.3740 INFO StateRepository: States fetched successfully
+2023-04-10 13:41:31.3740 INFO States fetched from database successfully
+2023-04-10 13:41:32.2278 INFO StateRepository: States fetched successfully
+2023-04-10 13:41:32.2278 INFO States fetched from database successfully
+2023-04-10 13:41:33.9601 INFO StateRepository: States fetched successfully
+2023-04-10 13:41:33.9601 INFO States fetched from database successfully
+2023-04-10 13:41:35.3342 INFO StateRepository: States fetched successfully
+2023-04-10 13:41:35.3342 INFO States fetched from database successfully
+2023-04-10 13:43:21.5555 INFO StateRepository: States fetched successfully
+2023-04-10 13:43:21.5555 INFO States fetched from database successfully
+2023-04-10 13:43:54.8732 INFO StateRepository: States fetched successfully
+2023-04-10 13:43:54.8732 INFO States fetched from database successfully
+2023-04-10 13:44:01.8452 INFO StateRepository: States fetched successfully
+2023-04-10 13:44:01.8452 INFO States fetched from database successfully
+2023-04-10 13:45:00.1255 INFO StateRepository: States fetched successfully
+2023-04-10 13:45:00.1255 INFO States fetched from database successfully
+2023-04-10 13:50:46.1933 INFO StateRepository: States fetched successfully
+2023-04-10 13:50:46.1933 INFO States fetched from database successfully
+2023-04-10 13:50:47.0341 INFO StateRepository: States fetched successfully
+2023-04-10 13:50:47.0341 INFO States fetched from database successfully
+2023-04-10 13:51:21.6377 INFO StateRepository: States fetched successfully
+2023-04-10 13:51:21.6377 INFO States fetched from database successfully
+2023-04-10 13:55:24.0974 INFO StateRepository: States fetched successfully
+2023-04-10 13:55:24.0974 INFO States fetched from database successfully
+2023-04-10 13:55:33.4377 INFO StateRepository: States fetched successfully
+2023-04-10 13:55:33.4377 INFO States fetched from database successfully
+2023-04-10 13:57:54.2593 INFO StateRepository: States fetched successfully
+2023-04-10 13:57:54.2593 INFO States fetched from database successfully
+2023-04-10 13:58:07.1032 INFO StateRepository: States fetched successfully
+2023-04-10 13:58:07.1032 INFO States fetched from database successfully
+2023-04-10 13:58:17.9874 INFO StateRepository: States fetched successfully
+2023-04-10 13:58:17.9874 INFO States fetched from database successfully
+2023-04-10 14:00:15.7113 INFO StateRepository: States fetched successfully
+2023-04-10 14:00:15.7113 INFO States fetched from database successfully
+2023-04-10 14:01:46.7067 INFO StateRepository: States fetched successfully
+2023-04-10 14:01:46.7067 INFO States fetched from database successfully
+2023-04-10 14:01:51.7123 INFO StateRepository: States fetched successfully
+2023-04-10 14:01:51.7123 INFO States fetched from database successfully
+2023-04-10 14:02:45.0177 INFO StateRepository: States fetched successfully
+2023-04-10 14:02:45.0177 INFO States fetched from database successfully
+2023-04-10 14:02:51.8497 INFO StateRepository: States fetched successfully
+2023-04-10 14:02:51.8497 INFO States fetched from database successfully
+2023-04-10 14:05:14.1593 INFO StateRepository: States fetched successfully
+2023-04-10 14:05:14.1593 INFO States fetched from database successfully
+2023-04-10 14:05:15.2294 INFO StateRepository: States fetched successfully
+2023-04-10 14:05:15.2294 INFO States fetched from database successfully
+2023-04-10 14:05:24.1891 INFO CityRepository: Cities fetched successfully
+2023-04-10 14:05:24.1891 INFO Cities fetched from database successfully
+2023-04-10 14:05:25.9357 INFO AreaRepository: Areas fetched successfully
+2023-04-10 14:05:25.9357 INFO Areas fetched from database successfully
+2023-04-10 14:05:31.9439 INFO StateRepository: States fetched successfully
+2023-04-10 14:05:31.9439 INFO States fetched from database successfully
+2023-04-10 14:05:41.1314 INFO CityRepository: Cities fetched successfully
+2023-04-10 14:05:41.1314 INFO Cities fetched from database successfully
+2023-04-10 14:10:17.0219 INFO StateRepository: States fetched successfully
+2023-04-10 14:10:17.0219 INFO States fetched from database successfully
+2023-04-10 14:10:18.2475 INFO StateRepository: States fetched successfully
+2023-04-10 14:10:18.2475 INFO States fetched from database successfully
+2023-04-10 14:10:22.6554 INFO CityRepository: Cities fetched successfully
+2023-04-10 14:10:22.6554 INFO Cities fetched from database successfully
+2023-04-10 14:10:24.2867 INFO AreaRepository: Areas fetched successfully
+2023-04-10 14:10:24.2867 INFO Areas fetched from database successfully
+2023-04-10 14:37:18.2305 INFO StateRepository: States fetched successfully
+2023-04-10 14:37:18.2305 INFO States fetched from database successfully
+2023-04-10 14:37:19.7125 INFO StateRepository: States fetched successfully
+2023-04-10 14:37:19.7125 INFO States fetched from database successfully
+2023-04-10 14:37:23.1965 INFO CityRepository: Cities fetched successfully
+2023-04-10 14:37:23.1965 INFO Cities fetched from database successfully
+2023-04-10 14:37:26.0835 INFO AreaRepository: Areas fetched successfully
+2023-04-10 14:37:26.0835 INFO Areas fetched from database successfully
+2023-04-10 15:04:05.3052 INFO StateRepository: States fetched successfully
+2023-04-10 15:04:05.3052 INFO States fetched from database successfully
+2023-04-10 15:04:06.2239 INFO StateRepository: States fetched successfully
+2023-04-10 15:04:06.2239 INFO States fetched from database successfully
+2023-04-10 15:04:12.4040 INFO CityRepository: Cities fetched successfully
+2023-04-10 15:04:12.4040 INFO Cities fetched from database successfully
+2023-04-10 15:04:16.1782 INFO AreaRepository: Areas fetched successfully
+2023-04-10 15:04:16.1782 INFO Areas fetched from database successfully
+2023-04-10 15:04:41.5540 INFO StateRepository: States fetched successfully
+2023-04-10 15:04:41.5540 INFO States fetched from database successfully
+2023-04-10 15:11:47.6326 INFO StateRepository: States fetched successfully
+2023-04-10 15:11:47.6326 INFO States fetched from database successfully
+2023-04-10 15:12:13.6302 INFO CityRepository: Cities fetched successfully
+2023-04-10 15:12:13.6302 INFO Cities fetched from database successfully
+2023-04-10 15:12:17.6458 INFO CityRepository: Cities fetched successfully
+2023-04-10 15:12:17.6458 INFO Cities fetched from database successfully
+2023-04-10 15:12:21.0891 INFO AreaRepository: Areas fetched successfully
+2023-04-10 15:12:21.0891 INFO Areas fetched from database successfully
+2023-04-10 15:12:58.6379 INFO StateRepository: States fetched successfully
+2023-04-10 15:12:58.6379 INFO States fetched from database successfully
+2023-04-10 15:14:25.4215 INFO StateRepository: States fetched successfully
+2023-04-10 15:14:25.4215 INFO States fetched from database successfully
+2023-04-10 15:14:26.1315 INFO StateRepository: States fetched successfully
+2023-04-10 15:14:26.1315 INFO States fetched from database successfully
+2023-04-10 15:14:29.0749 INFO CityRepository: Cities fetched successfully
+2023-04-10 15:14:29.0749 INFO Cities fetched from database successfully
+2023-04-10 15:14:31.2589 INFO AreaRepository: Areas fetched successfully
+2023-04-10 15:14:31.2589 INFO Areas fetched from database successfully
+2023-04-10 15:15:13.2118 INFO StateRepository: States fetched successfully
+2023-04-10 15:15:13.2118 INFO States fetched from database successfully
+2023-04-10 15:58:23.1121 INFO StateRepository: States fetched successfully
+2023-04-10 15:58:23.1121 INFO States fetched from database successfully
+2023-04-10 15:58:23.9022 INFO StateRepository: States fetched successfully
+2023-04-10 15:58:23.9022 INFO States fetched from database successfully
+2023-04-10 16:31:18.5322 INFO StateRepository: States fetched successfully
+2023-04-10 16:31:18.6643 INFO States fetched from database successfully
+2023-04-10 17:31:18.0449 INFO StateRepository: States fetched successfully
+2023-04-10 17:31:18.0449 INFO States fetched from database successfully
+2023-04-10 17:31:20.5706 INFO StateRepository: States fetched successfully
+2023-04-10 17:31:20.5706 INFO States fetched from database successfully
+2023-04-10 17:31:31.3717 INFO CityRepository: Cities fetched successfully
+2023-04-10 17:31:31.3717 INFO Cities fetched from database successfully
+2023-04-10 17:31:33.8009 INFO AreaRepository: Areas fetched successfully
+2023-04-10 17:31:33.8009 INFO Areas fetched from database successfully
+2023-04-10 17:32:17.2113 INFO StateRepository: States fetched successfully
+2023-04-10 17:32:17.2113 INFO States fetched from database successfully
+2023-04-10 17:32:24.2685 INFO StateRepository: States fetched successfully
+2023-04-10 17:32:24.2685 INFO States fetched from database successfully
+2023-04-10 17:32:28.7238 INFO CityRepository: Cities fetched successfully
+2023-04-10 17:32:28.7238 INFO Cities fetched from database successfully
+2023-04-10 17:32:30.9035 INFO CityRepository: Cities fetched successfully
+2023-04-10 17:32:30.9035 INFO Cities fetched from database successfully
+2023-04-10 17:32:32.9184 INFO AreaRepository: Areas fetched successfully
+2023-04-10 17:32:32.9184 INFO Areas fetched from database successfully
+2023-04-10 17:33:14.3582 INFO StateRepository: States fetched successfully
+2023-04-10 17:33:14.3582 INFO States fetched from database successfully
+2023-04-10 20:18:57.2005 INFO User user@example.com found
+2023-04-10 20:18:57.6126 ERROR UserRepo: User could not be added
+2023-04-10 20:18:57.6126 ERROR City could not be added
+2023-04-10 20:19:08.1323 INFO User user@example.com found
+2023-04-10 20:19:08.2446 ERROR UserRepo: User could not be added
+2023-04-10 20:19:08.2446 ERROR City could not be added
+2023-04-10 20:19:27.4392 INFO User user@example.com found
+2023-04-10 20:19:27.4517 ERROR UserRepo: User could not be added
+2023-04-10 20:19:27.4517 ERROR City could not be added
+2023-04-10 20:20:28.6696 INFO User user@example.com found
+2023-04-10 20:24:12.6716 INFO User string found
+2023-04-10 20:24:12.8924 ERROR UserRepo: User could not be added
+2023-04-10 20:24:12.8924 ERROR City could not be added
+2023-04-10 20:24:25.9499 INFO User user@example.com found
+2023-04-10 20:24:26.0962 ERROR UserRepo: User could not be added
+2023-04-10 20:24:26.0962 ERROR City could not be added
+2023-04-10 20:24:39.1415 INFO User user@example.com found
+2023-04-10 20:24:39.1415 ERROR UserRepo: User could not be added
+2023-04-10 20:24:39.1415 ERROR City could not be added
+2023-04-10 20:35:38.2945 INFO User string found
+2023-04-10 20:35:38.7166 ERROR UserRepo: User could not be added
+2023-04-10 20:35:38.7166 ERROR City could not be added
+2023-04-10 20:36:02.4243 INFO User user@example.com found
+2023-04-10 20:42:45.5292 INFO User user@example.com found
+2023-04-10 20:43:45.7822 ERROR UserRepo: User could not be added
+2023-04-10 20:43:45.8278 ERROR City could not be added
+2023-04-10 20:48:44.4986 INFO User user@example.com found
+2023-04-10 20:50:12.7434 ERROR UserRepo: User could not be added
+2023-04-10 20:50:12.7512 ERROR City could not be added
+2023-04-10 20:56:40.7007 INFO User user@example.com found
+2023-04-10 20:56:44.9578 INFO Vehicle found
+2023-04-10 20:57:27.6189 ERROR UserRepo: User could not be added
+2023-04-10 20:57:27.6189 ERROR City could not be added
+2023-04-10 20:57:30.3775 INFO User user@example.com found
+2023-04-10 20:58:55.1392 INFO User user@example.com found
+2023-04-10 21:03:10.5298 INFO User user@example.com found
+2023-04-10 21:03:18.9428 INFO User user@example.com found
+2023-04-10 21:03:29.8908 INFO Vehicle found
+2023-04-10 21:03:33.3565 INFO UserRepo: User added sucessfully
+2023-04-10 21:03:37.3496 INFO City added sucessfully
+2023-04-10 21:04:31.9187 INFO UserRepository: Users fetched successfully
+2023-04-10 21:04:32.1098 INFO User logged in successfully
+2023-04-10 21:04:32.2587 INFO yashika@gmail.com found sucessfully
+2023-04-10 21:04:43.9497 INFO StateRepository: States fetched successfully
+2023-04-10 21:04:43.9497 INFO States fetched from database successfully
+2023-04-10 21:04:44.4640 INFO StateRepository: States fetched successfully
+2023-04-10 21:04:44.4640 INFO States fetched from database successfully
+2023-04-10 21:04:49.2906 INFO CityRepository: Cities fetched successfully
+2023-04-10 21:04:49.2906 INFO Cities fetched from database successfully
+2023-04-10 21:04:51.5971 INFO AreaRepository: Areas fetched successfully
+2023-04-10 21:04:51.5971 INFO Areas fetched from database successfully
+2023-04-10 21:05:13.9378 INFO StateRepository: States fetched successfully
+2023-04-10 21:05:13.9378 INFO States fetched from database successfully
+2023-04-10 21:05:21.6289 INFO User yashika@gmail.com found
+2023-04-10 21:05:21.8423 INFO User yashika@gmail.com found
+2023-04-10 21:05:21.8423 INFO Vehicle found
+2023-04-10 21:05:21.8713 INFO UserRepo: User added sucessfully
+2023-04-10 21:05:21.8713 INFO City added sucessfully
+2023-04-10 21:12:08.7167 INFO yashika@gmail.com found sucessfully
+2023-04-10 22:21:32.0594 INFO UserRepository: Users fetched successfully
+2023-04-10 22:21:32.3992 INFO User logged in successfully

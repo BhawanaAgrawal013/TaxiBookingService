@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HT+CZeQz8s42yIWEaasd8DpCXbL0ouTI6xmA8O7kn44=",
+  "Source": "TaxiBookingApi",
+  "BasePath": "_content/TaxiBookingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
